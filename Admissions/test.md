@@ -3,11 +3,11 @@ title: "Test Page for Git to WordPress Sync"
 date: 2025-02-21
 ---
 
-# 🏛️ Welcome to the Test Page
+# Welcome to the Test Page
 
 This is a **test markdown file** to check the synchronization between **GitHub and WordPress**.
 
-## 📌 Markdown Features
+## Markdown Features
 
 ### ✅ **Headers**
 - `#` H1: Main title  
@@ -27,7 +27,7 @@ This is a **test markdown file** to check the synchronization between **GitHub a
   - Sub-item A
   - Sub-item B
 
-#### 🔢 Ordered List
+#### Ordered List
 1. First item
 2. Second item
 3. Third item  
@@ -36,7 +36,7 @@ This is a **test markdown file** to check the synchronization between **GitHub a
 > "Knowledge is power." – Francis Bacon  
 
 ### ✅ **Code Blocks**
-#### 🖥️ Python Example:
+#### Python Example:
 ```python
 def hello_world():
     print("Hello, UOS!")
