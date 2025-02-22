@@ -1,4 +1,4 @@
-The **Department of Ontology** at the **University of Ontological Science (UOS)** is dedicated to the **systematic study of existence, reality, and structured knowledge systems**, offering a rigorous, interdisciplinary approach that integrates **philosophical ontology, ontological engineering, and computational ontology**. This department serves as the intellectual foundation of the university, providing a bridge between **classical metaphysical inquiry and modern applications in artificial intelligence, machine reasoning, and advanced knowledge representation**.
+The **Department of Ontology** at the **University of Ontological Science ** is dedicated to the **systematic study of existence, reality, and structured knowledge systems**, offering a rigorous, interdisciplinary approach that integrates **philosophical ontology, ontological engineering, and computational ontology**. This department serves as the intellectual foundation of the university, providing a bridge between **classical metaphysical inquiry and modern applications in artificial intelligence, machine reasoning, and advanced knowledge representation**.
 
 At its core, ontology explores the **nature of being, the classification of entities, and the relationships that govern conceptual structures**. Throughout history, ontological inquiry has been central to philosophy, logic, and epistemology, shaping our understanding of **what exists, how entities relate, and how knowledge can be structured**. However, in the modern era, ontology has expanded beyond its philosophical origins to become a key discipline in **artificial intelligence, data science, cognitive modeling, and computational reasoning**.
 
@@ -38,33 +38,33 @@ From developing **ontology-driven AI architectures** to refining **epistemic mod
 
 By fostering **both foundational scholarship and real-world application**, the **Department of Ontology** at UOS stands as a **pioneering institution dedicated to advancing the study of existence, knowledge structuring, and intelligent system design**.
 
-**Degree Programs**
+## **Degree Programs**
 
 The **Department of Ontology** offers **nine specialized degree programs**, each designed to provide a strong foundation in **both theoretical and applied ontological sciences**. These programs equip students with **conceptual, analytical, and computational skills**, preparing them for **academic research, AI development, and knowledge-based system engineering**.
 
 ## **Bachelor’s Programs (Undergraduate Level)**
 
-**B.Sc. Ontology** – A comprehensive introduction to ontology, covering **metaphysical structures, formal logic, and conceptual analysis**.
+**Bachelor of Science Ontology** – A comprehensive introduction to ontology, covering **metaphysical structures, formal logic, and conceptual analysis**.
 
-**B.Sc. Ontological Engineering** – A specialized program focusing on **knowledge structuring, logical frameworks, and applied ontological systems** in AI.
+**Bachelor of Science Ontological Engineering** – A specialized program focusing on **knowledge structuring, logical frameworks, and applied ontological systems** in AI.
 
-**B.Sc. Computational Ontology** – Exploring **ontology-based artificial intelligence, automated reasoning, and knowledge representation** in computing.
+**Bachelor of Science Computational Ontology** – Exploring **ontology-based artificial intelligence, automated reasoning, and knowledge representation** in computing.
 
 ## **Master’s Programs (Graduate Level)**
 
-**M.Sc. Ontology** – Advanced studies in **formal ontology, classification theories, and the metaphysical foundations of reality**.
+**Master of Science Ontology** – Advanced studies in **formal ontology, classification theories, and the metaphysical foundations of reality**.
 
-**M.Sc. Ontological Engineering** – Applied training in **ontology-driven AI, semantic web technologies, and structured knowledge modeling**.
+**Master of Science Ontological Engineering** – Applied training in **ontology-driven AI, semantic web technologies, and structured knowledge modeling**.
 
-**M.Sc. Computational Ontology** – Developing computational ontologies for **machine learning, AI reasoning, and intelligent data organization**.
+**Master of Science Computational Ontology** – Developing computational ontologies for **machine learning, AI reasoning, and intelligent data organization**.
 
-## **Doctoral Programs (Ph.D. Level)**
+## **Doctoral Programs (Ph.D. in Level)**
 
-**Ph.D. Ontology** – Original research in **existence, fundamental ontological principles, and high-level conceptual modeling**.
+**Ph.D. in Ontology** – Original research in **existence, fundamental ontological principles, and high-level conceptual modeling**.
 
-**Ph.D. Ontological Engineering** – Investigating **advanced applications of structured ontologies in AI, expert systems, and intelligent automation**.
+**Ph.D. in Ontological Engineering** – Investigating **advanced applications of structured ontologies in AI, expert systems, and intelligent automation**.
 
-**Ph.D. Computational Ontology** – Cutting-edge research on **AI-driven knowledge frameworks, machine reasoning, and cognitive inference models**.
+**Ph.D. in Computational Ontology** – Cutting-edge research on **AI-driven knowledge frameworks, machine reasoning, and cognitive inference models**.
 
 These programs **train students to become scholars, researchers, and industry leaders**, equipping them with **theoretical depth and practical application skills** to advance **philosophy, AI, and structured reasoning systems**.
 
@@ -104,7 +104,7 @@ With its **interdisciplinary approach and focus on both foundational theory and 
 
 ### **Conclusion: Advancing Ontological Science & Intelligent Systems**
 
-The **Department of Ontology** at the **University of Ontological Science (UOS)** stands at the **forefront of ontological research and applied knowledge engineering**. By **integrating classical ontology, formal logic, and computational methodologies**, our department provides a **holistic, interdisciplinary foundation** for understanding and structuring **the fundamental nature of reality, intelligence, and conceptual organization**.
+The **Department of Ontology** at the **University of Ontological Science ** stands at the **forefront of ontological research and applied knowledge engineering**. By **integrating classical ontology, formal logic, and computational methodologies**, our department provides a **holistic, interdisciplinary foundation** for understanding and structuring **the fundamental nature of reality, intelligence, and conceptual organization**.
 
 Through **highly specialized degree programs, interdisciplinary research initiatives, and practical AI-driven applications**, we prepare the next generation of **ontologists, AI researchers, philosophers, and knowledge engineers** to **push the boundaries of thought, intelligence, and structured reasoning in the modern era**.
 

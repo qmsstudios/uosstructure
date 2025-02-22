@@ -1,79 +1,83 @@
-1.	**MCS 601 – Mindfulness-Based Cognitive Science**
+# GLEP – Department of Mindfulness & Integrative Practices
 
-Exploration of cognitive science research and its application in mindfulness-based practices. Focus on perception, attention, and self-regulation.
+## Graduate Elective
 
-2.	**MCS 602 – Contemplative Traditions and Neuroscience**
+### 1. MCS 601 – Mindfulness-Based Cognitive Science
 
-Study of contemplative traditions from a neuroscience perspective. Emphasis on neuroplasticity, attention regulation, and well-being.
+Exploration of cognitive science research and its application in mindfulness-based practices. This course focuses on understanding the mechanisms of perception, attention, and self-regulation through the lens of cognitive science. Students will engage with current research and practical exercises to deepen their understanding of how mindfulness can enhance cognitive functions.
 
-3.	**MCS 603 – Mindfulness and Emotional Intelligence**
+### 2. MCS 602 – Contemplative Traditions and Neuroscience
 
-Examination of how mindfulness practices cultivate emotional intelligence and resilience. Practical training included.
+Study of contemplative traditions from a neuroscience perspective. This course emphasizes the concepts of neuroplasticity, attention regulation, and well-being. Students will explore how ancient contemplative practices can be understood and applied through modern neuroscience, with practical sessions to experience these effects firsthand.
 
-4.	**MCS 604 – Advanced Mindful Leadership Practices**
+### 3. MCS 603 – Mindfulness and Emotional Intelligence
 
-Application of mindfulness principles in leadership and organizational development. Focus on cultivating emotional intelligence and strategic awareness.
+Examination of how mindfulness practices cultivate emotional intelligence and resilience. The course includes practical training in mindfulness techniques that enhance self-awareness, self-regulation, and empathy. Students will learn to apply these skills in personal and professional contexts to improve emotional well-being and interpersonal relationships.
 
-5.	**MCS 605 – Compassionate Communication and Relational Mindfulness**
+### 4. MCS 604 – Advanced Mindful Leadership Practices
 
-Study of relational mindfulness and the role of compassion in communication. Emphasis on conflict resolution and empathic presence.
+Application of mindfulness principles in leadership and organizational development. This course focuses on cultivating emotional intelligence, strategic awareness, and ethical decision-making in leadership roles. Students will engage in experiential learning to develop mindful leadership skills that promote a positive organizational culture.
 
-6.	**QMI 601 – Quantum Mindfulness and Decision-Making**
+### 5. MCS 605 – Compassionate Communication and Relational Mindfulness
 
-Exploration of quantum cognition models in decision-making processes. Emphasis on cognitive superposition and psychodynamic interference.
+Study of relational mindfulness and the role of compassion in communication. The course emphasizes conflict resolution, empathic presence, and effective communication strategies. Students will practice techniques to enhance compassionate interactions and build stronger, more empathetic relationships.
 
-7.	**QMI 602 – Cognitive Collapse and Conscious Intent**
+### 6. QMI 601 – Quantum Mindfulness and Decision-Making
 
-Study of the role of conscious intent in collapsing cognitive potentials into focused states. Practical applications included.
+Exploration of quantum cognition models in decision-making processes. This course emphasizes cognitive superposition and psychodynamic interference, providing students with a unique perspective on how mindfulness can influence decision-making. Practical applications of these concepts will be explored through case studies and exercises.
 
-8.	**QMI 603 – Non-Local Mindfulness and Distributed Cognition**
+### 7. QMI 602 – Cognitive Collapse and Conscious Intent
 
-Examination of non-local cognition and distributed consciousness in mindfulness practices.
+Study of the role of conscious intent in collapsing cognitive potentials into focused states. This course includes practical applications and exercises to help students understand and harness the power of conscious intent in achieving mental clarity and focus.
 
-9.	**QMI 604 – Energy Dynamics in Quantum Mindfulness**
+### 8. QMI 603 – Non-Local Mindfulness and Distributed Cognition
 
-Study of energy dynamics and their influence on mind states and emotional regulation in Quantum Mindfulness practices.
+Examination of non-local cognition and distributed consciousness in mindfulness practices. Students will explore theories and practices that extend beyond individual cognition, considering the interconnectedness of minds and the implications for mindfulness.
 
-10.	**MCS 606 – Somatic Mindfulness and Embodiment Practices**
+### 9. QMI 604 – Energy Dynamics in Quantum Mindfulness
 
-Practical exploration of body-centered mindfulness practices. Emphasis on grounding, breath awareness, and somatic integration.
+Study of energy dynamics and their influence on mind states and emotional regulation in Quantum Mindfulness practices. This course provides a deep dive into the energetic aspects of mindfulness, with practical exercises to help students manage and optimize their mental and emotional energy.
 
-11.	**QMI 605 – Psychodynamic Wave Theory and Cognitive Flow**
+### 10. MCS 606 – Somatic Mindfulness and Embodiment Practices
 
-Investigation of psychodynamic wave theory and its relationship to cognitive flow states.
+Practical exploration of body-centered mindfulness practices. This course emphasizes grounding, breath awareness, and somatic integration. Students will engage in exercises that promote a deeper connection between mind and body, enhancing overall well-being.
 
-12.	**MCS 607 – Trauma-Informed Mindfulness**
+### 11. QMI 605 – Psychodynamic Wave Theory and Cognitive Flow
 
-Study of trauma-informed mindfulness practices for resilience and recovery.
+Investigation of psychodynamic wave theory and its relationship to cognitive flow states. This course explores the dynamic interplay between psychological processes and cognitive performance, with practical applications to enhance flow states in various activities.
 
-13.	**MCS 608 – Mindfulness in Clinical and Educational Settings**
+### 12. MCS 607 – Trauma-Informed Mindfulness
 
-Application of mindfulness techniques in clinical psychology and education.
+Study of trauma-informed mindfulness practices for resilience and recovery. This course provides an understanding of how mindfulness can be adapted to support individuals who have experienced trauma, with practical techniques for fostering resilience and healing.
 
-14.	**QMI 606 – Advanced Practices in Quantum Cognitive Optimization**
+### 13. MCS 608 – Mindfulness in Clinical and Educational Settings
 
-Advanced exploration of cognitive optimization strategies within the Quantum Mindfulness framework.
+Application of mindfulness techniques in clinical psychology and education. Students will learn how to integrate mindfulness practices into therapeutic and educational environments to support mental health and learning outcomes.
 
-15.	**MCS 609 – Mindful Attention and Focus Training**
+### 14. QMI 606 – Advanced Practices in Quantum Cognitive Optimization
 
-Practical course in mindful attention and focus training. Emphasis on concentration and meta-awareness.
+Advanced exploration of cognitive optimization strategies within the Quantum Mindfulness framework. This course delves into cutting-edge techniques for enhancing cognitive performance and mental clarity, with practical applications for personal and professional development.
 
-16.	**MCS 610 – Integrative Health and Mindful Living**
+### 15. MCS 609 – Mindful Attention and Focus Training
 
-Study of integrative health approaches that incorporate mindfulness for holistic well-being.
+Practical course in mindful attention and focus training. This course emphasizes concentration and meta-awareness, providing students with tools and techniques to improve their attention span and focus in various contexts.
 
-17.	**QMI 607 – Multidimensional Awareness and Cognitive Expansion**
+### 16. MCS 610 – Integrative Health and Mindful Living
 
-Study of multidimensional awareness practices and their cognitive benefits.
+Study of integrative health approaches that incorporate mindfulness for holistic well-being. This course explores the intersection of mindfulness with other health practices, promoting a balanced and mindful approach to living.
 
-18.	**MCS 611 – Mindfulness in Digital Environments**
+### 17. QMI 607 – Multidimensional Awareness and Cognitive Expansion
 
-Exploration of mindfulness practices adapted for the digital age. Topics include mindful technology use and virtual mindfulness training.
+Study of multidimensional awareness practices and their cognitive benefits. This course provides students with techniques to expand their awareness and enhance cognitive flexibility, with practical applications for personal growth and development.
 
-19.	**QMI 608 – Emotional Resonance and Interpersonal Dynamics**
+### 18. MCS 611 – Mindfulness in Digital Environments
 
-Study of emotional resonance and interpersonal dynamics in Quantum Mindfulness practices.
+Exploration of mindfulness practices adapted for the digital age. Topics include mindful technology use and virtual mindfulness training. Students will learn strategies to maintain mindfulness in an increasingly digital world.
 
-20.	**MCS 612 – Mindfulness-Based Stress Reduction (MBSR) in Practice**
+### 19. QMI 608 – Emotional Resonance and Interpersonal Dynamics
 
-Practical training in Mindfulness-Based Stress Reduction (MBSR) and its application in various contexts.
+Study of emotional resonance and interpersonal dynamics in Quantum Mindfulness practices. This course explores the impact of emotional states on interpersonal interactions, with practical exercises to enhance emotional intelligence and relational skills.
+
+### 20. MCS 612 – Mindfulness-Based Stress Reduction (MBSR) in Practice
+
+Practical training in Mindfulness-Based Stress Reduction (MBSR) and its application in various contexts. This course provides students with the skills to implement MBSR techniques to manage stress and improve overall well-being.

@@ -1,85 +1,39 @@
-The Doctor of Philosophy in Sentient Technology is a research-driven program that focuses on the development, design, and ethical governance of sentient-like systems. This interdisciplinary program bridges cognitive science, robotics, artificial intelligence, and ethics to explore self-organizing systems, adaptive intelligence, and human-sentient collaboration.
+### **SNT 701 – Foundations of Sentient Systems (3 credits)**
 
-Doctoral students will engage in advanced research in areas such as consciousness simulation, emotional synthesis, and multi-agent collaboration while contributing original insights to the emerging field of sentient technology. This program prepares students for academic research, AI innovation, and leadership roles in designing ethical frameworks for adaptive, sentient systems.
+This course provides an in-depth exploration of the core principles underlying sentient systems. Students will delve into topics such as autonomous adaptation, cognitive evolution, and self-awareness in artificial systems. The course will cover theoretical foundations as well as practical applications, enabling students to understand and develop systems that can adapt and evolve autonomously.
 
-**About the Program**
+### **SNT 702 – Human-Sentient Interaction and Interface Design (3 credits)**
 
-The Ph.D. in Sentient Technology offers a comprehensive study of cognitive architectures, emotional modeling, and distributed sentience. Students will explore how autonomous systems simulate cognitive processes and develop adaptive empathy, focusing on creating intelligent, self-regulating systems.
+In this course, students will study the interaction between humans and sentient systems, focusing on the design of adaptive interfaces that facilitate collaboration. Key topics include usability, communication, and feedback mechanisms. Students will learn to design interfaces that enhance the user experience and improve the efficiency of human-sentient collaboration.
 
-This program emphasizes both theoretical foundations and practical applications, equipping students to design sentient systems while addressing the complex ethical implications of these technologies. Doctoral candidates will undertake rigorous research, culminating in an original dissertation that advances the field of sentient technology.
+### **SNT 703 – Consciousness Simulation and Cognitive Architectures (3 credits)**
 
-The program covers a wide range of topics, including human-sentient interaction, swarm intelligence, and affective computing, offering a robust foundation for those seeking to innovate at the frontier of AI and cognitive systems.
+This course examines the simulation of consciousness and the development of cognitive architectures in sentient systems. Students will explore emergent properties, self-organizing behavior, and the theoretical underpinnings of consciousness in artificial systems. The course will include both theoretical discussions and practical exercises in simulating cognitive processes.
 
-**Key Areas of Study**
+### **SNT 704 – Collective Intelligence and Sentient Networks (3 credits)**
 
-- Cognitive Architectures and Consciousness Simulation
-- Human-Sentient Interaction and Interface Design
-- Distributed Sentience and Collective Intelligence
-- Emotional Synthesis and Adaptive Empathy
-- Ethical Governance and Societal Implications
+Students in this course will investigate the concept of collective intelligence within sentient networks. The course will cover distributed sentience, swarm behavior, and multi-agent collaboration. Through case studies and practical projects, students will learn how to design and implement systems that leverage collective intelligence for enhanced performance and problem-solving.
 
-**Who Should Enroll?**
+### **SNT 705 – Emotional Synthesis and Adaptive Empathy (3 credits)**
 
-This program is ideal for AI researchers, cognitive scientists, robotics engineers, and technology ethicists interested in the future of sentient systems. Whether pursuing advanced research or contributing to the development of adaptive systems, this program prepares students to lead and innovate in the rapidly evolving field of sentient technology.
+This course focuses on the modeling of emotions and the development of adaptive empathy in sentient technology. Students will study affective computing and the role of emotional intelligence in artificial systems. The course will include practical exercises in designing systems that can recognize, interpret, and respond to human emotions in a meaningful way.
 
-**Core Curriculum & Program Structure**
+### **SNT 706 – Ethical Implications and Governance of Sentient Technology (3 credits)**
 
-**Year One – Foundations of Sentient Technology**
+In this course, students will analyze the ethical challenges and governance models associated with sentient technology. Topics include the rights of sentient beings, the societal implications of sentient systems, and the frameworks for ensuring ethical development and deployment. The course will involve critical discussions and case studies to explore these complex issues.
 
-**Fall Semester 1**
+### **SNT 800 – Dissertation Proposal Seminar (3 credits)**
 
-•	**SNT 701 – Foundations of Sentient Systems (3 credits)**
+This seminar is designed to help students develop a dissertation proposal on an innovative topic in sentient technology. Students will receive guidance on formulating research questions, conducting literature reviews, and designing research methodologies. The seminar will include peer reviews and feedback sessions to refine and strengthen the proposals.
 
-Exploration of the core principles of sentient systems, focusing on autonomous adaptation, cognitive evolution, and self-awareness in artificial systems.
+### **SNT 801 – Dissertation Research I (3 credits)**
 
-•	**SNT 702 – Human-Sentient Interaction and Interface Design (3 credits)**
+In this course, students will engage in independent research under the supervision of faculty members. The focus will be on developing sentient systems or related theoretical models. Students will conduct experiments, collect data, and begin the process of analyzing their findings.
 
-Study of human-sentient interaction and the design of adaptive interfaces for collaborative systems. Emphasis on usability, communication, and feedback mechanisms.
+### **SNT 802 – Dissertation Research II (3 credits)**
 
-•	**SNT 703 – Consciousness Simulation and Cognitive Architectures (3 credits)**
+This course is a continuation of Dissertation Research I. Students will synthesize their research findings, continue data analysis, and prepare their dissertation for submission. The course will include regular progress reviews and feedback from faculty advisors to ensure the research is on track.
 
-Examination of cognitive architectures and consciousness simulation in sentient systems. Topics include emergent properties and self-organizing behavior.
+### **SNT 803 – Dissertation Defense (3 credits)**
 
-**Spring Semester 2**
-
-•	**SNT 704 – Collective Intelligence and Sentient Networks (3 credits)**
-
-Investigation of collective intelligence in sentient networks, focusing on distributed sentience, swarm behavior, and multi-agent collaboration.
-
-•	**SNT 705 – Emotional Synthesis and Adaptive Empathy (3 credits)**
-
-Study of emotional modeling and adaptive empathy in sentient technology. Emphasis on affective computing and emotional intelligence in artificial systems.
-
-•	**SNT 706 – Ethical Implications and Governance of Sentient Technology (3 credits)**
-
-Analysis of the ethical challenges, governance models, and societal implications of sentient technology. Topics include rights of sentient beings and human-technology coexistence.
-
-•	**General Research Elective (3 credits)**
-
-**Year Two – Advanced Research & Specialization**
-
-**Fall Semester 3**
-
-•	**SNT 800 – Dissertation Proposal Seminar (3 credits)**
-
-Development of a dissertation proposal focused on an innovative topic in sentient technology.
-
-•	**SNT 801 – Dissertation Research I (3 credits)**
-
-Independent research under faculty supervision, focusing on developing sentient systems or related theoretical models.
-
-**Spring Semester 4**
-
-•	**SNT 802 – Dissertation Research II (3 credits)**
-
-Continuation of dissertation research, synthesizing findings and preparing the dissertation for submission.
-
-•	**SNT 803 – Dissertation Defense (3 credits)**
-
-Formal defense of the doctoral dissertation. Students must demonstrate original contributions to the development or theory of sentient technology.
-
-**Year Three and Beyond – Dissertation Completion**
-
-Doctoral candidates will focus primarily on completing their dissertation, engaging in independent research, and participating in seminars and workshops related to their field. Successful completion of the dissertation and defense will mark the final milestone of the program.
-
-[**Doctor of Philosophy in Sentient Technology (Ph.D. Sentient Technology)**](https://www.notion.so/Doctor-of-Philosophy-in-Sentient-Technology-Ph-D-Sentient-Technology-1952c2ffeee2803c848dd7f1573e3673?pvs=21)
+In this final course, students will formally defend their doctoral dissertation. They must demonstrate original contributions to the development or theory of sentient technology. The defense will include a presentation of the research findings, followed by a question-and-answer session with a panel of experts.

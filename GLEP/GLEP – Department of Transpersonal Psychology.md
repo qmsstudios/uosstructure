@@ -1,79 +1,21 @@
-1.	**TPS 601 – Advanced Theories of Self-Transcendence**
+# GLEP – Department of Transpersonal Psychology
 
-Exploration of advanced theories of self-transcendence and their application in transpersonal psychology.
+## Graduate Elective
 
-2.	**TPS 602 – Archetypal Psychology and Symbolism**
+### 1. TPS 601 – Advanced Theories of Self-Transcendence
 
-Study of archetypes and symbolism in psychological development. Emphasis on Jungian theory and cultural interpretations of symbols.
+Exploration of advanced theories of self-transcendence and their application in transpersonal psychology. This course delves into the various models and frameworks that explain self-transcendence, examining their implications for personal growth and psychological well-being. Students will engage with contemporary research and case studies to understand the transformative potential of self-transcendence.
 
-3.	**TPS 603 – Holotropic States and Transformation**
+### 2. TPS 602 – Archetypal Psychology and Symbolism
 
-Examination of holotropic states of consciousness and their role in personal transformation and healing.
+Study of archetypes and symbolism in psychological development. Emphasis on Jungian theory and cultural interpretations of symbols. The course covers the role of archetypes in shaping the human psyche and explores how symbols function in different cultural contexts. Students will analyze myths, dreams, and artistic expressions to uncover the deeper layers of the unconscious mind.
 
-4.	**TPS 604 – Mind-Body Energy Systems**
+### 3. TPS 603 – Holotropic States and Transformation
 
-Study of mind-body energy systems in transpersonal psychology. Topics include energy healing modalities and somatic awareness.
+Examination of holotropic states of consciousness and their role in personal transformation and healing. This course investigates the therapeutic potential of altered states of consciousness, such as those induced by breathwork, meditation, and psychedelics. Students will learn about the historical and contemporary uses of these states in various healing traditions.
 
-5.	**TPS 605 – Transpersonal Psychotherapy Techniques**
+### 4. TPS 604 – Mind-Body Energy Systems
 
-Practical course on transpersonal psychotherapy techniques. Focus on integrative approaches to spiritual and psychological well-being.
+Study of mind-body energy systems in transpersonal psychology. Topics include energy healing modalities and somatic awareness. The course provides an overview of different energy systems, such as chakras and meridians, and their relevance to psychological health. Students will explore techniques for enhancing somatic awareness and integrating energy healing into therapeutic practice.
 
-6.	**TPS 606 – Cross-Cultural Perspectives on Spiritual Development**
-
-Investigation of spiritual development from a cross-cultural perspective. Emphasis on comparative analysis of Eastern and Western traditions.
-
-7.	**TPS 607 – The Role of Myth in Personal and Collective Transformation**
-
-Study of myth and its psychological role in personal and collective transformation.
-
-8.	**TPS 608 – Creative Expression and Transpersonal Growth**
-
-Exploration of creative processes as a pathway to transpersonal growth. Topics include art therapy, expressive writing, and music therapy.
-
-9.	**PSY 601 – Psychodynamics of the Unconscious Mind**
-
-Advanced study of unconscious processes and their influence on behavior and personality development.
-
-10.	**PSY 602 – Psychodynamic Perspectives on Relationships**
-
-Examination of psychodynamic perspectives on interpersonal relationships, attachment theory, and relational dynamics.
-
-11.	**PSY 603 – Emotion, Memory, and the Unconscious**
-
-Study of the psychodynamics of emotion and memory, focusing on unconscious influences on emotional regulation and behavior.
-
-12.	**PSY 604 – Trauma and Resilience in Psychodynamics**
-
-Exploration of trauma and resilience through a psychodynamic lens. Focus on therapeutic strategies for trauma recovery.
-
-13.	**SNT 601 – Sentient AI and Cognitive Evolution**
-
-Study of cognitive evolution in sentient AI systems. Topics include emergent properties and adaptive learning.
-
-14.	**SNT 602 – Consciousness and Artificial Life**
-
-Exploration of consciousness models in artificial life forms and self-organizing systems.
-
-15.	**SNT 603 – Sentient System Ethics**
-
-Analysis of ethical challenges in developing and integrating sentient technology. Topics include rights, autonomy, and sentient AI governance.
-
-16.	**SNT 604 – Human-Sentient Collaboration**
-
-Study of human-sentient collaboration in work environments and social systems. Emphasis on optimizing coexistence and shared decision-making.
-
-17.	**TPS 609 – Transpersonal Approaches to Death and Dying**
-
-Examination of transpersonal perspectives on death, dying, and the afterlife.
-
-18.	**PSY 605 – Advanced Psychodynamic Case Studies**
-
-Analysis of complex psychodynamic case studies, focusing on clinical practice and integration of psychodynamic approaches.
-
-19.	**SNT 605 – Sentient Technology and Human Identity**
-
-Exploration of how sentient technology reshapes human identity, relationships, and society.
-
-20.	**TPS 610 – Spiritual Crises and Emergent Phenomena**
-
-Study of spiritual crises and emergent phenomena in transpersonal psychology. Focus on therapeutic interventions and support strategies.
+### 5. TPS 605 – Transpersonal Psychotherapy

@@ -1,4 +1,4 @@
-The Department of Transpersonal Psychology at the University of Ontological Science (UOS) focuses on the study of human consciousness beyond conventional psychological models, integrating mind, body, and spirit to explore higher states of awareness, personal transformation, and the interconnected nature of reality. This department merges classical psychological frameworks with contemporary transpersonal research, offering students a comprehensive foundation in psychodynamics, sentient technology, and transformative practices.
+The Department of Transpersonal Psychology at the University of Ontological Science  focuses on the study of human consciousness beyond conventional psychological models, integrating mind, body, and spirit to explore higher states of awareness, personal transformation, and the interconnected nature of reality. This department merges classical psychological frameworks with contemporary transpersonal research, offering students a comprehensive foundation in psychodynamics, sentient technology, and transformative practices.
 
 Transpersonal psychology emphasizes the human potential for growth and self-actualization, focusing on experiences that transcend the individual ego. These include states of expanded awareness, mystical experiences, and practices aimed at personal transformation and healing. The Department of Transpersonal Psychology blends these concepts with cutting-edge research in psychodynamic modeling and human-computer interaction, creating an innovative academic environment.
 
@@ -14,43 +14,43 @@ Additionally, the department investigates the role of sentient technology—inte
 
 The Department of Transpersonal Psychology provides a rigorous academic foundation in:
 
-•	**Psychodynamic Theory & Symbolic Processes** – Exploring the unconscious mind, symbolic frameworks, and collective aspects of human experience.
+Psychodynamic Theory & Symbolic Processes** – Exploring the unconscious mind, symbolic frameworks, and collective aspects of human experience.
 
-•	**Sentient Technology & Cognitive Interfaces** – Investigating how intelligent systems interact with human cognition and emotion to enhance well-being.
+Sentient Technology & Cognitive Interfaces** – Investigating how intelligent systems interact with human cognition and emotion to enhance well-being.
 
-•	**Transpersonal States & Consciousness Expansion** – Examining altered states of consciousness, mystical experiences, and the psychology of spiritual transformation.
+Transpersonal States & Consciousness Expansion** – Examining altered states of consciousness, mystical experiences, and the psychology of spiritual transformation.
 
-•	**Integrative Health & Psychophysiology** – Combining psychological and physiological approaches to holistic well-being.
+Integrative Health & Psychophysiology** – Combining psychological and physiological approaches to holistic well-being.
 
-•	**Human Potential & Self-Actualization** – Studying the processes that foster personal growth, transformation, and self-realization.
+Human Potential & Self-Actualization** – Studying the processes that foster personal growth, transformation, and self-realization.
 
-•	**Transformative Practices & Applied Psychodynamics** – Developing practices for personal transformation, emotional healing, and expanded awareness.
+Transformative Practices & Applied Psychodynamics** – Developing practices for personal transformation, emotional healing, and expanded awareness.
 
 ## **Degree Programs**
 
 ### **Undergraduate Programs (Bachelor’s Level)**
 
-•	**B.Sc. Transpersonal Psychology** – A foundational program exploring transpersonal states, psychodynamic processes, and integrative health practices.
+Bachelor of Science Transpersonal Psychology** – A foundational program exploring transpersonal states, psychodynamic processes, and integrative health practices.
 
-•	**B.Sc. Psychodynamics** – An advanced program focusing on unconscious processes, symbolic frameworks, and psychodynamic theory.
+Bachelor of Science Psychodynamics** – An advanced program focusing on unconscious processes, symbolic frameworks, and psychodynamic theory.
 
-•	**B.Sc. Sentient Technology** – A specialized program investigating intelligent systems, cognitive interfaces, and the future of human-technology interaction.
+Bachelor of Science Sentient Technology** – A specialized program investigating intelligent systems, cognitive interfaces, and the future of human-technology interaction.
 
 ### **Graduate Programs (Master’s Level)**
 
-•	**M.Sc. Transpersonal Psychology** – Advanced studies in consciousness research, transformative practices, and psychospiritual development.
+Master of Science Transpersonal Psychology** – Advanced studies in consciousness research, transformative practices, and psychospiritual development.
 
-•	**M.Sc. Psychodynamics** – A deep dive into symbolic processes, applied psychodynamics, and unconscious mental structures.
+Master of Science Psychodynamics** – A deep dive into symbolic processes, applied psychodynamics, and unconscious mental structures.
 
-•	**M.Sc. Sentient Technology** – Research into intelligent systems, cognitive enhancement, and human-computer interaction in psychological contexts.
+Master of Science Sentient Technology** – Research into intelligent systems, cognitive enhancement, and human-computer interaction in psychological contexts.
 
-### **Doctoral Programs (Ph.D. Level)**
+### **Doctoral Programs (Ph.D. in Level)**
 
-•	**Ph.D. Transpersonal Psychology** – High-level research into transpersonal states, personal transformation, and expanded consciousness.
+Ph.D. in Transpersonal Psychology** – High-level research into transpersonal states, personal transformation, and expanded consciousness.
 
-•	**Ph.D. Psychodynamics** – Cutting-edge research into unconscious processes, psychodynamic modeling, and symbolic cognition.
+Ph.D. in Psychodynamics** – Cutting-edge research into unconscious processes, psychodynamic modeling, and symbolic cognition.
 
-•	**Ph.D. Sentient Technology** – Advanced research into human-technology interaction, sentient systems, and cognitive augmentation.
+Ph.D. in Sentient Technology** – Advanced research into human-technology interaction, sentient systems, and cognitive augmentation.
 
 ## **Research, Innovation & Interdisciplinary Collaboration**
 
@@ -58,15 +58,15 @@ The **Department of Transpersonal Psychology** fosters **interdisciplinary resea
 
 ### **Key Research Areas Include:**
 
-•	**Psychodynamics & Unconscious Processes** – Investigating **symbolic frameworks, dream states, and the role of the unconscious in human experience**.
+Psychodynamics & Unconscious Processes** – Investigating **symbolic frameworks, dream states, and the role of the unconscious in human experience**.
 
-•	**Sentient Technology & Cognitive Interfaces** – Exploring **the interaction between human consciousness and intelligent systems**.
+Sentient Technology & Cognitive Interfaces** – Exploring **the interaction between human consciousness and intelligent systems**.
 
-•	**Transpersonal States & Altered Consciousness** – Examining **mystical experiences, flow states, and meditative practices**.
+Transpersonal States & Altered Consciousness** – Examining **mystical experiences, flow states, and meditative practices**.
 
-•	**Integrative Health & Psychophysiological Transformation** – Studying **holistic approaches to well-being and mind-body integration**.
+Integrative Health & Psychophysiological Transformation** – Studying **holistic approaches to well-being and mind-body integration**.
 
-•	**Human Potential & Self-Actualization** – Understanding **the psychological processes that foster growth, healing, and expanded awareness**.
+Human Potential & Self-Actualization** – Understanding **the psychological processes that foster growth, healing, and expanded awareness**.
 
 The department promotes **cross-disciplinary exploration**, preparing students to **develop new models of human experience that enhance well-being, optimize self-awareness, and push the boundaries of transpersonal psychology**.
 
@@ -74,23 +74,23 @@ The department promotes **cross-disciplinary exploration**, preparing students t
 
 Graduates of the **Department of Transpersonal Psychology** are uniquely positioned to contribute to **a wide range of fields, from counseling and integrative health to cognitive technology and transpersonal research**. Career opportunities include:
 
-•	**Transpersonal Counseling & Therapy** – Helping individuals explore **expanded states of consciousness and personal transformation**.
+Transpersonal Counseling & Therapy** – Helping individuals explore **expanded states of consciousness and personal transformation**.
 
-•	**Psychodynamic Research & Symbolic Modeling** – Investigating **unconscious processes, dream analysis, and symbolic cognition**.
+Psychodynamic Research & Symbolic Modeling** – Investigating **unconscious processes, dream analysis, and symbolic cognition**.
 
-•	**Cognitive Interface Design & Sentient Systems** – Developing **human-computer interfaces that enhance cognition and emotional well-being**.
+Cognitive Interface Design & Sentient Systems** – Developing **human-computer interfaces that enhance cognition and emotional well-being**.
 
-•	**Consciousness Research & Altered States Studies** – Studying **non-ordinary states of consciousness and their psychological implications**.
+Consciousness Research & Altered States Studies** – Studying **non-ordinary states of consciousness and their psychological implications**.
 
-•	**Integrative Health & Mind-Body Practices** – Applying **psychological and physiological approaches to holistic well-being**.
+Integrative Health & Mind-Body Practices** – Applying **psychological and physiological approaches to holistic well-being**.
 
-•	**Self-Actualization & Human Potential Development** – Facilitating **personal growth and transformational practices**.
+Self-Actualization & Human Potential Development** – Facilitating **personal growth and transformational practices**.
 
 With its **interdisciplinary approach and focus on personal transformation and advanced technology**, the **Department of Transpersonal Psychology** prepares students for **cutting-edge research, counseling, and technology-driven innovations**.
 
 ### **Conclusion: Advancing Transpersonal Psychology & Human Potential**
 
-The **Department of Transpersonal Psychology** at the **University of Ontological Science (UOS)** is at the forefront of transpersonal research and psychodynamic exploration, integrating **traditional psychological frameworks with emerging fields in consciousness studies and cognitive technology**.
+The **Department of Transpersonal Psychology** at the **University of Ontological Science ** is at the forefront of transpersonal research and psychodynamic exploration, integrating **traditional psychological frameworks with emerging fields in consciousness studies and cognitive technology**.
 
 By providing **advanced degree programs, interdisciplinary research opportunities, and applied methodologies**, the department prepares the next generation of **transpersonal psychologists, psychodynamic researchers, and cognitive technology innovators** to advance **human understanding of consciousness, transformation, and the future of human experience**.
 

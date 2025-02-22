@@ -1,137 +1,198 @@
+# Bachelor of Science in Cognitive Engineering (B.S.C.E.)
+
+## About the Program
+
 The Bachelor of Science in Cognitive Engineering is crafted for students interested in the scientific and experimental study of thought processes, perception, and decision-making mechanisms. This program provides a robust, data-driven approach to understanding cognition, incorporating psychometric methodologies, cognitive modeling, and neurobehavioral research.
 
-**About the Program**
+## Program Overview
 
 The B.S. in Cognitive Engineering integrates advanced scientific principles with practical applications to examine and enhance cognitive functions. Students will gain in-depth knowledge of how cognitive processes are structured and can be engineered or modified. This program emphasizes the development of quantitative and analytical skills necessary for creating and implementing cognitive models that simulate human thinking and decision-making processes.
 
 Through a curriculum that includes quantum cognition, psychodynamic processing units (PPUs), cognitive wave interference, and applied cognitive reinforcement strategies, students will learn to assess and influence cognitive behaviors effectively. These studies prepare them for critical roles in behavioral research, AI cognitive structuring, and psychometric modeling, enabling them to contribute to advancements in cognitive technologies and therapies.
 
-**Key Areas of Study**
+## Key Areas of Study
 
-•	Psychometric Methodologies and Cognitive Assessment
+- Psychometric Methodologies and Cognitive Assessment  
+- Quantum Cognition and Non-Linear Thinking Models  
+- Cognitive Modeling and Neurobehavioral Research  
+- Psychodynamic Processing Units (PPUs) and Cognitive Wave Interference  
+- Applied Cognitive Reinforcement Strategies  
 
-•	Quantum Cognition and Non-Linear Thinking Models
+## Degree Requirements
 
-•	Cognitive Modeling and Neurobehavioral Research
+### **Total Credits Required:** 120 credits  
 
-•	Psychodynamic Processing Units (PPUs) and Cognitive Wave Interference
+#
+## **Core Major Courses:** 40 credits  
 
-•	Applied Cognitive Reinforcement Strategies
+### **Electives & Research Focus:** 30 credits  
 
-**Career Pathways**
+### **General Education & Interdisciplinary Studies:** 50 credits  
 
-Graduates of the B.S. in Cognitive Engineering are well-prepared for careers in behavioral research, AI cognitive structuring, and psychometric modeling. This degree equips students with the skills to work in high-tech industries, research institutions, and clinical settings, where they can apply their expertise to solve complex problems related to human cognition and psychological health.
+---
 
-**Core Curriculum & Program Structure**
+## Year One – Foundations of Cognitive Engineering
 
-**Year One – Foundations of Cognitive Engineering**
+### Fall Semester 1
 
-**Fall Semester 1**
+### **CEN 101 – Introduction to Cognitive Science (3 credits)**  
 
-•	UOS 101 – Introduction to Cognitive Science (3 credits)
+  An introduction to cognitive science, covering fundamental concepts of perception, attention, memory, and reasoning.
 
-•	UOS 102 – Cognitive Intent & Thought Structuring (3 credits)
+### **CEN 102 – Cognitive Intent & Thought Structuring (3 credits)**  
 
-•	UOS 103 – Neural Mechanisms of Decision-Making (3 credits)
+  Examines how intention directs cognition and the structuring of conscious thought.
 
-•	General Education Elective (3 credits)
+### **CEN 103 – Neural Mechanisms of Decision-Making (3 credits)**  
 
-•	Research & Writing Foundations (3 credits)
+  Explores the neural substrates of decision-making processes and their implications for behavior.
 
-**Spring Semester 2**
+### **General Education Elective (3 credits)**  
 
-•	UOS 104 – Psychodynamic Dimensions in Cognitive Systems (3 credits)
+### **Research & Writing Foundations (3 credits)**  
 
-•	UOS 105 – Cognitive Measurement & Psychometric Evaluation (3 credits)
+### Spring Semester 2
 
-•	UOS 106 – Pattern Recognition & Cognitive Context Processing (3 credits)
+### **CEN 104 – Psychodynamic Dimensions in Cognitive Systems (3 credits)**  
 
-•	General Education Elective (3 credits)
+  Investigates the role of psychodynamic processes in cognition and behavioral outcomes.
 
-•	Mathematical Logic & Systems Thinking (3 credits)
+### **CEN 105 – Cognitive Measurement & Psychometric Evaluation (3 credits)**  
 
-**Year Two – Intermediate Cognitive Systems & Research Methodologies**
+  Focuses on psychometric methods for assessing cognitive abilities and thought processes.
 
-**Fall Semester 3**
+### **CEN 106 – Pattern Recognition & Cognitive Context Processing (3 credits)**  
 
-•	UOS 201 – Experimental Methods in Cognitive Research (3 credits)
+  Explores how the brain identifies patterns and contextualizes information.
 
-•	UOS 202 – Cognitive Wave Function Analysis (3 credits)
+### **General Education Elective (3 credits)**  
 
-•	UOS 203 – Neural Plasticity & Cognitive Adaptation (3 credits)
+### **Mathematical Logic & Systems Thinking (3 credits)**  
 
-•	Research Elective (3 credits)
+---
 
-•	General Education Elective (3 credits)
+## Year Two – Intermediate Cognitive Systems & Research Methodologies
 
-**Spring Semester 4**
+### Fall Semester 3
 
-•	UOS 204 – Quantum Psychodynamics & Non-Linear Thought Processing (3 credits)
+### **CEN 201 – Experimental Methods in Cognitive Research (3 credits)**  
 
-•	UOS 205 – AI and Cognitive Modeling (3 credits)
+  Introduces scientific research methods used to investigate cognitive processes.
 
-•	UOS 206 – Applied Cognitive Enhancement Strategies (3 credits)
+### **CEN 202 – Cognitive Wave Function Analysis (3 credits)**  
 
-•	General Education Elective (3 credits)
+  Examines quantum cognition principles and their role in probabilistic thinking.
 
-•	Data Science & Statistical Analysis for Cognition (3 credits)
+### **CEN 203 – Neural Plasticity & Cognitive Adaptation (3 credits)**  
 
-**Year Three – Specialized Cognitive Research & Application**
+  Studies how the brain adapts and restructures cognitive functions over time.
 
-**Fall Semester 5**
+### **Research Elective (3 credits)**  
 
-•	UOS 301 – Theoretical Models of Probabilistic Thought (3 credits)
+### **General Education Elective (3 credits)**  
 
-•	UOS 302 – Applied Psychodynamic Processing Units (PPUs) (3 credits)
+### Spring Semester 4
 
-•	UOS 303 – Cognitive Interference & Behavioral Outcomes (3 credits)
+### **CEN 204 – Quantum Psychodynamics & Non-Linear Thought Processing (3 credits)**  
 
-•	Elective in Behavioral or Computational Cognition (3 credits)
+  Explores how quantum cognition and psychodynamic principles shape complex thought.
 
-•	General Education Elective (3 credits)
+### **CEN 205 – AI and Cognitive Modeling (3 credits)**  
 
-**Spring Semester 6**
+  Introduces computational models of cognition and their applications in AI.
 
-•	UOS 304 – Neural Network Dynamics & Cognitive Prediction (3 credits)
+### **CEN 206 – Applied Cognitive Enhancement Strategies (3 credits)**  
 
-•	UOS 305 – Cognitive Conditioning & Reflex Pathways (3 credits)
+  Examines interventions and techniques for optimizing cognitive performance.
 
-•	UOS 306 – Advanced Psychometric Research Techniques (3 credits)
+### **General Education Elective (3 credits)**  
 
-•	Research Elective in Cognitive Science (3 credits)
+### **Data Science & Statistical Analysis for Cognition (3 credits)**  
 
-•	General Education Elective (3 credits)
+---
 
-**Year Four – Capstone Research & Independent Inquiry**
+## Year Three – Specialized Cognitive Research & Application
 
-**Fall Semester 7**
+### Fall Semester 5
 
-•	UOS 401 – Independent Research in Cognitive Structuring (3 credits)
+### **CEN 301 – Theoretical Models of Probabilistic Thought (3 credits)**  
 
-•	UOS 402 – Cognitive Complexity & Multi-Layered Decision Networks (3 credits)
+  Investigates how probability and uncertainty influence decision-making.
 
-•	UOS 403 – Senior Seminar: Cognitive Structuring in Decision Systems (3 credits)
+### **CEN 302 – Applied Psychodynamic Processing Units (PPUs) (3 credits)**  
 
-•	Research Elective in Neurocognition (3 credits)
+  Studies cognitive substructures that influence perception and reasoning.
 
-•	General Education Elective (3 credits)
+### **CEN 303 – Cognitive Interference & Behavioral Outcomes (3 credits)**  
 
-**Spring Semester 8**
+  Analyzes how competing cognitive processes create interference in decision-making.
 
-•	UOS 404 – Capstone Thesis & Cognitive Research Presentation (6 credits)
+### **Elective in Behavioral or Computational Cognition (3 credits)**  
 
-•	UOS 405 – Computational Cognitive Analysis in AI and Human Systems (3 credits)
+### **General Education Elective (3 credits)**  
 
-•	Final Research Elective or Internship (3 credits)
+### Spring Semester 6
 
-•	General Education Elective (3 credits)
+### **CEN 304 – Neural Network Dynamics & Cognitive Prediction (3 credits)**  
 
-**Career Pathways for B.S.C.R. Graduates**
+  Studies neural architectures and their role in predictive cognition.
 
-✔ **Cognitive Scientist in Behavioral & Decision-Making Research**
+### **CEN 305 – Cognitive Conditioning & Reflex Pathways (3 credits)**  
 
-✔ **AI Cognitive Modeler & Computational Neuroscience Researcher**
+  Examines the formation of cognitive habits and reflexive decision-making.
 
-✔ **Psychometrician & Neurobehavioral Data Analyst**
+### **CEN 306 – Advanced Psychometric Research Techniques (3 credits)**  
 
-✔ **Academic Researcher in Cognitive Science & Thought Probability**
+  Focuses on methodologies for assessing complex cognitive structures.
+
+### **Research Elective in Cognitive Science (3 credits)**  
+
+### **General Education Elective (3 credits)**  
+
+---
+
+## Year Four – Capstone Research & Independent Inquiry
+
+### Fall Semester 7
+
+### **CEN 401 – Independent Research in Cognitive Structuring (3 credits)**  
+
+  Students conduct an independent research project focused on cognitive structuring.
+
+### **CEN 402 – Cognitive Complexity & Multi-Layered Decision Networks (3 credits)**  
+
+  Examines how cognition operates across hierarchical decision-making layers.
+
+### **CEN 403 – Senior Seminar: Cognitive Structuring in Decision Systems (3 credits)**  
+
+  A capstone seminar discussing theoretical and applied perspectives in cognitive engineering.
+
+### **Research Elective in Neurocognition (3 credits)**  
+
+### **General Education Elective (3 credits)**  
+
+### Spring Semester 8
+
+### **CEN 404 – Capstone Thesis & Cognitive Research Presentation (6 credits)**  
+
+  A culminating thesis project where students conduct original research and present their findings.
+
+### **CEN 405 – Computational Cognitive Analysis in AI and Human Systems (3 credits)**  
+
+  Examines applications of computational cognition in artificial intelligence and human decision-making.
+
+### **Final Research Elective or Internship (3 credits)**  
+
+### **General Education Elective (3 credits)**  
+
+---
+
+## Career Pathways for B.S.C.E. Graduates
+
+### **Cognitive Scientist in Behavioral & Decision-Making Research**  
+
+### **AI Cognitive Modeler & Computational Neuroscience Researcher**  
+
+### **Psychometrician & Neurobehavioral Data Analyst**  
+
+### **Academic Researcher in Cognitive Science & Thought Probability**  

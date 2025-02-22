@@ -1,4 +1,4 @@
-The **Department of Metaphysics** at the **University of Ontological Science (UOS)** is dedicated to the **systematic study of reality, existence, consciousness, and hidden structures of the universe**. This department integrates **classical metaphysical inquiry with esoteric traditions and hidden knowledge systems**, forming a **comprehensive academic foundation** for understanding **ontology, cosmology, transcendence, and the fundamental principles underlying perception, cognition, and being**.
+The **Department of Metaphysics** at the **University of Ontological Science ** is dedicated to the **systematic study of reality, existence, consciousness, and hidden structures of the universe**. This department integrates **classical metaphysical inquiry with esoteric traditions and hidden knowledge systems**, forming a **comprehensive academic foundation** for understanding **ontology, cosmology, transcendence, and the fundamental principles underlying perception, cognition, and being**.
 
 Metaphysics has long been regarded as the **highest branch of philosophical inquiry**, delving into questions that go beyond empirical observation and into the **nature of reality itself**. Traditionally, it encompasses **theories of existence, causality, time, space, and the ultimate nature of consciousness**, providing a **framework for understanding the unseen dimensions of reality**. However, metaphysical inquiry does not stop at abstract theorization; it serves as a **critical foundation for the study of epistemology, consciousness, and the structure of knowledge itself**.
 
@@ -36,21 +36,21 @@ The **Department of Metaphysics** houses all related degree programs from **Meta
 
 ## **Bachelor’s Programs (Undergraduate Level)**
 
-•	**B.Sc. Metaphysics** – A structured study of **metaphysical principles, reality models, and foundational philosophical inquiry**.
+Bachelor of Science Metaphysics** – A structured study of **metaphysical principles, reality models, and foundational philosophical inquiry**.
 
-•	**B.Sc. Esoteric Science** – An in-depth exploration of **hidden knowledge systems, symbolic traditions, and structured esoteric frameworks**.
+Bachelor of Science Esoteric Science** – An in-depth exploration of **hidden knowledge systems, symbolic traditions, and structured esoteric frameworks**.
 
 ## **Master’s Programs (Graduate Level)**
 
-•	**M.Sc. Metaphysics** – Advanced studies in **metaphysical structures, ontological models, and consciousness-related frameworks**.
+Master of Science Metaphysics** – Advanced studies in **metaphysical structures, ontological models, and consciousness-related frameworks**.
 
-•	**M.Sc. Esoteric Science** – In-depth analysis of **esoteric traditions, initiatory knowledge, and structured hidden systems**.
+Master of Science Esoteric Science** – In-depth analysis of **esoteric traditions, initiatory knowledge, and structured hidden systems**.
 
-## **Doctoral Programs (Ph.D. Level)**
+## **Doctoral Programs (Ph.D. in Level)**
 
-•	**Ph.D. Metaphysics** – High-level research in **fundamental metaphysical thought, reality structuring, and ontological philosophy**.
+Ph.D. in Metaphysics** – High-level research in **fundamental metaphysical thought, reality structuring, and ontological philosophy**.
 
-•	**Ph.D. Esoteric Science** – Scholarly inquiry into **esoteric traditions, conceptual symbolism, and hidden knowledge models**.
+Ph.D. in Esoteric Science** – Scholarly inquiry into **esoteric traditions, conceptual symbolism, and hidden knowledge models**.
 
 These programs equip students with **theoretical depth and applied methodologies**, ensuring a **well-rounded understanding of metaphysical structures, epistemic frameworks, and cognitive transcendence**.
 
@@ -92,6 +92,6 @@ By fostering a **deep understanding of both classical metaphysical frameworks an
 
 **Conclusion: Advancing Metaphysical Thought & Esoteric Inquiry**
 
-The **Department of Metaphysics** at the **University of Ontological Science (UOS)** stands at the **forefront of metaphysical and esoteric research**, integrating **classical inquiry with hidden knowledge systems and conceptual structuring**. By providing **advanced degree programs, interdisciplinary research, and applied conceptual exploration**, graduates from this department are prepared to **become scholars, thought leaders, and innovators in the fields of metaphysical science, epistemology, and higher knowledge structuring**.
+The **Department of Metaphysics** at the **University of Ontological Science ** stands at the **forefront of metaphysical and esoteric research**, integrating **classical inquiry with hidden knowledge systems and conceptual structuring**. By providing **advanced degree programs, interdisciplinary research, and applied conceptual exploration**, graduates from this department are prepared to **become scholars, thought leaders, and innovators in the fields of metaphysical science, epistemology, and higher knowledge structuring**.
 
 [**Department of Metaphysics – Shared Elective Pool (25 Courses)**](https://www.notion.so/Department-of-Metaphysics-Shared-Elective-Pool-25-Courses-1942c2ffeee280e8a38dfdafc2fda8b0?pvs=21)

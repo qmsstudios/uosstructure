@@ -1,4 +1,4 @@
-The Department of Systems Theory & Cybernetics at the University of Ontological Science (UOS) focuses on the study of complex systems, feedback loops, and control processes in both natural and artificial systems. This department integrates classical systems theory with contemporary research in cybernetics, offering students a comprehensive understanding of how systems behave, adapt, and self-organize across various domains.
+The Department of Systems Theory & Cybernetics at the University of Ontological Science  focuses on the study of complex systems, feedback loops, and control processes in both natural and artificial systems. This department integrates classical systems theory with contemporary research in cybernetics, offering students a comprehensive understanding of how systems behave, adapt, and self-organize across various domains.
 
 Systems theory provides a framework for analyzing dynamic, interrelated processes, while cybernetics explores control, communication, and feedback in both human and machine systems. The Department of Systems Theory & Cybernetics merges these disciplines, equipping students with theoretical knowledge and practical skills to study emergent phenomena, design intelligent systems, and develop adaptive technologies.
 
@@ -16,45 +16,45 @@ Graduates from this department are well-prepared for careers in systems engineer
 
 The Department of Systems Theory & Cybernetics provides a rigorous academic foundation in:
 
-•	**Complex Systems & Self-Organization** – Investigating emergent phenomena, nonlinear dynamics, and adaptive systems.
+Complex Systems & Self-Organization** – Investigating emergent phenomena, nonlinear dynamics, and adaptive systems.
 
-•	**Cybernetic Feedback & Control Systems** – Exploring the principles of feedback, communication, and control in human and machine systems.
+Cybernetic Feedback & Control Systems** – Exploring the principles of feedback, communication, and control in human and machine systems.
 
-•	**Adaptive Systems & Resilience Modeling** – Studying how systems respond to change and maintain stability in dynamic environments.
+Adaptive Systems & Resilience Modeling** – Studying how systems respond to change and maintain stability in dynamic environments.
 
-•	**Intelligent Systems & AI Integration** – Designing AI-driven systems that optimize decision-making and self-regulation.
+Intelligent Systems & AI Integration** – Designing AI-driven systems that optimize decision-making and self-regulation.
 
-•	**Systems Epistemology & Knowledge Structures** – Examining how knowledge and information flow within complex systems.
+Systems Epistemology & Knowledge Structures** – Examining how knowledge and information flow within complex systems.
 
-•	**Organizational Systems & Network Theory** – Understanding how social, biological, and technological networks behave and evolve.
+Organizational Systems & Network Theory** – Understanding how social, biological, and technological networks behave and evolve.
 
 ## **Degree Programs**
 
 ### **Undergraduate Programs (Bachelor’s Level)**
 
-•	**B.Sc. Systems Theory** – A foundational program exploring the principles of complex systems, network theory, and self-organization.
+Bachelor of Science Systems Theory** – A foundational program exploring the principles of complex systems, network theory, and self-organization.
 
-•	**B.Sc. Cybernetics** – An advanced program focusing on feedback systems, adaptive technologies, and intelligent control processes.
+Bachelor of Science Cybernetics** – An advanced program focusing on feedback systems, adaptive technologies, and intelligent control processes.
 
-•	**B.Sc. Artificial Intelligence** – A specialized program in AI-driven systems, machine learning, and autonomous decision-making.
+Bachelor of Science Artificial Intelligence** – A specialized program in AI-driven systems, machine learning, and autonomous decision-making.
 
-•	**B.Sc. Knowledge Systems** – A program dedicated to information flow, knowledge representation, and intelligent network structures.
+Bachelor of Science Knowledge Systems** – A program dedicated to information flow, knowledge representation, and intelligent network structures.
 
 ### **Graduate Programs (Master’s Level)**
 
-•	**M.Sc. Cybernetics** – Advanced studies in feedback systems, adaptive control, and intelligent network design.
+Master of Science Cybernetics** – Advanced studies in feedback systems, adaptive control, and intelligent network design.
 
-•	**M.Sc. Artificial Intelligence** – A deep dive into machine learning, autonomous systems, and AI integration with cybernetic principles.
+Master of Science Artificial Intelligence** – A deep dive into machine learning, autonomous systems, and AI integration with cybernetic principles.
 
-•	**M.Sc. Knowledge Systems** – Research into knowledge representation, distributed networks, and AI-driven information systems.
+Master of Science Knowledge Systems** – Research into knowledge representation, distributed networks, and AI-driven information systems.
 
-### **Doctoral Programs (Ph.D. Level)**
+### **Doctoral Programs (Ph.D. in Level)**
 
-•	**Ph.D. Cybernetics** – Cutting-edge research into self-regulation, adaptive control systems, and human-machine interaction.
+Ph.D. in Cybernetics** – Cutting-edge research into self-regulation, adaptive control systems, and human-machine interaction.
 
-•	**Ph.D. Artificial Intelligence** – High-level research into AI systems design, autonomous agents, and neural networks.
+Ph.D. in Artificial Intelligence** – High-level research into AI systems design, autonomous agents, and neural networks.
 
-•	**Ph.D. Knowledge Systems** – Advanced research into knowledge representation, intelligent databases, and distributed information systems.
+Ph.D. in Knowledge Systems** – Advanced research into knowledge representation, intelligent databases, and distributed information systems.
 
 ## **Research, Innovation & Interdisciplinary Collaboration**
 
@@ -62,15 +62,15 @@ The **Department of Systems Theory & Cybernetics** fosters **interdisciplinary r
 
 ### **Key Research Areas Include:**
 
-•	**Complex Adaptive Systems & Self-Organization** – Investigating **how systems evolve, adapt, and maintain stability in changing environments**.
+Complex Adaptive Systems & Self-Organization** – Investigating **how systems evolve, adapt, and maintain stability in changing environments**.
 
-•	**Cybernetic Feedback & Intelligent Control Systems** – Exploring **real-time decision-making, adaptive control, and feedback mechanisms**.
+Cybernetic Feedback & Intelligent Control Systems** – Exploring **real-time decision-making, adaptive control, and feedback mechanisms**.
 
-•	**AI-Driven Systems & Machine Learning** – Developing **autonomous systems, neural networks, and machine learning frameworks**.
+AI-Driven Systems & Machine Learning** – Developing **autonomous systems, neural networks, and machine learning frameworks**.
 
-•	**Organizational Modeling & Network Dynamics** – Studying **how social, biological, and technological networks behave and adapt**.
+Organizational Modeling & Network Dynamics** – Studying **how social, biological, and technological networks behave and adapt**.
 
-•	**Distributed Knowledge Systems & Information Flow** – Understanding **how knowledge is structured, represented, and shared across networks**.
+Distributed Knowledge Systems & Information Flow** – Understanding **how knowledge is structured, represented, and shared across networks**.
 
 The department promotes **cross-disciplinary exploration**, preparing students to **design intelligent systems, optimize adaptive technologies, and contribute to the development of cybernetics and systems science**.
 
@@ -78,23 +78,23 @@ The department promotes **cross-disciplinary exploration**, preparing students t
 
 Graduates of the **Department of Systems Theory & Cybernetics** are uniquely positioned to contribute to **a wide range of fields, from AI development and cybernetic design to systems analysis and network modeling**. Career opportunities include:
 
-•	**Systems Engineering & Adaptive Design** – Building **resilient, adaptive systems in technological and organizational contexts**.
+Systems Engineering & Adaptive Design** – Building **resilient, adaptive systems in technological and organizational contexts**.
 
-•	**AI Research & Machine Learning Development** – Designing **intelligent systems and autonomous decision-making frameworks**.
+AI Research & Machine Learning Development** – Designing **intelligent systems and autonomous decision-making frameworks**.
 
-•	**Cybernetic Systems Design** – Developing **control systems for robotics, automation, and feedback-based processes**.
+Cybernetic Systems Design** – Developing **control systems for robotics, automation, and feedback-based processes**.
 
-•	**Organizational Analysis & Network Modeling** – Studying **how complex networks behave, evolve, and respond to change**.
+Organizational Analysis & Network Modeling** – Studying **how complex networks behave, evolve, and respond to change**.
 
-•	**Knowledge Systems Engineering** – Creating **distributed information systems and intelligent knowledge networks**.
+Knowledge Systems Engineering** – Creating **distributed information systems and intelligent knowledge networks**.
 
-•	**Resilience Modeling & Crisis Management** – Applying **systems theory to manage risk and enhance adaptability in complex environments**.
+Resilience Modeling & Crisis Management** – Applying **systems theory to manage risk and enhance adaptability in complex environments**.
 
 With its **interdisciplinary approach and focus on intelligent system design and adaptive processes**, the **Department of Systems Theory & Cybernetics** prepares students for **careers in AI development, cybernetics, and systems science research**.
 
 ### **Conclusion: Advancing Systems Science & Cybernetics**
 
-The **Department of Systems Theory & Cybernetics** at the **University of Ontological Science (UOS)** is at the forefront of systems research, integrating **classical systems theory with contemporary cybernetic frameworks to study dynamic, adaptive processes**.
+The **Department of Systems Theory & Cybernetics** at the **University of Ontological Science ** is at the forefront of systems research, integrating **classical systems theory with contemporary cybernetic frameworks to study dynamic, adaptive processes**.
 
 By providing **advanced degree programs, interdisciplinary research opportunities, and practical applications**, the department prepares the next generation of **systems scientists, AI developers, and cybernetics researchers** to advance **the study of complex systems and intelligent networks**.
 

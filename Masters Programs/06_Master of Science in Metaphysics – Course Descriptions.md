@@ -1,51 +1,52 @@
-**Core Courses (24 credits):**
 
-1.	**MET 601 – Introduction to Metaphysical Science**
+## **Core Courses (24 credits):**
 
-Overview of the foundational concepts in metaphysical science, focusing on the study of existence, consciousness, and the nature of reality.
+1. ### **MET 601 – Introduction to Metaphysical Science**
 
-2.	**MET 602 – Metaphysical Frameworks and Worldviews**
+This course provides an overview of the foundational concepts in metaphysical science. Students will explore the study of existence, consciousness, and the nature of reality. Topics include the history of metaphysical thought, key metaphysical questions, and the relationship between metaphysics and other disciplines.
 
-Exploration of various metaphysical frameworks and their influence on philosophy, science, and spirituality.
+2. ### **MET 602 – Metaphysical Frameworks and Worldviews**
 
-3.	**MET 603 – Ontology and Metaphysical Structures**
+In this course, students will explore various metaphysical frameworks and their influence on philosophy, science, and spirituality. The course covers different worldviews, including dualism, monism, and pluralism, and examines how these frameworks shape our understanding of reality.
 
-Study of metaphysical ontology and its relation to understanding the nature of being, reality, and the universe.
+3. ### **MET 603 – Ontology and Metaphysical Structures**
 
-4.	**MET 604 – Theories of Consciousness and Being**
+This course focuses on the study of metaphysical ontology and its relation to understanding the nature of being, reality, and the universe. Students will examine different ontological theories and their implications for metaphysical inquiry, including the nature of objects, properties, and relations.
 
-Examination of theories related to consciousness and the self. Emphasis on the intersection of metaphysical and cognitive perspectives.
+4. ### **MET 604 – Theories of Consciousness and Being**
 
-5.	**MET 605 – Epistemology in Metaphysical Inquiry**
+Students will examine various theories related to consciousness and the self in this course. The emphasis is on the intersection of metaphysical and cognitive perspectives, exploring topics such as the nature of self-awareness, the mind-body problem, and the role of consciousness in shaping reality.
 
-Investigation of metaphysical approaches to knowledge, focusing on perception, intuition, and expanded states of awareness.
+5. ### **MET 605 – Epistemology in Metaphysical Inquiry**
 
-6.	**MET 606 – Symbolism, Archetypes, and Metaphysical Interpretation**
+This course investigates metaphysical approaches to knowledge, focusing on perception, intuition, and expanded states of awareness. Students will explore different epistemological theories and their application to metaphysical questions, including the nature of truth, belief, and justification.
 
-Analysis of symbols and archetypes in metaphysical traditions. Emphasis on their role in shaping human experience and understanding.
+6. ### **MET 606 – Symbolism, Archetypes, and Metaphysical Interpretation**
 
-7.	**MET 607 – Applied Metaphysics in Personal Development**
+In this course, students will analyze symbols and archetypes in metaphysical traditions. The emphasis is on their role in shaping human experience and understanding. Topics include the interpretation of symbolic language, the function of archetypes in personal and collective consciousness, and the use of symbolism in metaphysical practices.
 
-Practical application of metaphysical principles in areas such as mindfulness, transformation, and self-realization practices.
+7. ### **MET 607 – Applied Metaphysics in Personal Development**
 
-8.	**MET 608 – Ethics and Metaphysical Thought**
+This course focuses on the practical application of metaphysical principles in areas such as mindfulness, transformation, and self-realization practices. Students will learn techniques for integrating metaphysical concepts into their daily lives and explore the impact of these practices on personal growth and development.
 
-Study of ethical principles and philosophical questions in metaphysical practice. Topics include moral responsibility and the metaphysical basis of ethics.
+8. ### **MET 608 – Ethics and Metaphysical Thought**
+
+Students will study ethical principles and philosophical questions in metaphysical practice in this course. Topics include moral responsibility, the metaphysical basis of ethics, and the relationship between ethical theories and metaphysical beliefs. The course also examines contemporary ethical issues from a metaphysical perspective.
 
 **Research Thesis (12 Credits):**
 
-1.	**MET 690 – Thesis Research Seminar** (3 credits)
+1. ### **MET 690 – Thesis Research Seminar** (3 credits)
 
-Preparation for the master’s thesis. Students refine their research questions and develop a comprehensive research plan.
+This seminar prepares students for the master’s thesis. Students will refine their research questions, develop a comprehensive research plan, and review relevant literature. The course includes guidance on research methodologies and ethical considerations in metaphysical research.
 
-2.	**MET 691 – Thesis Research I** (3 credits)
+2. ### **MET 691 – Thesis Research I** (3 credits)
 
-Independent research focused on a chosen area of metaphysical science.
+In this course, students will conduct independent research focused on a chosen area of metaphysical science. Students will gather data, analyze findings, and begin drafting their thesis under the supervision of a faculty advisor.
 
-3.	**MET 692 – Thesis Research II** (3 credits)
+3. ### **MET 692 – Thesis Research II** (3 credits)
 
-Continuation of thesis research, with emphasis on synthesizing findings and completing the final manuscript.
+This course is a continuation of thesis research, with an emphasis on synthesizing findings and completing the final manuscript. Students will refine their analysis, integrate feedback from their advisor, and prepare their thesis for defense.
 
-4.	**MET 693 – Thesis Defense** (3 credits)
+4. ### **MET 693 – Thesis Defense** (3 credits)
 
-Formal presentation and defense of the master’s thesis. Students must demonstrate the ability to conduct independent research and present original insights in metaphysical science.
+In this course, students will formally present and defend their master’s thesis. Students must demonstrate the ability to conduct independent research, present original insights in metaphysical science, and respond to questions and critiques from a panel of faculty members.

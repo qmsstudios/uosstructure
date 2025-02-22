@@ -1,119 +1,159 @@
-The Bachelor of Science in Sentient Technology explores the cutting edge of intelligent systems, focusing on the intersection of artificial intelligence, cognitive science, and consciousness studies. This program is designed for students interested in developing and understanding autonomous, adaptive systems that mimic or simulate human cognition and awareness.
+# Bachelor of Science in Esoteric Science (B.S.E.S.)
 
-**About the Program**
+## About the Program
 
-The B.Sc. in Sentient Technology offers a comprehensive, interdisciplinary approach to studying intelligent systems and cognitive architectures. This program blends computational neuroscience, AI development, and advanced cognitive modeling to explore the frontiers of sentient systems—ranging from advanced machine learning models to robotics and human-computer integration.
+The **Bachelor of Science in Esoteric Science** delves into the hidden structures of reality and metaphysical systems through a comprehensive exploration that spans philosophical, scientific, and transdisciplinary frameworks. This program is designed for students who are intrigued by the deeper, more esoteric aspects of knowledge that cross the boundaries of conventional science and philosophy.
 
-Students will engage with theories of sentience and consciousness while gaining hands-on experience in developing AI models, neural networks, and adaptive systems. The curriculum includes topics such as cognitive architecture, neural-based AI, bio-inspired robotics, and the ethical challenges of creating sentient-like machines. This program equips graduates with the skills to contribute to the evolving fields of artificial intelligence, neurotechnology, and human-machine symbiosis.
+### **Program Overview**
 
-**Key Areas of Study**
+The **Bachelor of Science in Esoteric Science** offers a rigorous academic pathway for students to explore and integrate complex ideas such as symbolic knowledge systems, cognitive metaphysics, archetypal structures, and higher-dimensional theories. By examining these concepts through lenses of epistemology, hermetic structures, non-dual cognition, and scientific mysticism, students gain a profound understanding of the various dimensions of esoteric knowledge.
 
-- Cognitive Architectures and Neural Networks
-- Bio-Inspired Robotics and Adaptive Systems
-- Human-Computer Interaction and Brain-Machine Interfaces
-- Machine Learning and Consciousness Simulation
-- Ethical Considerations in Sentient Technology
+This interdisciplinary program encourages students to apply these esoteric theories to diverse fields such as philosophy, psychology, computational modeling, and theoretical physics. The curriculum is designed to foster critical thinking, analytical skills, and a comprehensive understanding of esoteric principles and their applications in modern science and scholarship.
 
-**Core Curriculum & Program Structure**
+### **Key Areas of Study**
 
-**Year One – Foundations of Sentient Technology**
+- Symbolic Knowledge Systems and Cognitive Metaphysics  
+- Archetypal Structures and Higher-Dimensional Theories  
+- Epistemology and Hermetic Structures  
+- Non-Dual Cognition and Scientific Mysticism  
 
-**Fall Semester 1**
+### **Career Pathways**
 
-•	**ST 101** – Introduction to Sentient Technology (3 credits)
+Graduates of the **Bachelor of Science in Esoteric Science** are well-prepared for advanced careers in philosophical research, metaphysical modeling, consciousness science, and transdisciplinary analysis. The program equips students with the skills to contribute to academic research, theoretical developments, and innovative applications in fields that require a deep understanding of both the visible and the hidden aspects of reality.
 
-•	**CEN 101** – Introduction to Cognitive Engineering (3 credits)
+### **Degree Requirements**
 
-•	**BIO 101** – Fundamentals of Neurobiology (3 credits)
+### **Total Credits Required:** 120 credits  
 
-•	**General Education Elective** (3 credits)
+#
+## **Core Major Courses:** 40 credits  
 
-•	**Research & Writing Foundations** (3 credits)
+### **Electives & Research Focus:** 30 credits  
 
-**Spring Semester 2**
+### **General Education & Interdisciplinary Studies:** 50 credits  
 
-•	**ST 102** – Cognitive Science and Artificial Intelligence (3 credits)
+---
 
-•	**CNS 102** – Neural Basis of Intelligence (3 credits)
+## **Core Curriculum & Program Structure**
 
-•	**CEN 204** – Risk and Decision Modeling (3 credits)
+### **Year One – Foundations of Esoteric Science**
 
-•	**General Education Elective** (3 credits)
+#### **Fall Semester 1**
 
-•	**Introduction to Computational Modeling** (3 credits)
+### **SNT 101 – Introduction to Esoteric Science (3 credits)**  
 
-**Year Two – Intermediate Sentient Technology**
+### **SNT 102 – Hidden Structures of Reality & Consciousness (3 credits)**  
 
-**Fall Semester 3**
+### **SNT 103 – Symbolic Cognition & Archetypal Frameworks (3 credits)**  
 
-•	**ST 201** – Neural Networks and Deep Learning (3 credits)
+### **General Education Elective (3 credits)**  
 
-•	**CEN 205** – Computational Models of Cognition (3 credits)
+### **Research & Writing Foundations (3 credits)**  
 
-•	**BIO 203** – Bio-Inspired Robotics and Adaptive Systems (3 credits)
+#### **Spring Semester 2**
 
-•	**Research Elective in AI and Cognitive Systems** (3 credits)
+### **SNT 104 – Sacred Geometry & The Mathematics of Reality (3 credits)**  
 
-•	**General Education Elective** (3 credits)
+### **SNT 105 – The Science of Mysticism & Higher Cognition (3 credits)**  
 
-**Spring Semester 4**
+### **SNT 106 – Transdisciplinary Approaches to Esoteric Knowledge (3 credits)**  
 
-•	**ST 202** – Brain-Machine Interfaces (3 credits)
+### **General Education Elective (3 credits)**  
 
-•	**CEN 302** – Advanced Topics in Cognitive Science (3 credits)
+### **Meditation & Cognitive Stabilization Techniques (3 credits)**  
 
-•	**PSY 301** – Cognitive and Affective Systems (3 credits)
+---
 
-•	**Research Elective in Neural Systems** (3 credits)
+### **Year Two – Intermediate Esoteric Sciences**
 
-•	**General Education Elective** (3 credits)
+#### **Fall Semester 3**
 
-**Year Three – Advanced Sentient Technology**
+### **SNT 201 – Hermetic Systems & Theoretical Frameworks (3 credits)**  
 
-**Fall Semester 5**
+### **SNT 202 – The Role of Metaphor in Cognitive Science (3 credits)**  
 
-•	**ST 301** – Consciousness and Machine Intelligence (3 credits)
+### **SNT 203 – Non-Ordinary States of Consciousness & Knowledge Processing (3 credits)**  
 
-•	**CEN 303** – Advanced AI Architectures (3 credits)
+### **Research Elective in Consciousness & Symbolic Knowledge (3 credits)**  
 
-•	**ST 302** – Human-Computer Symbiosis (3 credits)
+### **General Education Elective (3 credits)**  
 
-•	**Elective in AI, Cognitive Science, or Robotics** (3 credits)
+#### **Spring Semester 4**
 
-•	**General Education Elective** (3 credits)
+### **SNT 204 – Multidimensional Thought & Perception Structuring (3 credits)**  
 
-**Spring Semester 6**
+### **SNT 205 – The Intersection of Esoteric Science & Quantum Theory (3 credits)**  
 
-•	**ST 303** – Ethics and Emerging Sentient Technologies (3 credits)
+### **SNT 206 – The Physics of Consciousness & Reality Modeling (3 credits)**  
 
-•	**ST 304** – Autonomous Systems and Cognitive Robotics (3 credits)
+### **Research Elective in Metaphysical Science (3 credits)**  
 
-•	**ST 305** – Neurotechnology and Adaptive Interfaces (3 credits)
+### **General Education Elective (3 credits)**  
 
-•	**Research Elective in Sentient Systems** (3 credits)
+---
 
-•	**General Education Elective** (3 credits)
+### **Year Three – Advanced Esoteric Inquiry**
 
-**Year Four – Capstone Research & Applications**
+#### **Fall Semester 5**
 
-**Fall Semester 7**
+### **SNT 301 – Philosophical Implications of Hidden Knowledge Systems (3 credits)**  
 
-•	**ST 401** – Independent Research in Sentient Technology (3 credits)
+### **SNT 302 – Theoretical Cosmology & Higher-Dimensional Physics (3 credits)**  
 
-•	**ST 402** – Neural Systems and Adaptive AI (3 credits)
+### **SNT 303 – Archetypal Patterns in Human & Cosmic Systems (3 credits)**  
 
-•	**ST 403** – Senior Seminar: Consciousness, Ethics, and Technology (3 credits)
+### **Elective in Metaphysics, Epistemology, or Symbolic Systems (3 credits)**  
 
-•	**Research Elective in Advanced AI Systems** (3 credits)
+### **General Education Elective (3 credits)**  
 
-•	**General Education Elective** (3 credits)
+#### **Spring Semester 6**
 
-**Spring Semester 8**
+### **SNT 304 – Ancient Knowledge Systems & Their Modern Applications (3 credits)**  
 
-•	**ST 404** – Capstone Project: Sentient System Development (6 credits)
+### **SNT 305 – Ontological Models of Spiritual & Cognitive Evolution (3 credits)**  
 
-•	**ST 405** – Future Directions in Sentient Technology (3 credits)
+### **SNT 306 – Advanced Studies in Esoteric Psychology (3 credits)**  
 
-•	**Final Research Elective or Internship** (3 credits)
+### **Research Elective in Theoretical or Applied Esoteric Science (3 credits)**  
 
-•	**General Education Elective** (3 credits)
+### **General Education Elective (3 credits)**  
+
+---
+
+### **Year Four – Capstone Research & Integration**
+
+#### **Fall Semester 7**
+
+### **SNT 401 – Independent Research in Esoteric Science (3 credits)**  
+
+### **SNT 402 – Senior Seminar: The Future of Esoteric Knowledge (3 credits)**  
+
+### **SNT 403 – Comparative Frameworks of Metaphysical & Scientific Thought (3 credits)**  
+
+### **Research Elective in Transdisciplinary Esoteric Studies (3 credits)**  
+
+### **General Education Elective (3 credits)**  
+
+#### **Spring Semester 8**
+
+### **SNT 404 – Capstone Thesis: Esoteric Science & Reality Modeling (6 credits)**  
+
+### **SNT 405 – Computational Metaphysics & Symbolic Knowledge Integration (3 credits)**  
+
+### **Final Research Elective or Internship (3 credits)**  
+
+### **General Education Elective (3 credits)**  
+
+---
+
+## **Career Pathways for Bachelor of Science Esoteric Science Graduates**
+
+### **Philosophical Researcher & Metaphysical Theorist**  
+
+### **Consciousness Scientist & Cognitive Modeler**  
+
+### **Symbolic Knowledge Systems Specialist**  
+
+### **Transdisciplinary Analyst in Hidden Knowledge Frameworks**  
+
+### **Academic Researcher in Metaphysical & Scientific Integration**  

@@ -1,4 +1,4 @@
-The **Department of Epistemology** at the **University of Ontological Science (UOS)** is dedicated to the **systematic study of knowledge, consciousness, and the mechanisms through which reality is perceived, interpreted, and justified**. By integrating **traditional epistemology, consciousness studies, and transpersonal psychology**, this department provides a **comprehensive academic foundation** for understanding the **nature of knowledge, cognitive perception, altered states of awareness, and the intersection between mind and reality**.
+The **Department of Epistemology** at the **University of Ontological Science ** is dedicated to the **systematic study of knowledge, consciousness, and the mechanisms through which reality is perceived, interpreted, and justified**. By integrating **traditional epistemology, consciousness studies, and transpersonal psychology**, this department provides a **comprehensive academic foundation** for understanding the **nature of knowledge, cognitive perception, altered states of awareness, and the intersection between mind and reality**.
 
 Epistemology, the **philosophical study of knowledge**, explores fundamental questions about **what we can know, how we can know it, and the justification of belief systems**. However, in the modern era, epistemology has expanded beyond its philosophical roots to incorporate **scientific inquiry into consciousness, cognitive science, and transpersonal experiences**, providing a more holistic framework for understanding **how knowledge emerges from both rational thought and non-ordinary states of awareness**.
 
@@ -36,27 +36,27 @@ The **Department of Epistemology** houses all related degree programs from **Epi
 
 ### **Bachelor’s Programs (Undergraduate Level)**
 
-•	**B.Sc. Epistemology** – A foundational program exploring **traditional and contemporary theories of knowledge, justification, and belief systems**.
+Bachelor of Science Epistemology** – A foundational program exploring **traditional and contemporary theories of knowledge, justification, and belief systems**.
 
-•	**B.Sc. Consciousness Studies** – A structured program examining **the nature of perception, awareness, and cognitive transformation**.
+Bachelor of Science Consciousness Studies** – A structured program examining **the nature of perception, awareness, and cognitive transformation**.
 
-•	**B.Sc. Transpersonal Psychology** – A specialized program focusing on **higher states of cognition, mystical experiences, and expanded consciousness research**.
+Bachelor of Science Transpersonal Psychology** – A specialized program focusing on **higher states of cognition, mystical experiences, and expanded consciousness research**.
 
 ### **Master’s Programs (Graduate Level)**
 
-•	**M.Sc. Epistemology** – Advanced studies in **formal epistemic structures, cognitive justification, and philosophical knowledge analysis**.
+Master of Science Epistemology** – Advanced studies in **formal epistemic structures, cognitive justification, and philosophical knowledge analysis**.
 
-•	**M.Sc. Consciousness Studies** – A deep exploration of **consciousness models, phenomenology, and cognitive state alterations**.
+Master of Science Consciousness Studies** – A deep exploration of **consciousness models, phenomenology, and cognitive state alterations**.
 
-•	**M.Sc. Transpersonal Psychology** – Graduate-level research into **psychological transformation, spiritual cognition, and transcendent experiences**.
+Master of Science Transpersonal Psychology** – Graduate-level research into **psychological transformation, spiritual cognition, and transcendent experiences**.
 
-### **Doctoral Programs (Ph.D. Level)**
+### **Doctoral Programs (Ph.D. in Level)**
 
-•	**Ph.D. Epistemology** – High-level research into **theoretical and applied epistemology, advanced belief systems, and cognitive models of knowledge**.
+Ph.D. in Epistemology** – High-level research into **theoretical and applied epistemology, advanced belief systems, and cognitive models of knowledge**.
 
-•	**Ph.D. Consciousness Studies** – Scholarly inquiry into **expanded states of awareness, transrational cognition, and consciousness-based epistemics**.
+Ph.D. in Consciousness Studies** – Scholarly inquiry into **expanded states of awareness, transrational cognition, and consciousness-based epistemics**.
 
-•	**Ph.D. Transpersonal Psychology** – Cutting-edge research into **altered perception, expanded cognition, and transformative psychological states**.
+Ph.D. in Transpersonal Psychology** – Cutting-edge research into **altered perception, expanded cognition, and transformative psychological states**.
 
 These programs **train students to become scholars, researchers, and industry leaders**, equipping them with **a deep understanding of both traditional epistemology and consciousness-based knowledge models**.
 
@@ -96,6 +96,6 @@ With its **interdisciplinary approach and focus on both foundational theory and 
 
 **Conclusion: Advancing Knowledge, Cognition, & Consciousness**
 
-The **Department of Epistemology** at the **University of Ontological Science (UOS)** stands at the forefront of **epistemic inquiry, cognitive transformation, and consciousness-based knowledge exploration**. Through **advanced degree programs, interdisciplinary research opportunities, and applied methodologies**, the department prepares the next generation of **epistemologists, cognitive scientists, and consciousness researchers** to advance **human understanding of intelligence, knowledge, and expanded awareness**.
+The **Department of Epistemology** at the **University of Ontological Science ** stands at the forefront of **epistemic inquiry, cognitive transformation, and consciousness-based knowledge exploration**. Through **advanced degree programs, interdisciplinary research opportunities, and applied methodologies**, the department prepares the next generation of **epistemologists, cognitive scientists, and consciousness researchers** to advance **human understanding of intelligence, knowledge, and expanded awareness**.
 
 [**Department of Epistemology – Shared Elective Pool (25 Courses)**](https://www.notion.so/Department-of-Epistemology-Shared-Elective-Pool-25-Courses-1942c2ffeee280539ea5fdc3899e94e2?pvs=21)
