@@ -1,6 +1,7 @@
 # Department of Aesthetics & Art Course Descriptions
 
-## First Year (100-level)
+
+[su_spoiler title="First Year (100-level)" open="no"]
 
 ### AA101: Introduction to Aesthetic Theory
 Surveys foundational concepts in the philosophical study of beauty, art, and aesthetic experience. Introduces students to key questions about the nature of aesthetic judgment, taste, and aesthetic value. Examines historical and contemporary frameworks for understanding how we perceive, interpret, and evaluate beauty in art and nature.
@@ -26,7 +27,8 @@ Provides hands-on experience with various artistic media and creative processes.
 ### AA195: First-Year Aesthetic Exploration Seminar
 A collaborative seminar focusing on developing skills in aesthetic analysis and interpretation. Students engage in guided observation, discussion, and written reflection on diverse artworks and aesthetic phenomena. Introduces methodologies for articulating aesthetic experience and judgment while building a shared vocabulary for aesthetic discourse.
 
-## Second Year (200-level)
+[/su_spoiler]
+[su_spoiler title="Second Year (200-level)" open="no"]
 
 ### AA201: Phenomenology of Aesthetic Experience
 Explores the first-person, lived experience of encountering art and beauty. Applies phenomenological methods to understand the structures of aesthetic consciousness. Examines how embodied presence, temporality, intentionality, and intersubjectivity shape aesthetic engagement with artworks and environments.
@@ -52,7 +54,8 @@ Investigates aesthetic dimensions of digital media, virtual environments, and co
 ### AA270: Metaphysics of Creative Expression
 Explores metaphysical aspects of artistic creation and creative processes. Examines questions about artistic inspiration, imagination, creative intuition, and the ontological status of artistic ideas. Considers various philosophical traditions' perspectives on creativity as a metaphysical phenomenon related to being and becoming.
 
-## Third Year (300-level)
+[/su_spoiler]
+[su_spoiler title="Third Year (300-level)" open="no"]
 
 ### AA301: Advanced Aesthetic Theory
 Engages with complex contemporary theories of aesthetics, including post-structuralism, critical theory, phenomenology, and cognitive approaches. Analyzes theoretical frameworks for understanding aesthetic value, meaning, interpretation, and the social functions of art. Develops sophisticated conceptual tools for engaging with contemporary aesthetic discourse.
@@ -84,7 +87,8 @@ Guides students in developing sophisticated research projects in aesthetics and 
 ### AA390: Practicum in Aesthetic Analysis
 Provides supervised practical experience in applying aesthetic theories to the analysis of specific artworks, art movements, or aesthetic phenomena. Students develop case studies demonstrating their ability to connect theoretical frameworks with concrete examples. Emphasizes developing analytical skills applicable to curatorial, critical, or educational contexts.
 
-## Fourth Year (400-level)
+[/su_spoiler]
+[su_spoiler title="Fourth Year (400-level)" open="no"]
 
 ### AA401: Integrative Approaches to Aesthetics
 Synthesizes diverse approaches to aesthetics, encouraging students to develop integrative frameworks that draw on philosophy, psychology, neuroscience, cultural theory, and other relevant disciplines. Examines methodological and conceptual challenges in creating coherent interdisciplinary perspectives on aesthetic phenomena.
@@ -116,7 +120,8 @@ Applies cognitive science to understanding design principles and aesthetic prefe
 ### AA490: Independent Study in Aesthetic Theory
 Provides opportunity for self-directed research on specialized topics in aesthetics under faculty guidance. Students develop personalized reading lists and research questions based on their specific interests. Regular consultation with faculty advisor ensures depth and rigor in independent inquiry.
 
-## Master's Level (500-level)
+[/su_spoiler]
+[su_spoiler title="Master's Level (500-level)" open="no"]
 
 ### AA501: Advanced Theory of Aesthetic Experience
 Engages with sophisticated theoretical frameworks for understanding the nature and structure of aesthetic experience. Critically examines phenomenological, cognitive, and cultural approaches to aesthetic consciousness. Students develop nuanced theoretical positions on the distinctive characteristics of aesthetic engagement with art and world.
@@ -148,7 +153,8 @@ Analyzes how art functions as a form of social communication, critique, and tran
 ### AA590: Interdisciplinary Approaches to Aesthetics
 Explores theoretical and methodological frameworks that connect aesthetics with other disciplines including cognitive science, cultural studies, environmental studies, and technology studies. Students develop integrative approaches that bridge disciplinary boundaries while maintaining theoretical coherence and methodological rigor.
 
-## Doctoral Level (600-700-level)
+[/su_spoiler]
+[su_spoiler title="Doctoral Level (600-700-level)" open="no"]
 
 ### AA601: Philosophical Foundations of Aesthetic Theory
 Examines the deep philosophical underpinnings of aesthetic theory across different philosophical traditions. Analyzes how fundamental metaphysical, epistemological, and ontological commitments shape different approaches to aesthetics. Students develop sophisticated understanding of the philosophical foundations of their own aesthetic research.
@@ -193,4 +199,4 @@ Investigates philosophical questions arising from emerging technologies that cre
 Research-focused examination of relationships between artistic practice, aesthetic experience, and cognitive processes. Integrates advanced theories from cognitive science with philosophical aesthetics to develop sophisticated accounts of how art engages with, reveals, or transforms cognitive structures and processes.
 
 ### AA750: Aesthetics and the Philosophy of Mind
-Explores connections between aesthetic theory and philosophical accounts of mind, consciousness, and cognition. Examines how aesthetic phenomena inform or challenge theories of mind, and how different philosophical approaches to mind shape understanding of aesthetic experience. Students develop original theoretical frameworks connecting these domains.
+Explores connections between aesthetic theory and philosophical accounts of mind, consciousness, and cognition. Examines how aesthetic phenomena inform or challenge theories of mind, and how different philosophical approaches to mind shape understanding of aesthetic experience. Students develop original theoretical frameworks connecting these domains.[/su_spoiler]

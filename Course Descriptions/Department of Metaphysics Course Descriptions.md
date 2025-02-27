@@ -1,6 +1,7 @@
 # Department of Metaphysics Course Descriptions
 
-## First Year (100-level)
+
+[su_spoiler title="First Year (100-level)" open="no"]
 
 ### MP101: Introduction to Metaphysical Principles
 Provides a foundational overview of metaphysics as the philosophical study of the fundamental nature of reality. Introduces key metaphysical questions regarding being, existence, time, causality, mind, and ultimate reality. Explores major metaphysical concepts such as substance, essence, potentiality, actuality, universals, and particulars. Establishes the conceptual framework for more specialized metaphysical inquiry while developing skills in metaphysical reasoning and analysis.
@@ -26,7 +27,8 @@ Explores philosophical approaches to understanding reality beyond ordinary senso
 ### MP195: First-Year Metaphysical Exploration Seminar
 Collaborative seminar where students apply foundational metaphysical concepts to specific areas of inquiry. Through guided discussions, reflective exercises, and collaborative projects, students deepen their understanding of basic metaphysical principles while developing skills in metaphysical reasoning, analysis, and discourse. Emphasizes integration of theoretical understanding with experiential exploration of metaphysical questions.
 
-## Second Year (200-level)
+[/su_spoiler]
+[su_spoiler title="Second Year (200-level)" open="no"]
 
 ### MP201: Classical Metaphysical Systems
 Provides in-depth examination of major systematic approaches to metaphysics from classical traditions. Covers Platonic Forms, Aristotelian metaphysics, Neoplatonism, Thomistic metaphysics, and other influential classical systems. Students analyze the structure, principles, and metaphysical categories of these systems while understanding their historical influence and contemporary relevance.
@@ -52,7 +54,8 @@ Investigates metaphysical theories regarding the nature of time, space, and caus
 ### MP270: Metaphysical Aspects of Quantum Theory
 Explores metaphysical implications of quantum physics for understanding reality. Examines quantum phenomena including wave-particle duality, quantum indeterminacy, non-locality, measurement problem, and quantum entanglement. Investigates various interpretations of quantum mechanics and their metaphysical commitments. Students consider how quantum theory challenges classical metaphysical assumptions while possibly opening new approaches to metaphysical questions.
 
-## Third Year (300-level)
+[/su_spoiler]
+[su_spoiler title="Third Year (300-level)" open="no"]
 
 ### MP301: Advanced Metaphysical Theory
 Provides sophisticated examination of contemporary metaphysical theories and debates. Covers issues such as composition, persistence through time, identity, emergence, and metaphysical grounding. Students develop advanced analytical skills while engaging with cutting-edge metaphysical literature and formulating original perspectives on fundamental metaphysical questions.
@@ -84,7 +87,8 @@ Guides students in developing sophisticated research projects investigating spec
 ### MP390: Practicum in Metaphysical Analysis
 Provides supervised practical experience in applying metaphysical frameworks to analyze specific phenomena, texts, or systems of thought. Students develop case studies demonstrating their ability to apply metaphysical principles and methodologies to particular domains. Emphasizes developing analytical skills applicable to various contexts while integrating theoretical knowledge with practical application.
 
-## Fourth Year (400-level)
+[/su_spoiler]
+[su_spoiler title="Fourth Year (400-level)" open="no"]
 
 ### MP401: Integrative Metaphysical Studies
 Synthesizes diverse metaphysical approaches and domains of knowledge into coherent frameworks. Students develop integrative models that bridge scientific, philosophical, psychological, and experiential knowledge about the nature of reality. Emphasizes identifying patterns, principles, and relationships across different metaphysical systems while encouraging development of original integrative perspectives.
@@ -116,7 +120,8 @@ Investigates metaphysical questions arising from digital technologies, virtual w
 ### MP490: Independent Study in Metaphysical Theory
 Self-directed investigation of specialized topics in metaphysics under faculty supervision. Students develop personalized reading lists and research questions based on their specific interests. Regular consultation with faculty advisor ensures depth and rigor in independent inquiry. Culminates in a substantial research paper or project demonstrating mastery of specialized metaphysical knowledge.
 
-## Master's Level (500-level)
+[/su_spoiler]
+[su_spoiler title="Master's Level (500-level)" open="no"]
 
 ### MP501: Advanced Theory of Metaphysical Systems
 Critically analyzes the structure, principles, and methodologies of metaphysical systems. Examines how metaphysical frameworks organize concepts, establish ontological commitments, and approach fundamental questions. Students develop sophisticated meta-theoretical understanding of how metaphysical systems function while formulating criteria for evaluating their coherence, scope, and explanatory power.
@@ -148,7 +153,8 @@ Investigates metaphysical theories that conceptualize reality in terms of inform
 ### MP590: Applied Metaphysical Principles
 Explores practical applications of metaphysical understanding in various domains including psychology, education, healthcare, organizational design, and creative arts. Students develop frameworks for translating metaphysical principles into practical methodologies while considering ethical considerations and validation criteria for applied metaphysics.
 
-## Doctoral Level (600-700-level)
+[/su_spoiler]
+[su_spoiler title="Doctoral Level (600-700-level)" open="no"]
 
 ### MP601: Philosophical Foundations of Advanced Metaphysics
 Examines fundamental philosophical questions underlying metaphysical inquiry. Analyzes concepts such as being, existence, reality, substance, causation, and modality from various philosophical perspectives. Students develop sophisticated understanding of the philosophical underpinnings of metaphysical claims while formulating original positions on foundational metaphysical questions.
@@ -193,4 +199,4 @@ Advanced investigation of connections between quantum physics and esoteric metap
 Research-oriented seminar focused on integrating diverse knowledge domains into coherent metaphysical frameworks. Explores methodologies for synthesizing scientific, philosophical, experiential, and traditional knowledge. Students develop original integrative approaches while critically evaluating the strengths and limitations of integrative metaphysics.
 
 ### MP750: Metaphysics and Post-Material Science
-Examines emerging scientific paradigms that move beyond strict materialism toward more inclusive understandings of consciousness, information, and reality. Explores consciousness-based physical theories, biofield science, quantum biology, and other approaches bridging scientific and metaphysical understanding. Students investigate how post-material science might transform metaphysical thinking while addressing perennial questions about the nature of reality.
+Examines emerging scientific paradigms that move beyond strict materialism toward more inclusive understandings of consciousness, information, and reality. Explores consciousness-based physical theories, biofield science, quantum biology, and other approaches bridging scientific and metaphysical understanding. Students investigate how post-material science might transform metaphysical thinking while addressing perennial questions about the nature of reality.[/su_spoiler]

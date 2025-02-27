@@ -1,6 +1,7 @@
 # Department of Language Course Descriptions
 
-## First Year (100-level)
+
+[su_spoiler title="First Year (100-level)" open="no"]
 
 ### LG101: Introduction to Linguistics
 Provides a comprehensive overview of linguistics as the scientific study of language. Introduces fundamental concepts across major subfields including phonetics, phonology, morphology, syntax, semantics, pragmatics, historical linguistics, and sociolinguistics. Students explore the systematic nature of language, universal properties across languages, and methodologies for linguistic analysis. Establishes the foundation for more specialized study of language structure and function.
@@ -26,7 +27,8 @@ Examines the psychological and neurological processes involved in language compr
 ### LG195: First-Year Language Analysis Practicum
 Hands-on course applying linguistic concepts to analyze language data from diverse languages. Students develop practical skills in phonetic transcription, grammatical analysis, meaning description, and cross-linguistic comparison. Emphasizes methodological approaches to language documentation and analysis through guided projects working with both familiar and unfamiliar languages. Reinforces theoretical concepts through direct application to linguistic data.
 
-## Second Year (200-level)
+[/su_spoiler]
+[su_spoiler title="Second Year (200-level)" open="no"]
 
 ### LG201: Syntax and Grammatical Theory
 Provides in-depth examination of syntactic structures and theoretical approaches to grammatical analysis. Covers phrase structure, syntactic relations, transformations, universal grammar, and parametric variation across languages. Students develop skills in syntactic argumentation, tree diagramming, and formulating grammatical rules. Explores competing syntactic theories and their explanatory power for understanding linguistic competence.
@@ -52,7 +54,8 @@ Explores relationships between language structure, conceptual systems, and perce
 ### LG270: Computational Linguistics Basics
 Introduces computational approaches to analyzing and modeling language. Covers formal language theory, finite-state methods, parsing algorithms, corpus analysis, and statistical approaches to language processing. Students gain hands-on experience with computational tools for linguistic analysis while understanding theoretical foundations of natural language processing. No prior programming experience required, though basic logical thinking skills are essential.
 
-## Third Year (300-level)
+[/su_spoiler]
+[su_spoiler title="Third Year (300-level)" open="no"]
 
 ### LG301: Advanced Linguistic Theory
 Examines contemporary theoretical frameworks in linguistics, their assumptions, methodologies, and explanatory goals. Compares and evaluates generative, functional, cognitive, and other approaches to language analysis. Students develop sophisticated understanding of theoretical debates while refining their ability to assess competing analyses of linguistic phenomena. Emphasizes theoretical coherence, empirical adequacy, and explanatory power.
@@ -84,7 +87,8 @@ Guides students in developing sophisticated research projects investigating conn
 ### LG390: Practicum in Field Linguistics
 Provides hands-on experience in documenting and analyzing an unfamiliar language through work with a native speaker consultant. Students apply elicitation techniques to discover phonological, grammatical, and semantic patterns. Develops skills in phonetic transcription, data organization, pattern recognition, hypothesis testing, and grammatical description. Emphasizes ethical and methodological best practices in language documentation and analysis.
 
-## Fourth Year (400-level)
+[/su_spoiler]
+[su_spoiler title="Fourth Year (400-level)" open="no"]
 
 ### LG401: Integrative Language Theory
 Synthesizes insights from multiple theoretical perspectives and subfields of linguistics to develop comprehensive approaches to language phenomena. Students integrate phonological, syntactic, semantic, pragmatic, and cognitive dimensions in analyzing complex linguistic data. Emphasizes theoretical integration, methodological pluralism, and developing unified accounts of language structure and use that bridge traditionally separate domains of inquiry.
@@ -116,7 +120,8 @@ Investigates designed languages and formal communication systems including logic
 ### LG490: Independent Study in Linguistic Theory
 Self-directed investigation of specialized topics in linguistics under faculty supervision. Students develop personalized reading lists and research questions based on their specific interests. Regular consultation with faculty advisor ensures depth and rigor in independent inquiry. Culminates in a substantial research paper or project demonstrating mastery of specialized linguistic knowledge.
 
-## Master's Level (500-level)
+[/su_spoiler]
+[su_spoiler title="Master's Level (500-level)" open="no"]
 
 ### LG501: Advanced Theory of Linguistic Structure
 Critically examines theoretical frameworks for analyzing language structure, comparing their assumptions, methodologies, and explanatory adequacy. Students develop sophisticated understanding of how different theories conceptualize linguistic knowledge, acquisition, and processing. Emphasizes theoretical integration while encouraging development of original theoretical perspectives on linguistic phenomena.
@@ -148,7 +153,8 @@ Investigates how bodily experience shapes linguistic structure and meaning. Exam
 ### LG590: Linguistic Interfaces with Other Cognitive Systems
 Examines interactions between language and other cognitive domains including vision, action, memory, attention, and social cognition. Explores language-vision integration, gesture-speech coordination, linguistic effects on memory, and language in social interaction. Students investigate how language interfaces with other cognitive systems while considering implications for theories of cognitive architecture and linguistic representation.
 
-## Doctoral Level (600-700-level)
+[/su_spoiler]
+[su_spoiler title="Doctoral Level (600-700-level)" open="no"]
 
 ### LG601: Philosophical Foundations of Language Theory
 Examines the philosophical underpinnings of approaches to studying language. Analyzes ontological, epistemological, and methodological assumptions in linguistic theories. Explores philosophical problems concerning the nature of linguistic knowledge, meaning, reference, truth, and linguistic reality. Students develop sophisticated understanding of philosophical foundations while considering their implications for linguistic inquiry.
@@ -193,4 +199,4 @@ Explores applications of quantum theoretical frameworks to understanding languag
 Research-oriented investigation of how humans develop and use symbol systems for cognition and communication. Explores the evolutionary, developmental, neural, and cognitive foundations of symbolic capacity. Examines relationships between language and other symbolic systems including mathematics, music, and visual symbolism. Students develop original theoretical perspectives on human symbolic cognition.
 
 ### LG750: Language and the Extended Mind
-Investigates how language functions as an extension of cognitive processes beyond the individual brain. Explores theories of extended, distributed, and collective cognition applied to language. Examines language as cognitive technology, linguistic niche construction, and the role of language in coordinating social cognition. Students develop innovative theoretical frameworks for understanding language as extending mind beyond traditional cognitive boundaries.
+Investigates how language functions as an extension of cognitive processes beyond the individual brain. Explores theories of extended, distributed, and collective cognition applied to language. Examines language as cognitive technology, linguistic niche construction, and the role of language in coordinating social cognition. Students develop innovative theoretical frameworks for understanding language as extending mind beyond traditional cognitive boundaries.[/su_spoiler]

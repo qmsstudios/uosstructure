@@ -1,6 +1,7 @@
 # School of Ethical Studies Course Descriptions
 
-## First Year (100-level)
+
+[su_spoiler title="First Year (100-level)" open="no"]
 
 ### ES101: Introduction to Ethical Theory
 Provides a foundational overview of major philosophical approaches to understanding ethics and moral reasoning. Introduces key ethical frameworks including virtue ethics, deontology, consequentialism, care ethics, and other normative theories. Examines fundamental questions about the nature of moral judgment, ethical reasoning, and the foundations of moral values. Students develop conceptual tools for ethical analysis while understanding historical and contemporary approaches to ethical inquiry.
@@ -26,7 +27,8 @@ Provides overview of how ethical theory informs decision-making in specific doma
 ### ES195: First-Year Ethical Reasoning Practicum
 Experiential course focused on developing practical ethical reasoning skills. Through case studies, moral dilemmas, simulations, and reflective exercises, students practice applying ethical frameworks to concrete situations. Emphasizes developing analytical abilities, moral imagination, and ethical deliberation skills while integrating theoretical understanding with practical application.
 
-## Second Year (200-level)
+[/su_spoiler]
+[su_spoiler title="Second Year (200-level)" open="no"]
 
 ### ES201: Virtue Ethics and Character Development
 Examines virtue-based approaches to ethics with emphasis on character formation and moral development. Explores classical virtue ethics, contemporary virtue theory, character education, and the psychology of virtue. Students investigate how virtues are cultivated and expressed while considering the role of character, habits, and moral exemplars in ethical life and personal development.
@@ -52,7 +54,8 @@ Explores ethical frameworks for analyzing and addressing social inequities and s
 ### ES270: Ethical Decision-Making Models
 Provides practical frameworks and methodologies for making ethical decisions in complex situations. Examines various structured approaches to ethical problem-solving, moral deliberation, and values-based decision-making. Students learn systematic processes for analyzing ethical dilemmas while developing skills in making well-reasoned ethical judgments when facing conflicting values and competing obligations.
 
-## Third Year (300-level)
+[/su_spoiler]
+[su_spoiler title="Third Year (300-level)" open="no"]
 
 ### ES301: Advanced Ethical Theory
 Provides sophisticated examination of contemporary developments in ethical theory. Analyzes current debates in normative ethics, metaethics, and moral psychology. Students engage with cutting-edge theoretical perspectives while developing advanced understanding of how different ethical frameworks address fundamental questions about moral knowledge, motivation, and justification.
@@ -84,7 +87,8 @@ Guides students in developing sophisticated research projects investigating ethi
 ### ES390: Practicum in Applied Ethics
 Provides supervised practical experience in applying ethical frameworks to address specific questions or problems in real-world contexts. Students develop case studies demonstrating their ability to analyze ethical dimensions of particular domains such as healthcare, business, environmental policy, or technology. Emphasizes developing analytical skills applicable to various contexts while integrating theoretical knowledge with practical wisdom.
 
-## Fourth Year (400-level)
+[/su_spoiler]
+[su_spoiler title="Fourth Year (400-level)" open="no"]
 
 ### ES401: Integrative Approaches to Ethics
 Synthesizes diverse ethical perspectives from across philosophical traditions, scientific findings, and cultural frameworks. Students develop integrative models that bridge multiple approaches while addressing fundamental questions about ethical knowledge, moral motivation, and the foundations of values. Emphasizes theoretical integration while encouraging development of original perspectives on ethical questions.
@@ -116,7 +120,8 @@ Explores capacities for navigating complex ethical challenges in leadership cont
 ### ES490: Independent Study in Ethical Theory
 Self-directed investigation of specialized topics in ethics under faculty supervision. Students develop personalized reading lists and research questions based on their specific interests. Regular consultation with faculty advisor ensures depth and rigor in independent inquiry. Culminates in a substantial research paper or project demonstrating mastery of specialized ethical knowledge.
 
-## Master's Level (500-level)
+[/su_spoiler]
+[su_spoiler title="Master's Level (500-level)" open="no"]
 
 ### ES501: Advanced Theory of Moral Systems
 Critically analyzes theoretical frameworks for understanding the structure and function of moral systems. Examines evolutionary, psychological, sociological, and philosophical approaches to understanding how moral systems emerge, operate, and evolve. Students develop sophisticated meta-theoretical understanding of morality while formulating original perspectives on the nature and function of moral systems.
@@ -148,7 +153,8 @@ Investigates relationships between consciousness, awareness, and ethical underst
 ### ES590: Professional Ethics Consulting
 Provides advanced training in applying ethical expertise to professional contexts. Covers ethics consultation methodologies, organizational ethics program development, ethics education approaches, and professional ethics advising. Students develop sophisticated skills in translating ethical expertise into practical guidance while understanding challenges and opportunities in ethics consultation across different professional domains.
 
-## Doctoral Level (600-700-level)
+[/su_spoiler]
+[su_spoiler title="Doctoral Level (600-700-level)" open="no"]
 
 ### ES601: Philosophical Foundations of Ethical Theory
 Examines fundamental philosophical questions underlying various approaches to ethical theory. Analyzes ontological, epistemological, and anthropological assumptions in different ethical frameworks. Students develop sophisticated understanding of philosophical foundations while formulating original perspectives on foundational questions about the nature of ethics and moral knowledge.
@@ -193,4 +199,4 @@ Research-oriented exploration of ethical questions surrounding technological enh
 Research-focused examination of ethical systems functioning at global scales. Explores ethical dimensions of global governance, cross-cultural ethical dialogue, global justice frameworks, and approaches to transnational ethical challenges. Students develop sophisticated understanding of global ethical complexity while formulating original approaches to addressing ethical questions that transcend national and cultural boundaries.
 
 ### ES750: Integrative Approaches to Ethical Development
-Advanced investigation of theories and methodologies for fostering ethical development across individual, organizational, and societal levels. Examines integrative frameworks drawing from multiple disciplines including psychology, sociology, philosophy, education, and contemplative traditions. Students develop innovative approaches to ethical development while critically evaluating existing models and their empirical foundations.
+Advanced investigation of theories and methodologies for fostering ethical development across individual, organizational, and societal levels. Examines integrative frameworks drawing from multiple disciplines including psychology, sociology, philosophy, education, and contemplative traditions. Students develop innovative approaches to ethical development while critically evaluating existing models and their empirical foundations.[/su_spoiler]

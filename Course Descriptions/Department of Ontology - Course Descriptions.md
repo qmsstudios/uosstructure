@@ -1,6 +1,7 @@
 # Department of Ontology - Course Descriptions
 
-## First Year (100-level)
+
+[su_spoiler title="First Year (100-level)" open="no"]
 
 ### ON101: Introduction to Ontological Science
 A foundational course introducing students to the core principles and methodologies of ontological science. Topics include basic concepts of existence, reality modeling, and the interdisciplinary nature of ontological inquiry. Students will explore the historical development of ontology as a field and its modern applications in philosophy, computer science, and artificial intelligence.
@@ -26,7 +27,8 @@ This course examines the relationship between ontology and metaphysics, focusing
 ### ON195: First-Year Ontological Modeling Practicum
 A hands-on course where students apply theoretical knowledge from first-year courses to create basic ontological models. Working in small groups, students will develop simple domain ontologies using standard tools and methodologies. The course emphasizes practical skills in knowledge representation and introduces students to ontology development software.
 
-## Second Year (200-level)
+[/su_spoiler]
+[su_spoiler title="Second Year (200-level)" open="no"]
 
 ### ON201: Classical Ontological Systems
 An in-depth study of major historical ontological systems, including Aristotelian categories, medieval scholasticism, and rationalist approaches. Students will analyze the structural elements of these systems and evaluate their coherence, comprehensiveness, and philosophical implications.
@@ -52,7 +54,8 @@ A survey of specialized ontologies developed for specific domains such as medici
 ### ON270: Philosophy of Science and Reality
 This course explores how scientific theories implicitly or explicitly commit to ontological frameworks. Students will examine scientific realism, instrumentalism, and constructivism, along with the ontological implications of major scientific theories. The course addresses how science influences our understanding of what exists and how ontology can contribute to scientific progress.
 
-## Third Year (300-level)
+[/su_spoiler]
+[su_spoiler title="Third Year (300-level)" open="no"]
 
 ### ON301: Advanced Ontological Theory
 A rigorous examination of contemporary ontological theories and debates. Students will engage with current literature in the field, analyzing topics such as ontological commitment, realism vs. anti-realism, and the nature of ontological disputes. The course emphasizes critical analysis and argumentation at an advanced level.
@@ -84,7 +87,8 @@ This research-intensive course guides students through the process of conducting
 ### ON390: Practicum in Ontology Development
 A project-based course where students work in teams to develop comprehensive ontologies for specific applications. The course simulates professional ontology development environments, with students handling the entire lifecycle from requirements gathering to implementation and evaluation. External partners may provide real-world problems for student teams.
 
-## Fourth Year (400-level)
+[/su_spoiler]
+[su_spoiler title="Fourth Year (400-level)" open="no"]
 
 ### ON401: Integrative Approaches to Ontology
 This capstone course synthesizes knowledge from across the ontology curriculum, emphasizing the integration of philosophical, logical, and computational perspectives. Students will explore unified approaches to ontological problems and develop their own integrative frameworks that bridge traditional divisions in the field.
@@ -116,7 +120,8 @@ This course explores how ontologies enable advanced reasoning capabilities in ar
 ### ON490: Independent Study in Ontological Theory
 A flexible course allowing students to pursue specialized interests in ontology under faculty supervision. Students will develop individualized learning plans, conduct independent research, and produce scholarly work in their chosen area of focus. Prerequisite: permission of instructor and department chair.
 
-## Master's Level (500-level)
+[/su_spoiler]
+[su_spoiler title="Master's Level (500-level)" open="no"]
 
 ### ON501: Advanced Theory of Ontological Systems
 A graduate-level examination of sophisticated theoretical frameworks in ontology. Students will analyze complex ontological systems, their axioms, formal properties, and philosophical implications. The course emphasizes rigorous assessment of ontological commitments and the development of novel theoretical perspectives.
@@ -148,7 +153,8 @@ This course examines how ontological frameworks enhance scientific research acro
 ### ON590: Ontology for Artificial Intelligence
 An advanced exploration of ontology's role in artificial intelligence systems. Students will study how ontological frameworks support machine learning, natural language processing, computer vision, and automated reasoning. Topics include symbol grounding, semantic networks for AI, and the integration of statistical and symbolic approaches in AI.
 
-## Doctoral Level (600-700-level)
+[/su_spoiler]
+[su_spoiler title="Doctoral Level (600-700-level)" open="no"]
 
 ### ON601: Philosophical Foundations of Advanced Ontology
 A doctoral seminar examining the deepest philosophical questions underlying ontological inquiry. Students will engage with primary texts from classical and contemporary philosophical traditions, developing sophisticated positions on fundamental issues in ontology and metaphysics.
@@ -193,4 +199,4 @@ This advanced course investigates ontological models for quantum information and
 A specialized seminar examining the computational implementation of metaphysical theories. Students will study formal approaches to metaphysical questions, the use of automated reasoning to explore metaphysical arguments, and the development of computational systems that embody specific metaphysical commitments.
 
 ### ON750: Ontology and Post-Human Intelligence
-This forward-looking course explores ontological questions related to artificial general intelligence, enhanced human cognition, and potential post-human forms of intelligence. Students will examine how advanced forms of intelligence might develop, employ, and transform ontological frameworks, considering philosophical and practical implications for the future of ontology as a field.
+This forward-looking course explores ontological questions related to artificial general intelligence, enhanced human cognition, and potential post-human forms of intelligence. Students will examine how advanced forms of intelligence might develop, employ, and transform ontological frameworks, considering philosophical and practical implications for the future of ontology as a field.[/su_spoiler]

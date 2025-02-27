@@ -1,6 +1,7 @@
 # Department of Mindfulness & Integrative Practices Course Descriptions
 
-## First Year (100-level)
+
+[su_spoiler title="First Year (100-level)" open="no"]
 
 ### MIP101: Introduction to Mindfulness Principles
 Provides a foundational overview of mindfulness as both an ancient contemplative tradition and contemporary evidence-based approach. Introduces core mindfulness concepts including present-moment awareness, non-judgmental attention, meta-cognition, and embodied presence. Examines the historical development of mindfulness practices across traditions while exploring scientific research on mindfulness benefits. Includes regular practice of basic mindfulness techniques.
@@ -26,7 +27,8 @@ Investigates ethical frameworks across contemplative traditions and their applic
 ### MIP195: First-Year Experiential Learning Practicum
 Provides structured opportunities to develop personal contemplative practice through regular guided sessions and reflective activities. Students establish foundational mindfulness skills through consistent practice while learning to observe and articulate their subjective experience. Includes journaling, peer dialogue, and mentoring support to integrate conceptual understanding with experiential exploration.
 
-## Second Year (200-level)
+[/su_spoiler]
+[su_spoiler title="Second Year (200-level)" open="no"]
 
 ### MIP201: Applied Mindfulness Techniques
 Builds on foundational mindfulness skills to explore more advanced practices and their applications to specific life situations. Covers techniques for working with difficult emotions, mindful communication, mindfulness in relationships, and applying awareness in daily activities. Students develop a more nuanced understanding of how to adapt and apply mindfulness across different contexts and challenges.
@@ -52,7 +54,8 @@ Explores the application of mindfulness principles to interpersonal communicatio
 ### MIP270: Cultural Contexts of Mindfulness Practices
 Examines how cultural contexts shape the development, meaning, and application of contemplative practices. Analyzes how mindfulness has been adapted across different cultures and historical periods. Students develop cultural sensitivity in approaching diverse contemplative traditions while considering ethical questions about cultural appropriation, adaptation, and integration of practices across cultural boundaries.
 
-## Third Year (300-level)
+[/su_spoiler]
+[su_spoiler title="Third Year (300-level)" open="no"]
 
 ### MIP301: Advanced Mindfulness Theory
 Provides sophisticated examination of theoretical frameworks for understanding mindfulness and its mechanisms of action. Explores Buddhist psychological models, Western psychological theories of mindfulness, cognitive perspectives, and contemplative neuroscience frameworks. Students develop advanced conceptual understanding of how different theoretical approaches illuminate various aspects of mindfulness practice and its effects.
@@ -84,7 +87,8 @@ Guides students in developing sophisticated research projects investigating cont
 ### MIP390: Practicum in Mindfulness Facilitation
 Provides supervised experience in facilitating basic mindfulness practices for others. Students develop fundamental teaching skills through practice teaching sessions, receiving structured feedback, and reflective analysis of facilitation experiences. Emphasis on embodying mindfulness qualities while guiding others, ethical considerations in teaching, and adapting practices for diverse participants.
 
-## Fourth Year (400-level)
+[/su_spoiler]
+[su_spoiler title="Fourth Year (400-level)" open="no"]
 
 ### MIP401: Integrative Approaches to Well-being
 Synthesizes diverse contemplative approaches with scientific understanding to develop comprehensive models of human flourishing. Examines psychological, neurobiological, philosophical, and contemplative perspectives on wellbeing. Students develop integrative frameworks that bridge traditional wisdom and contemporary research while exploring practical applications for enhancing individual and collective wellbeing.
@@ -116,7 +120,8 @@ Investigates intersections between digital technologies and contemplative practi
 ### MIP490: Independent Study in Contemplative Practice
 Self-directed investigation of specialized topics in mindfulness or integrative practices under faculty supervision. Students develop personalized learning objectives and projects based on their specific interests. Regular consultation with faculty mentor ensures depth and rigor while allowing exploration of topics beyond the standard curriculum. Culminates in a substantive final project demonstrating mastery of specialized knowledge.
 
-## Master's Level (500-level)
+[/su_spoiler]
+[su_spoiler title="Master's Level (500-level)" open="no"]
 
 ### MIP501: Advanced Theory of Mindfulness and Cognition
 Critically analyzes theoretical frameworks for understanding mindfulness from cognitive science perspectives. Examines attention networks, predictive processing, cognitive control, metacognition, and other cognitive models relevant to contemplative practices. Students develop sophisticated theoretical understanding while formulating original perspectives on mindfulness mechanisms and effects.
@@ -148,7 +153,8 @@ Provides specialized focus on applications of contemplative practices in educati
 ### MIP590: Clinical Applications of Contemplative Practices
 Examines use of mindfulness-based approaches in clinical psychology, psychiatry, and healthcare. Explores mechanisms, efficacy evidence, contraindications, and integration with other therapeutic modalities. Students develop advanced understanding of how contemplative practices function within clinical contexts while considering professional, ethical, and practical dimensions of clinical applications.
 
-## Doctoral Level (600-700-level)
+[/su_spoiler]
+[su_spoiler title="Doctoral Level (600-700-level)" open="no"]
 
 ### MIP601: Philosophical Foundations of Contemplative Science
 Examines epistemological, ontological, and ethical questions underlying the scientific study of contemplative practices. Analyzes philosophical assumptions in both contemplative traditions and scientific approaches. Students develop sophisticated understanding of philosophical issues in contemplative science while formulating original perspectives on integrating first-person and third-person approaches to studying consciousness and contemplation.
@@ -193,4 +199,4 @@ Research-oriented investigation of wisdom traditions emphasizing embodied knowle
 Research-focused examination of frameworks for integrating contemplative practices with scientific understanding, healthcare, education, and other domains. Students develop original integrative approaches while critically evaluating the strengths and limitations of different integration models. Emphasizes theoretical sophistication in bridging traditional contemplative wisdom with contemporary knowledge systems.
 
 ### MIP750: Mindfulness and Social Transformation
-Investigates applications of contemplative practices for addressing social challenges, systemic change, and collective wellbeing. Examines theoretical frameworks, research methodologies, and case studies of contemplative approaches to social justice, environmental sustainability, conflict resolution, and organizational change. Students develop original perspectives on mindfulness as a catalyst for social transformation.
+Investigates applications of contemplative practices for addressing social challenges, systemic change, and collective wellbeing. Examines theoretical frameworks, research methodologies, and case studies of contemplative approaches to social justice, environmental sustainability, conflict resolution, and organizational change. Students develop original perspectives on mindfulness as a catalyst for social transformation.[/su_spoiler]

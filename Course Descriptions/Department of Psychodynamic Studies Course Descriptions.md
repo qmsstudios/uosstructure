@@ -1,6 +1,7 @@
 # Department of Psychodynamic Studies Course Descriptions
 
-## First Year (100-level)
+
+[su_spoiler title="First Year (100-level)" open="no"]
 
 ### PDS101: Introduction to Psychodynamic Theory
 Provides a foundational overview of psychodynamic approaches to understanding the human mind and behavior. Introduces core concepts such as the unconscious, psychic determinism, defense mechanisms, and transference. Examines the historical development of psychodynamic thought from Freud through contemporary perspectives. Students develop understanding of how unconscious processes influence human experience while learning basic psychodynamic frameworks for conceptualizing personality, development, and psychopathology.
@@ -23,7 +24,8 @@ Introduces fundamental models of consciousness structure from psychodynamic pers
 ### PDS195: First-Year Seminar in Self-Reflection
 Experiential seminar focused on developing skills in psychodynamic self-observation and reflection. Through structured exercises, journaling, dream work, group process, and other reflective activities, students develop capacities for observing their own mental processes. Emphasizes cultivating the reflective stance essential to psychodynamic understanding while establishing foundations for more advanced explorations of unconscious processes.
 
-## Second Year (200-level)
+[/su_spoiler]
+[su_spoiler title="Second Year (200-level)" open="no"]
 
 ### PDS201: Dream Analysis and Symbolism
 Explores psychodynamic approaches to understanding dreams and symbolic processes. Examines Freudian, Jungian, and contemporary methods of dream interpretation. Covers research on dream function, content analysis, and the neuroscience of dreaming. Students develop skills in working with dream material while understanding the role of dreams in accessing unconscious processes and facilitating psychological integration.
@@ -49,7 +51,8 @@ Explores applications of psychodynamic thinking to understanding cultural phenom
 ### PDS270: Transpersonal Psychology: Basic Principles
 Introduces transpersonal dimensions of psychodynamic theory and research. Examines concepts such as the collective unconscious, archetypal psychology, peak experiences, and spiritual aspects of psychological development. Explores connections between depth psychology and contemplative traditions. Students develop understanding of transpersonal perspectives within the broader psychodynamic tradition while considering their implications for psychological theory and practice.
 
-## Third Year (300-level)
+[/su_spoiler]
+[su_spoiler title="Third Year (300-level)" open="no"]
 
 ### PDS301: Advanced Psychodynamic Theory
 Provides sophisticated examination of contemporary psychodynamic theories. Compares and integrates relational psychoanalysis, intersubjective theory, self psychology, mentalization theory, and other current approaches. Students develop advanced theoretical understanding while formulating their own perspectives on psychodynamic conceptualizations of mind, development, and therapeutic change.
@@ -81,7 +84,8 @@ Guides students in developing sophisticated research projects investigating unco
 ### PDS390: Practicum in Psychodynamic Observation
 Provides supervised experience in applying psychodynamic observational methods in real-world settings. Students conduct structured observations of interpersonal dynamics, group processes, or institutional functioning while applying psychodynamic concepts to understand what they observe. Develops skills in psychodynamically-informed observation while building bridges between theoretical understanding and practical application.
 
-## Fourth Year (400-level)
+[/su_spoiler]
+[su_spoiler title="Fourth Year (400-level)" open="no"]
 
 ### PDS401: Integrative Approaches to Consciousness
 Synthesizes diverse perspectives on consciousness from psychodynamic, cognitive, phenomenological, and neuroscientific approaches. Students develop integrative models that bridge multiple frameworks for understanding conscious and unconscious processes. Emphasizes theoretical integration while encouraging development of original perspectives on the relationship between conscious awareness and unconscious dynamics.
@@ -113,7 +117,8 @@ Investigates psychological impacts of digital technologies, virtual environments
 ### PDS490: Independent Study in Psychodynamic Theory
 Self-directed investigation of specialized topics in psychodynamic studies under faculty supervision. Students develop personalized reading lists and research questions based on their specific interests. Regular consultation with faculty advisor ensures depth and rigor in independent inquiry. Culminates in a substantial research paper or project demonstrating mastery of specialized psychodynamic knowledge.
 
-## Master's Level (500-level)
+[/su_spoiler]
+[su_spoiler title="Master's Level (500-level)" open="no"]
 
 ### PDS501: Advanced Theory of Unconscious Processes
 Critically analyzes theoretical frameworks for understanding unconscious mental processes. Examines scientific evidence, philosophical arguments, and clinical observations supporting different conceptualizations of the unconscious. Students develop sophisticated meta-theoretical understanding of how unconscious processes are conceptualized across different psychodynamic models while formulating their own theoretical perspectives.
@@ -145,7 +150,8 @@ Investigates applications of psychodynamic concepts to understanding organizatio
 ### PDS590: Clinical Applications of Psychodynamic Theory
 Explores applications of psychodynamic understanding in clinical and therapeutic contexts. Examines different models of psychodynamic treatment, therapeutic mechanisms, intervention strategies, and process research on psychodynamic therapy. Students develop sophisticated understanding of how psychodynamic principles inform clinical practice while considering evidence for effectiveness of psychodynamically-oriented approaches.
 
-## Doctoral Level (600-700-level)
+[/su_spoiler]
+[su_spoiler title="Doctoral Level (600-700-level)" open="no"]
 
 ### PDS601: Epistemology of Psychodynamic Knowledge
 Examines philosophical questions about the nature, validity, and justification of psychodynamic knowledge. Analyzes epistemological foundations of different approaches to studying unconscious processes. Students develop sophisticated understanding of debates about how knowledge of unconscious processes is possible while formulating their own epistemological positions on psychodynamic inquiry.
@@ -190,4 +196,4 @@ Investigates psychological dimensions of spiritual and religious experiences fro
 Research-oriented examination of systems theory applications to psychodynamic understanding. Explores concepts such as emergence, self-organization, complexity, non-linear dynamics, and their relevance for conceptualizing unconscious processes. Students develop sophisticated theoretical models that integrate systems perspectives with psychodynamic approaches to understanding psychological phenomena.
 
 ### PDS750: Advanced Neuropsychoanalysis
-Research seminar exploring cutting-edge developments at the intersection of neuroscience and psychoanalytic theory. Examines advanced neuroimaging findings, computational models, and theoretical developments relevant to understanding neural correlates of unconscious processes. Students investigate how neuroscientific and psychodynamic perspectives might mutually inform each other while developing innovative research approaches bridging these domains.
+Research seminar exploring cutting-edge developments at the intersection of neuroscience and psychoanalytic theory. Examines advanced neuroimaging findings, computational models, and theoretical developments relevant to understanding neural correlates of unconscious processes. Students investigate how neuroscientific and psychodynamic perspectives might mutually inform each other while developing innovative research approaches bridging these domains.[/su_spoiler]

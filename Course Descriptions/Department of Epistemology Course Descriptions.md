@@ -1,6 +1,7 @@
 # Department of Epistemology Course Descriptions
 
-## First Year (100-level)
+
+[su_spoiler title="First Year (100-level)" open="no"]
 
 ### EP101: Introduction to Epistemology
 A foundational course introducing the philosophical study of knowledge, belief, and justification. Students explore fundamental questions about what we can know, how we acquire knowledge, and how beliefs are justified. The course provides an overview of major epistemological theories and approaches.
@@ -26,7 +27,8 @@ Explores knowledge acquisition beyond ordinary mental processes. This course int
 ### EP195: First-Year Inquiry Practicum
 A hands-on course where students apply epistemological methods to real-world questions. Through guided inquiry projects, students develop skills in critical analysis, question formulation, and systematic exploration of knowledge problems.
 
-## Second Year (200-level)
+[/su_spoiler]
+[su_spoiler title="Second Year (200-level)" open="no"]
 
 ### EP201: Classical Theories of Knowledge
 A detailed study of foundational theories in epistemology including Platonic, Aristotelian, rationalist, and empiricist models. Students critically analyze these frameworks and their historical impact on understanding knowledge acquisition and justification.
@@ -52,7 +54,8 @@ Focuses on theories of truth including correspondence, coherence, pragmatic, and
 ### EP270: Technology and Epistemic Tools
 Examines how technologies function as epistemic tools that extend human knowledge capabilities. Students explore historical and contemporary technologies that shape knowledge acquisition, from writing systems to digital computation and artificial intelligence.
 
-## Third Year (300-level)
+[/su_spoiler]
+[su_spoiler title="Third Year (300-level)" open="no"]
 
 ### EP301: Advanced Epistemological Theory
 Delves into sophisticated contemporary theories of knowledge, including virtue epistemology, modal epistemology, and naturalized approaches. Students engage with current debates and develop advanced analytical skills in epistemological reasoning.
@@ -84,7 +87,8 @@ A research-intensive course where students design and implement original project
 ### EP390: Practicum in Epistemological Analysis
 Provides hands-on experience applying epistemological analysis to real-world knowledge claims. Students work with case studies from various domains, developing practical skills in evaluating evidence, identifying assumptions, and assessing justification.
 
-## Fourth Year (400-level)
+[/su_spoiler]
+[su_spoiler title="Fourth Year (400-level)" open="no"]
 
 ### EP401: Integrative Approaches to Knowledge
 Synthesizes diverse epistemological frameworks into comprehensive approaches to understanding knowledge. Students develop integrative models that bridge traditional and contemporary theories, examining their explanatory power and limitations.
@@ -116,7 +120,8 @@ Investigates knowledge formation in digital environments and virtual spaces. Stu
 ### EP490: Independent Study in Epistemological Theory
 Allows students to pursue specialized interests in epistemology under faculty guidance. Students develop individualized learning plans and research projects that deepen their expertise in specific areas of epistemological theory or application.
 
-## Master's Level (500-level)
+[/su_spoiler]
+[su_spoiler title="Master's Level (500-level)" open="no"]
 
 ### EP501: Advanced Theory of Knowledge Systems
 A graduate-level examination of sophisticated knowledge system theories. Students critically analyze contemporary epistemological frameworks, developing theoretical models that address complex questions about the nature and structure of knowledge.
@@ -148,7 +153,8 @@ Studies the knowledge value of extraordinary and anomalous experiences. Students
 ### EP590: Applications of Epistemological Theory
 Explores practical applications of epistemological theory in professional contexts. Students examine how epistemological approaches inform fields such as education, artificial intelligence, organizational learning, and complex problem-solving.
 
-## Doctoral Level (600-700-level)
+[/su_spoiler]
+[su_spoiler title="Doctoral Level (600-700-level)" open="no"]
 
 ### EP601: Philosophical Foundations of Advanced Epistemology
 A doctoral-level investigation of the deepest philosophical issues in epistemology. Students engage with fundamental questions about the nature of knowledge, reality, and consciousness, developing sophisticated philosophical frameworks for their research.
@@ -193,4 +199,4 @@ Investigates theories connecting quantum physics, consciousness, and epistemolog
 A high-level seminar focused on integrating diverse epistemological frameworks. Students develop comprehensive models that synthesize traditional and emerging approaches to knowledge, consciousness, and reality perception.
 
 ### EP750: Post-Material Approaches to Knowledge
-Examines epistemological frameworks that go beyond materialist assumptions. Students explore consciousness-based, idealist, and other non-reductive approaches to knowledge, investigating their philosophical foundations and empirical support.
+Examines epistemological frameworks that go beyond materialist assumptions. Students explore consciousness-based, idealist, and other non-reductive approaches to knowledge, investigating their philosophical foundations and empirical support.[/su_spoiler]

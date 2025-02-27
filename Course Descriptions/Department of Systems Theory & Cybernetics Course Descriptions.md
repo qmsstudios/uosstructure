@@ -1,6 +1,7 @@
 # Department of Systems Theory & Cybernetics Course Descriptions
 
-## First Year (100-level)
+
+[su_spoiler title="First Year (100-level)" open="no"]
 
 ### STC101: Introduction to Systems Thinking
 Provides a foundational overview of systems thinking as a transdisciplinary approach to understanding complex phenomena. Introduces key systems concepts including boundaries, emergence, feedback, homeostasis, and self-organization. Examines the historical development of systems approaches and their applications across diverse fields. Students develop basic competency in recognizing and analyzing systems while understanding the paradigm shift from reductionist to systemic thinking.
@@ -26,7 +27,8 @@ Explores the distinctive features of complex adaptive systems (CAS) characterize
 ### STC195: First-Year Systems Modeling Practicum
 Hands-on introduction to basic systems modeling techniques and software tools. Students apply foundational systems concepts to create qualitative and quantitative models of simple systems. Emphasizes developing skills in conceptualizing, diagramming, and simulating system dynamics while encouraging critical reflection on modeling assumptions and limitations. Includes collaborative projects applying systems modeling to real-world problems.
 
-## Second Year (200-level)
+[/su_spoiler]
+[su_spoiler title="Second Year (200-level)" open="no"]
 
 ### STC201: Dynamical Systems Theory
 Examines the mathematical theory of how systems change over time. Covers key concepts including state spaces, attractors, bifurcations, chaos, and stability. Explores analytical methods for characterizing system dynamics and predicting behavior under different conditions. Students develop skills in formulating and analyzing dynamical systems models while understanding fundamental principles governing system evolution over time.
@@ -52,7 +54,8 @@ Applies systems thinking to understanding social groups, organizations, institut
 ### STC270: Automation and Control Systems
 Introduces principles of designing systems that maintain desired states or behaviors through automatic control mechanisms. Covers control architectures, stability analysis, optimization, constraint management, and adaptive control. Examines applications in engineering, computing, organizational management, and biological systems. Students develop understanding of control system design while considering both technical and ethical dimensions of automated control in various contexts.
 
-## Third Year (300-level)
+[/su_spoiler]
+[su_spoiler title="Third Year (300-level)" open="no"]
 
 ### STC301: Advanced Systems Theory
 Provides sophisticated examination of contemporary theoretical frameworks in systems science. Compares and evaluates general systems theory, complexity theory, hierarchical systems theory, autopoietic theory, and other advanced systems approaches. Students develop nuanced theoretical understanding while formulating their own perspectives on system organization, dynamics, and evolution.
@@ -84,7 +87,8 @@ Guides students in developing sophisticated research projects investigating cybe
 ### STC390: Practicum in Systems Design
 Provides supervised experience in applying systems methodologies to real-world design challenges. Students work in teams to analyze system problems, develop integrative solutions, and implement systemic interventions in organizational or community contexts. Emphasizes practical application of systems theory while developing skills in systemic design, evaluation, and stakeholder engagement.
 
-## Fourth Year (400-level)
+[/su_spoiler]
+[su_spoiler title="Fourth Year (400-level)" open="no"]
 
 ### STC401: Integrative Systems Approaches
 Synthesizes multiple systems methodologies and frameworks to develop comprehensive approaches to complex problems. Students integrate concepts and methods from general systems theory, cybernetics, complexity theory, and other systems approaches while developing meta-methodological understanding of how different systems perspectives complement each other.
@@ -116,7 +120,8 @@ Explores how biological systems inform the design of technological and organizat
 ### STC490: Independent Study in Systems Theory
 Self-directed investigation of specialized topics in systems theory or cybernetics under faculty supervision. Students develop personalized reading lists and research questions based on their specific interests. Regular consultation with faculty advisor ensures depth and rigor in independent inquiry. Culminates in a substantial research paper or project demonstrating mastery of specialized systems knowledge.
 
-## Master's Level (500-level)
+[/su_spoiler]
+[su_spoiler title="Master's Level (500-level)" open="no"]
 
 ### STC501: Advanced Theory of Complex Systems
 Critically analyzes theoretical frameworks for understanding complex adaptive systems. Examines multiscale analysis, far-from-equilibrium thermodynamics, information theory, computational mechanics, and other advanced approaches to complexity. Students develop sophisticated theoretical understanding while formulating original perspectives on complex system organization and dynamics.
@@ -148,7 +153,8 @@ Explores systems with the capacity to model future states and incorporate these 
 ### STC590: Systems Approaches to Design and Innovation
 Examines applications of systems thinking to design processes and innovation methodologies. Covers systemic design, design cybernetics, transition design, and complexity-based innovation approaches. Students develop skills in systems-oriented design while understanding how systems perspectives transform design practice and enable more effective innovation in complex environments.
 
-## Doctoral Level (600-700-level)
+[/su_spoiler]
+[su_spoiler title="Doctoral Level (600-700-level)" open="no"]
 
 ### STC601: Philosophical Foundations of Systems Theory
 Examines the philosophical underpinnings of systems approaches, including ontological, epistemological, and methodological assumptions. Analyzes relationships between systems thinking and various philosophical traditions, including phenomenology, pragmatism, process philosophy, and critical realism. Students develop sophisticated understanding of philosophical foundations while formulating original philosophical perspectives on systems and complexity.
@@ -193,4 +199,4 @@ Research-focused examination of autopoiesis theory and its implications for unde
 Investigates cybernetic perspectives on evolutionary processes across biological, cultural, and technological domains. Examines information dynamics in evolution, selection mechanisms, fitness landscapes, evolutionary computation, and major evolutionary transitions. Students explore cutting-edge research on evolutionary systems while developing sophisticated theoretical frameworks for understanding adaptive change processes.
 
 ### STC750: Enactive Systems and Embodied Cognition
-Research-oriented exploration of enactive and embodied approaches to cognitive systems. Examines theoretical frameworks conceptualizing cognition as embedded in and emerging from sensorimotor interaction rather than internal representation. Students investigate relationships between embodiment, autonomy, sense-making, and cognition while developing original perspectives on the systemic and dynamic nature of mind.
+Research-oriented exploration of enactive and embodied approaches to cognitive systems. Examines theoretical frameworks conceptualizing cognition as embedded in and emerging from sensorimotor interaction rather than internal representation. Students investigate relationships between embodiment, autonomy, sense-making, and cognition while developing original perspectives on the systemic and dynamic nature of mind.[/su_spoiler]

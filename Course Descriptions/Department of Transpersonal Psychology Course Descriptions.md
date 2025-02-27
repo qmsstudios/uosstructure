@@ -1,6 +1,7 @@
 # Department of Transpersonal Psychology Course Descriptions
 
-## First Year (100-level)
+
+[su_spoiler title="First Year (100-level)" open="no"]
 
 ### TP101: Introduction to Transpersonal Psychology
 Provides a foundational overview of transpersonal psychology as a field that explores human experiences beyond conventional notions of self and recognizes the spiritual dimensions of human existence. Introduces key concepts including states of consciousness, transpersonal experiences, self-transcendence, and psychological transformation. Examines the historical development, major figures, and core theoretical frameworks of transpersonal psychology while establishing its relationship with other psychological approaches.
@@ -26,7 +27,8 @@ Explores philosophical frameworks for understanding experiences that transcend c
 ### TP195: First-Year Experiential Learning Practicum
 Integrates theoretical learning with experiential exploration of transpersonal concepts and practices. Through guided exercises, group process, reflective writing, and personal practice, students develop skills in self-observation, phenomenological description, and integrating transpersonal ideas with lived experience. Emphasizes developing foundational capacities for transpersonal inquiry while establishing responsible approaches to self-exploration.
 
-## Second Year (200-level)
+[/su_spoiler]
+[su_spoiler title="Second Year (200-level)" open="no"]
 
 ### TP201: Psychodynamic Foundations
 Examines psychodynamic theories with emphasis on their relevance to transpersonal psychology. Explores concepts such as the unconscious, ego development, defense mechanisms, object relations, and depth psychology. Investigates how psychodynamic understanding contributes to transpersonal approaches while considering how transpersonal perspectives extend psychodynamic models. Students develop appreciation for the relationship between depth psychology and transpersonal development.
@@ -52,7 +54,8 @@ Explores methods and approaches designed to catalyze psychological growth and tr
 ### TP270: Introduction to Sentient Technology
 Investigates technologies designed to support consciousness exploration, psychological growth, and transpersonal experiences. Examines biofeedback, neurofeedback, virtual reality, audiovisual entrainment, apps for contemplative practice, and other technologies. Students explore how technology can support psychological development while developing critical thinking about the relationship between technology and transpersonal experience.
 
-## Third Year (300-level)
+[/su_spoiler]
+[su_spoiler title="Third Year (300-level)" open="no"]
 
 ### TP301: Advanced Transpersonal Theory
 Provides sophisticated examination of contemporary theoretical frameworks in transpersonal psychology. Covers key theories including Wilber's integral approach, Grof's holotropic model, transpersonal developmental theories, participatory spirituality, and other current perspectives. Students develop advanced theoretical understanding while formulating their own perspectives on transpersonal psychological phenomena.
@@ -84,7 +87,8 @@ Guides students in developing sophisticated research projects investigating stat
 ### TP390: Practicum in Transpersonal Applications
 Provides supervised practical experience applying transpersonal approaches in specific contexts such as coaching, education, health settings, or organizational development. Students develop case studies demonstrating their ability to translate transpersonal principles into practical applications. Emphasizes developing professional skills while integrating theoretical knowledge with ethical practice.
 
-## Fourth Year (400-level)
+[/su_spoiler]
+[su_spoiler title="Fourth Year (400-level)" open="no"]
 
 ### TP401: Integrative Approaches to Transpersonal Psychology
 Synthesizes diverse perspectives within transpersonal psychology to develop comprehensive frameworks for understanding human experience. Students integrate insights from various transpersonal theories while addressing fundamental questions about consciousness, transformation, and human potential. Emphasizes theoretical integration while encouraging development of original perspectives on transpersonal psychological phenomena.
@@ -116,7 +120,8 @@ Investigates cutting-edge technologies for exploring and enhancing consciousness
 ### TP490: Independent Study in Transpersonal Psychology
 Self-directed investigation of specialized topics in transpersonal psychology under faculty supervision. Students develop personalized reading lists and research questions based on their specific interests. Regular consultation with faculty advisor ensures depth and rigor in independent inquiry. Culminates in a substantial research paper or project demonstrating mastery of specialized transpersonal knowledge.
 
-## Master's Level (500-level)
+[/su_spoiler]
+[su_spoiler title="Master's Level (500-level)" open="no"]
 
 ### TP501: Advanced Theory of Transpersonal Development
 Critically analyzes theoretical frameworks for understanding psychological development beyond conventional ego structures. Examines adult developmental models, stage theories of consciousness evolution, and theoretical approaches to transcendence of self-constructs. Students develop sophisticated theoretical understanding while formulating original perspectives on transpersonal developmental processes.
@@ -148,7 +153,8 @@ Explores relationships between quantum physics, consciousness, and transpersonal
 ### TP590: Clinical Applications of Transpersonal Psychology
 Examines applications of transpersonal principles and practices in therapeutic and healing contexts. Explores transpersonal psychotherapy, spiritual emergence support, integrative approaches to mental health, and consciousness-based interventions. Students develop understanding of how transpersonal perspectives inform clinical practice while considering evidence for effectiveness and appropriate applications of transpersonal approaches.
 
-## Doctoral Level (600-700-level)
+[/su_spoiler]
+[su_spoiler title="Doctoral Level (600-700-level)" open="no"]
 
 ### TP601: Philosophical Foundations of Transpersonal Science
 Examines epistemological, ontological, and methodological questions underlying the scientific study of transpersonal phenomena. Analyzes philosophical assumptions in consciousness research, challenges in studying subjective experience, and paradigmatic issues in transpersonal psychology. Students develop sophisticated understanding of philosophical foundations while formulating original perspectives on transpersonal inquiry as a scientific endeavor.
@@ -193,4 +199,4 @@ Investigates cutting-edge research and theories at the intersection of conscious
 Research-oriented examination of the integration of psychological and spiritual dimensions of human experience. Explores theoretical models of integration, methodologies for facilitating integration, and research on integrated approaches to human development. Students develop original integrative frameworks while critically evaluating strengths and limitations of different integration models.
 
 ### TP750: Transpersonal Dimensions of Collective Consciousness
-Examines transpersonal phenomena at group, cultural, and global levels. Explores concepts such as morphic fields, collective consciousness, social emergence, cultural evolution, and planetary awareness. Students investigate theoretical frameworks and research methodologies for understanding transpersonal dimensions of collective experience while developing sophisticated approaches to studying consciousness beyond individual psychology.
+Examines transpersonal phenomena at group, cultural, and global levels. Explores concepts such as morphic fields, collective consciousness, social emergence, cultural evolution, and planetary awareness. Students investigate theoretical frameworks and research methodologies for understanding transpersonal dimensions of collective experience while developing sophisticated approaches to studying consciousness beyond individual psychology.[/su_spoiler]

@@ -1,6 +1,7 @@
 # Department of Information Technology Course Descriptions
 
-## First Year (100-level)
+
+[su_spoiler title="First Year (100-level)" open="no"]
 
 ### IT101: Introduction to Information Technology
 Provides a comprehensive overview of the field of information technology, exploring fundamental concepts, historical development, and contemporary applications. Introduces students to key IT domains including hardware, software, networking, databases, cybersecurity, and emerging technologies. Examines the role of IT in organizations and society while establishing a foundation for further specialized study in information technology.
@@ -26,7 +27,8 @@ Provides introduction to core web technologies including HTML, CSS, and basic Ja
 ### IT195: First-Year IT Projects Practicum
 Hands-on project-based course where students apply concepts from first-year courses to solve practical IT problems. Working in teams, students analyze requirements, design solutions, implement prototypes, and present results. Develops collaborative skills, project management basics, technical documentation, and professional communication while reinforcing fundamental IT concepts through application.
 
-## Second Year (200-level)
+[/su_spoiler]
+[su_spoiler title="Second Year (200-level)" open="no"]
 
 ### IT201: Data Structures and Algorithms
 Explores fundamental data structures (arrays, linked lists, stacks, queues, trees, graphs, hash tables) and algorithms (searching, sorting, recursion) essential for efficient computing. Examines algorithm analysis techniques and computational complexity. Students implement various data structures and algorithms while learning to select appropriate solutions for different computational problems. Prerequisite: IT110.
@@ -52,7 +54,8 @@ Explores principles and practices for designing effective, usable, and accessibl
 ### IT270: Cloud Computing Basics
 Introduces fundamental concepts of cloud computing, including service models (IaaS, PaaS, SaaS), deployment models, virtualization, containerization, and distributed computing principles. Examines major cloud platforms, their architectures, and service offerings. Students gain hands-on experience deploying applications on cloud infrastructure while understanding technical, business, and security implications of cloud migration.
 
-## Third Year (300-level)
+[/su_spoiler]
+[su_spoiler title="Third Year (300-level)" open="no"]
 
 ### IT301: Advanced Database Systems
 Explores advanced topics in database management including transaction processing, concurrency control, recovery techniques, query optimization, and distributed databases. Examines non-relational database systems (NoSQL, NewSQL), data warehousing, and big data storage solutions. Students design and implement complex database applications while gaining deeper understanding of database management system internals. Prerequisite: IT150.
@@ -84,7 +87,8 @@ Introduces students to research methodologies relevant to information technology
 ### IT390: Industry Practicum
 Supervised work experience in an IT-related position. Students apply classroom knowledge to real-world IT environments while developing professional skills and industry connections. Includes regular reflection activities, supervisor evaluations, and final project synthesizing the experience. Emphasis on professional development, workplace ethics, and integration of academic knowledge with practical application.
 
-## Fourth Year (400-level)
+[/su_spoiler]
+[su_spoiler title="Fourth Year (400-level)" open="no"]
 
 ### IT401: Enterprise Architecture
 Examines frameworks and methodologies for designing, planning, and implementing enterprise-wide information technology systems. Covers enterprise architecture frameworks (TOGAF, Zachman), business architecture, information architecture, application architecture, and technology architecture. Students develop enterprise architecture artifacts and migration plans while understanding governance processes for architectural decisions.
@@ -116,7 +120,8 @@ Examines practices for integrating development and operations to improve softwar
 ### IT490: Independent Study in Information Technology
 Self-directed investigation of specialized IT topics under faculty supervision. Students develop personalized learning objectives, projects, and assessment criteria based on their specific interests and career goals. Regular consultation with faculty mentor ensures depth and rigor while allowing exploration of topics beyond the standard curriculum. Requires demonstrated self-direction and prior academic achievement.
 
-## Master's Level (500-level)
+[/su_spoiler]
+[su_spoiler title="Master's Level (500-level)" open="no"]
 
 ### IT501: Advanced Theory of Computing
 Explores theoretical foundations of computer science relevant to advanced IT practice. Covers computability theory, complexity analysis, formal language theory, and algorithmic paradigms. Examines theoretical limits of computation and their implications for practical problem-solving. Students develop sophisticated understanding of computational models while enhancing their ability to analyze and design complex algorithms and systems.
@@ -148,7 +153,8 @@ Introduces principles of quantum computing and their potential applications in i
 ### IT590: AI Ethics and Responsible Computing
 Examines ethical, social, and governance dimensions of artificial intelligence and advanced computing systems. Covers fairness, accountability, transparency, bias mitigation, privacy preservation, and safety engineering in AI systems. Students develop frameworks for ethical analysis of AI applications while exploring approaches to responsible innovation, regulation, and governance of emerging technologies.
 
-## Doctoral Level (600-700-level)
+[/su_spoiler]
+[su_spoiler title="Doctoral Level (600-700-level)" open="no"]
 
 ### IT601: Philosophical Foundations of Information Theory
 Examines the conceptual and philosophical underpinnings of information as a fundamental construct. Explores various theoretical perspectives on the nature of information, computation, and their relationship to physical reality. Investigates philosophical questions about representation, meaning, truth, and knowledge in computational contexts. Students develop sophisticated understanding of foundational concepts that shape information technology research and practice.
@@ -193,4 +199,4 @@ Investigates relationships between information, computation, and physical realit
 Research-focused examination of systems that integrate human and artificial intelligence. Explores human-AI collaborative frameworks, augmented cognition, cognitive enhancement technologies, and the co-evolution of human and machine intelligence. Students develop advanced theoretical models and experimental designs exploring the interface between human and artificial cognitive systems.
 
 ### IT750: Computational Sustainability and Green IT
-Examines computational approaches to environmental sustainability challenges and the environmental impact of information technology. Covers optimization techniques for resource efficiency, computational models for environmental systems, sustainable computing infrastructures, and energy-efficient algorithms. Students develop innovative computational approaches to sustainability challenges while considering ethical dimensions of technology's environmental impacts.
+Examines computational approaches to environmental sustainability challenges and the environmental impact of information technology. Covers optimization techniques for resource efficiency, computational models for environmental systems, sustainable computing infrastructures, and energy-efficient algorithms. Students develop innovative computational approaches to sustainability challenges while considering ethical dimensions of technology's environmental impacts.[/su_spoiler]

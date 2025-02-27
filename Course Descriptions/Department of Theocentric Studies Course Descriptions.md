@@ -1,6 +1,7 @@
 # Department of Theocentric Studies Course Descriptions
 
-## First Year (100-level)
+
+[su_spoiler title="First Year (100-level)" open="no"]
 
 ### TS101: Introduction to Theocentric Philosophy
 Provides a foundational overview of theocentric philosophical approaches that place the divine at the center of metaphysical, epistemological, and ethical inquiry. Introduces key concepts including divine reality, transcendence, immanence, and spiritual knowledge. Examines major theocentric traditions across cultures while establishing conceptual frameworks for more specialized study. Students develop understanding of how theocentric perspectives shape philosophical inquiry and offer distinctive approaches to perennial questions.
@@ -26,7 +27,8 @@ Introduces principles of logical argumentation as applied to theological discour
 ### TS195: First-Year Seminar in Spiritual Reflection
 Experiential seminar focused on developing reflective engagement with theocentric concepts and practices. Through guided discussions, contemplative exercises, textual analysis, and reflexive writing, students deepen their understanding of course material while cultivating skills in spiritual discernment and metacognition. Emphasizes integration of intellectual study with reflective practice while establishing foundations for more advanced spiritual inquiry.
 
-## Second Year (200-level)
+[/su_spoiler]
+[su_spoiler title="Second Year (200-level)" open="no"]
 
 ### TS201: Classical Theocentric Perspectives
 Provides in-depth examination of foundational theocentric philosophical systems from classical periods across cultural traditions. Explores ancient and medieval approaches to divine reality, including Platonic, Aristotelian, Neoplatonic, Scholastic, Vedantic, Buddhist, and Islamic philosophical systems. Students analyze conceptual frameworks, methodologies, and core arguments of classical theocentric thinkers while understanding their historical influence and contemporary relevance.
@@ -52,7 +54,8 @@ Explores philosophical questions arising from religious belief and practice. Exa
 ### TS270: Mysticism and Spiritual Experience
 Investigates mystical traditions and direct spiritual experience across cultures. Examines phenomenology of mystical states, contemplative practices for cultivating spiritual awareness, and philosophical interpretations of mystical knowledge. Explores the relationship between mystical experience and religious authority, doctrine, and ethics. Students analyze accounts of mystical experience while considering epistemological and metaphysical implications of direct spiritual knowing.
 
-## Third Year (300-level)
+[/su_spoiler]
+[su_spoiler title="Third Year (300-level)" open="no"]
 
 ### TS301: Advanced Theocentric Philosophy
 Provides sophisticated examination of contemporary theocentric philosophical frameworks. Analyzes current debates in philosophical theology including divine action, religious epistemology, theistic metaphysics, and divine-human relationship. Students engage critically with contemporary literature while developing their own philosophical perspectives on divine reality and its implications for understanding existence, knowledge, and values.
@@ -84,7 +87,8 @@ Guides students in developing sophisticated research projects investigating divi
 ### TS390: Practicum in Theological Inquiry
 Provides supervised practical experience in applying theocentric approaches to address specific questions or problems. Students develop case studies demonstrating their ability to apply theological methods to particular domains such as ethics, pastoral care, interfaith dialogue, or cultural analysis. Emphasizes developing analytical skills applicable to various contexts while integrating theoretical knowledge with practical wisdom.
 
-## Fourth Year (400-level)
+[/su_spoiler]
+[su_spoiler title="Fourth Year (400-level)" open="no"]
 
 ### TS401: Integrative Theocentric Studies
 Synthesizes diverse approaches to understanding divine reality from across philosophical, theological, psychological, and scientific perspectives. Students develop integrative frameworks that bridge multiple disciplinary insights while addressing fundamental questions about ultimate reality and humanity's relationship to the divine. Emphasizes theoretical integration while encouraging development of original perspectives on theocentric questions.
@@ -116,7 +120,8 @@ Investigates relationships between theocentric understanding and scientific inve
 ### TS490: Independent Study in Theocentric Theory
 Self-directed investigation of specialized topics in theocentric studies under faculty supervision. Students develop personalized reading lists and research questions based on their specific interests. Regular consultation with faculty advisor ensures depth and rigor in independent inquiry. Culminates in a substantial research paper or project demonstrating mastery of specialized knowledge in theocentric theory.
 
-## Master's Level (500-level)
+[/su_spoiler]
+[su_spoiler title="Master's Level (500-level)" open="no"]
 
 ### TS501: Advanced Methodology in Theocentric Studies
 Critically analyzes research methodologies for studying divine reality and spiritual phenomena. Examines epistemological foundations, validation criteria, analytical frameworks, and methodological challenges specific to theocentric inquiry. Students develop sophisticated meta-methodological understanding while formulating innovative approaches to investigating questions that transcend standard disciplinary methodologies.
@@ -148,7 +153,8 @@ Provides detailed examination of philosophical approaches to understanding divin
 ### TS590: Theodicy and the Problem of Evil
 Research-focused exploration of philosophical and theological responses to the problem of evil. Examines logical and evidential arguments from evil, defense and theodicy strategies, religious perspectives on suffering, and implications for divine attributes. Students develop nuanced understanding of how different theological traditions address the challenge that evil and suffering present to theistic belief.
 
-## Doctoral Level (600-700-level)
+[/su_spoiler]
+[su_spoiler title="Doctoral Level (600-700-level)" open="no"]
 
 ### TS601: Foundations of Theocentric Ontology
 Examines fundamental philosophical questions about the nature of divine being and its relationship to created reality. Analyzes concepts of being itself, ontological dependence, divine simplicity, and participatory metaphysics. Students develop sophisticated understanding of ontological foundations of theocentric worldviews while formulating original contributions to ontological discourse about divine reality.
@@ -193,4 +199,4 @@ Investigates relationships between divine beauty, human aesthetic experience, an
 Research-oriented investigation of the relationship between divine omniscience and human freedom. Examines theories of foreknowledge, middle knowledge, open theism, compatibilism, and libertarian freedom. Students analyze philosophical problems in reconciling divine knowledge with human free will while developing sophisticated theoretical frameworks addressing this perennial theological and philosophical challenge.
 
 ### TS750: Spiritual Cognition and Transcendent Experience
-Advanced exploration of cognitive dimensions of spiritual experience and knowledge of divine reality. Examines contemplative knowing, mystical cognition, transformative spiritual awareness, and epistemological aspects of transcendent experience. Students develop innovative theoretical frameworks for understanding distinctive features of spiritual cognition while exploring implications for broader theories of consciousness and knowledge.
+Advanced exploration of cognitive dimensions of spiritual experience and knowledge of divine reality. Examines contemplative knowing, mystical cognition, transformative spiritual awareness, and epistemological aspects of transcendent experience. Students develop innovative theoretical frameworks for understanding distinctive features of spiritual cognition while exploring implications for broader theories of consciousness and knowledge.[/su_spoiler]

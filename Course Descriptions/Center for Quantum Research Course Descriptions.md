@@ -1,6 +1,7 @@
 # Center for Quantum Research Course Descriptions
 
-## First Year (100-level)
+
+[su_spoiler title="First Year (100-level)" open="no"]
 
 ### QR101: Introduction to Quantum Theory
 An introductory course exploring the fundamental concepts of quantum mechanics and its departure from classical physics. Topics include wave-particle duality, superposition, quantum uncertainty, basic quantum experiments, and an introduction to Schrödinger's equation. This course establishes the conceptual foundation for understanding the quantum nature of reality.
@@ -26,7 +27,8 @@ Explores probability theory in the quantum context, examining Born's rule, proba
 ### QR195: First-Year Quantum Phenomena Laboratory
 A hands-on laboratory course where students conduct foundational experiments demonstrating quantum phenomena. Experiments may include the photoelectric effect, electron diffraction, spectroscopy, and virtual quantum computing simulations to solidify understanding of core quantum concepts.
 
-## Second Year (200-level)
+[/su_spoiler]
+[su_spoiler title="Second Year (200-level)" open="no"]
 
 ### QR201: Quantum Entanglement and Non-locality
 Explores quantum entanglement as a uniquely quantum phenomenon with no classical analog. Examines Bell's inequalities, EPR paradox, quantum teleportation, and the implications of non-locality for our understanding of space, time, and information transfer.
@@ -52,7 +54,8 @@ Introduces the emerging field of quantum cognition, which applies quantum formal
 ### QR270: Ethics in Quantum Research and Applications
 Examines ethical considerations in quantum technology development and theoretical research. Topics include responsible innovation in quantum computing, ethical implications of quantum encryption and security, and broader societal impacts of quantum technologies.
 
-## Third Year (300-level)
+[/su_spoiler]
+[su_spoiler title="Third Year (300-level)" open="no"]
 
 ### QR301: Advanced Quantum Mechanics
 Builds on foundational quantum mechanics with more sophisticated mathematical treatments. Topics include time evolution, perturbation theory, scattering theory, relativistic quantum mechanics, and applications to multi-particle systems.
@@ -84,7 +87,8 @@ Covers advanced topics in quantum computation, including quantum error correctio
 ### QR390: Quantum Measurement Problem Seminar
 A seminar-style course focused entirely on the measurement problem in quantum mechanics. Deeply examines various proposed solutions, including decoherence theory, spontaneous collapse models, and consciousness-based collapse theories, with student-led discussions and presentations.
 
-## Fourth Year (400-level)
+[/su_spoiler]
+[su_spoiler title="Fourth Year (400-level)" open="no"]
 
 ### QR401: Integrative Quantum Studies
 Synthesizes knowledge from multiple quantum-related disciplines to develop integrated perspectives on quantum phenomena. Focuses on cross-disciplinary connections between quantum physics, philosophy, cognitive science, and information theory to develop holistic understanding.
@@ -116,7 +120,8 @@ Surveys emerging quantum technologies beyond computing, including quantum sensin
 ### QR490: Independent Study in Quantum Theory
 Allows students to pursue specialized interests in quantum theory under faculty supervision. Students develop personalized reading lists and research projects aligned with their academic and professional goals, with regular mentoring sessions and culminating deliverables.
 
-## Master's Level (500-level)
+[/su_spoiler]
+[su_spoiler title="Master's Level (500-level)" open="no"]
 
 ### QR501: Advanced Mathematical Methods for Quantum Theory
 Provides sophisticated mathematical tools for quantum research, including functional analysis, group theory, topology, tensor networks, and advanced numerical methods. Develops the mathematical sophistication required for research-level work in quantum theory.
@@ -148,7 +153,8 @@ In-depth exploration of quantum contextuality and its implications for understan
 ### QR590: Quantum Computation: Theory and Application
 Advanced study of quantum algorithms, complexity theory, and practical implementation challenges. Explores the relationship between quantum computing and fundamental questions about quantum mechanics, information, and the limits of computation.
 
-## Doctoral Level (600-700-level)
+[/su_spoiler]
+[su_spoiler title="Doctoral Level (600-700-level)" open="no"]
 
 ### QR601: Foundations of Quantum Ontology
 Research-level course examining ontological frameworks compatible with quantum physics. Develops rigorous approaches to understanding the nature of reality in light of quantum phenomena, with particular attention to novel ontological categories beyond classical substance metaphysics.
@@ -194,3 +200,4 @@ Advanced research seminar focusing on theoretical development and experimental t
 
 ### QR750: Advanced Quantum Foundations and Interpretation
 Explores cutting-edge interpretational frameworks and theoretical approaches to quantum foundations. Examines reconstruction approaches to quantum theory, quantum gravity insights, and emergent interpretations that reconceptualize fundamental quantum principles.
+[/su_spoiler]
