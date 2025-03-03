@@ -4,7 +4,6 @@
 
 At The University of Ontological Science, the senior thesis or capstone project is a cornerstone of your academic career. This culminating work represents the synthesis of your intellectual growth, philosophical development, and scholarly capabilities. Whether you're conducting original research, crafting a philosophical argument, or designing an innovative project, your thesis or capstone serves as both the pinnacle of your undergraduate experience and a foundation for future intellectual pursuits. This guide outlines the process, expectations, and resources available to support you in this significant scholarly endeavor.
 
----
 
 ## Types of Culminating Projects
 
@@ -61,7 +60,6 @@ A creative work accompanied by scholarly analysis that:
 
 *Typical components: Creative work + 25-35 page critical analysis*
 
----
 
 ## The Thesis/Capstone Timeline
 
@@ -93,7 +91,6 @@ Successful completion of your thesis or capstone project requires careful planni
 
 [Download Detailed Timeline with Department-Specific Deadlines (PDF)](#)
 
----
 
 ## Proposal Development and Approval
 
@@ -131,7 +128,6 @@ Your thesis/capstone proposal (typically 5-7 pages) should include:
 
 [Download Proposal Template (Word)](#)
 
----
 
 ## Working with Your Advisor
 
@@ -166,7 +162,6 @@ If difficulties arise in the advisor-advisee relationship:
 2. Consult the department's Director of Undergraduate Studies if needed
 3. In rare cases, submit a [Thesis Advisor Change Request](#)
 
----
 
 ## Research and Writing Support
 
@@ -205,7 +200,6 @@ The TUOS Library offers specialized support for thesis and capstone students:
 
 [Access Digital Resources](#)
 
----
 
 ## Thesis Format and Submission Guidelines
 
@@ -261,7 +255,6 @@ Submission deadlines:
 
 [Access Electronic Submission Portal](#)
 
----
 
 ## Thesis Defense and Presentation
 
@@ -302,7 +295,6 @@ For project-based capstones:
 
 [View Presentation Guidelines](#)
 
----
 
 ## Evaluation Criteria
 
@@ -349,7 +341,6 @@ Honors designations include:
 * Passed with High Distinction
 * Passed with Highest Distinction
 
----
 
 ## Ethical Considerations and IRB Approval
 
@@ -389,7 +380,6 @@ Maintain ethical data practices:
 * Accurate record-keeping
 * Data retention according to university policy
 
----
 
 ## Frequently Asked Questions
 
@@ -411,7 +401,6 @@ A: Yes, TUOS offers competitive [Undergraduate Research Grants](#) of up to $1,0
 **Q: What happens if I don't complete my thesis by graduation?**  
 A: If you've completed all other degree requirements, you have two options: (1) Graduate without thesis honors, or (2) Delay graduation by registering for Thesis Continuation status for up to one additional semester.
 
----
 
 ## Special Programs and Opportunities
 
@@ -452,7 +441,6 @@ Exceptional theses may be suitable for publication:
 * Co-authorship opportunities with faculty
 * [Publication development workshop series](#)
 
----
 
 ## Contact Information
 

@@ -79,6 +79,5 @@ The Career Services & Internships office is located in the Russell Building, Roo
 
 To schedule an appointment, visit careers.tuos.edu or email career.services@tuos.edu.
 
----
 
 *"At TUOS, we believe that ontological inquiry isn't separate from professional development—it's foundational to it. Our graduates don't just find jobs; they forge meaningful careers that allow them to bring philosophical insight to pressing real-world challenges."* — Dr. Joanna Martinez, Director of Career Services

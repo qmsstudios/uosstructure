@@ -55,6 +55,5 @@ We offer multiple channels to access support:
 
 The Technology & IT Support team is dedicated to providing reliable, innovative, and responsive services that enhance the academic mission of TUOS. We understand that technology is not merely a tool but an integral component of the modern ontological exploration process, shaping how we access, analyze, and create knowledge.
 
----
 
 *"Our goal is to create a technological environment where the technical aspects become transparent, allowing students and faculty to focus entirely on the profound questions of being, knowledge, and existence that are at the heart of our university's mission."* - Dr. Elena Morales, Director of Information Technology

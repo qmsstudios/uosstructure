@@ -4,7 +4,6 @@
 
 At The University of Ontological Science, examinations represent more than assessment tools—they are opportunities for synthesis, integration, and demonstration of your intellectual growth. Our carefully structured exam schedules provide a framework for this significant component of your academic journey. This guide offers comprehensive information about exam timing, procedures, and deadlines to help you plan effectively and perform at your best.
 
----
 
 ## Final Examination Schedule
 
@@ -42,7 +41,6 @@ At The University of Ontological Science, examinations represent more than asses
 * **Online Courses**: Online course final exams may follow a different schedule. Consult your course syllabus for specific information.
 * **Take-Home Exams**: Due dates for take-home finals must fall within the final examination period unless approved by the Dean of Academic Affairs.
 
----
 
 ## Midterm Examination Period
 
@@ -53,7 +51,6 @@ Unlike final exams, midterm examinations do not have a designated examination pe
 * **Coordination**: Department chairs coordinate scheduling of midterm exams for multi-section courses.
 * **Notification**: Faculty must provide at least two weeks' notice for midterm examinations.
 
----
 
 ## Specialized Examination Programs
 
@@ -94,7 +91,6 @@ For determining appropriate course placement:
 | Foreign Language | August 23, 2023 | January 10, 2024 | [Register Here](#) |
 | Advanced Philosophy | August 24, 2023 | January 11, 2024 | Department referral required |
 
----
 
 ## Academic Deadlines Related to Examinations
 
@@ -122,7 +118,6 @@ For determining appropriate course placement:
 
 [View Complete Academic Calendar](#)
 
----
 
 ## Examination Policies and Procedures
 
@@ -160,7 +155,6 @@ All examinations are subject to the TUOS Academic Integrity Policy, which prohib
 
 Violations may result in course failure and additional disciplinary action. Review the complete [Academic Integrity Policy](#).
 
----
 
 ## Examination Resources and Support
 
@@ -191,7 +185,6 @@ Students requiring accommodations for examinations must:
 
 [Contact Accessibility Services](#) | [Submit Accommodation Request](#)
 
----
 
 ## Exam Week Support Services
 
@@ -213,7 +206,6 @@ During final examination periods, TUOS offers extended services:
 
 [View Exam Week Support Schedule](#)
 
----
 
 ## Frequently Asked Questions
 
@@ -235,7 +227,6 @@ A: The exam schedule is designed to avoid back-to-back exams for standard course
 **Q: Can I reschedule an exam because I have multiple exams on one day?**  
 A: You may request rescheduling if you have more than two final exams scheduled on the same day. Requests must be submitted to the Registrar's Office by the published deadline.
 
----
 
 ## Contact Information
 
@@ -259,7 +250,6 @@ deanofstudents@tuos.edu
 (555) 123-4590  
 *Emergency Contact During Exams*: (555) 123-9000
 
----
 
 ## Special Announcements for Current Term
 
@@ -270,6 +260,5 @@ deanofstudents@tuos.edu
 * **Extended Shuttle Service**: Campus shuttles will run until 11:00 PM during exam week.
 * **Graduate Student Deadline**: All graduate student examinations must be completed by December 14 to allow time for degree certification.
 
----
 
 *At The University of Ontological Science, we view examinations as an integral part of the learning process—opportunities to synthesize knowledge, demonstrate understanding, and reflect on your intellectual growth. We encourage thoughtful preparation and a balanced approach to assessment periods. Remember that success is measured not just by grades, but by the depth of understanding and intellectual development you achieve through your academic journey.*

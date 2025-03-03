@@ -39,6 +39,5 @@ TUOS maintains collaborative relationships with select institutions globally. Cu
 For inquiry about exchange and visiting opportunities:
 research.exchange@tuos.edu
 
----
 
 *"My time as a visiting researcher at TUOS transformed my understanding of consciousness studies. The interdisciplinary approach and freedom to explore unconventional methodologies accelerated my research in ways impossible within traditional academic structures."* – Former Visiting Scholar

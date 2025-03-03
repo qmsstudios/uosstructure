@@ -4,7 +4,6 @@
 
 At The University of Ontological Science, we believe that graduation is the culmination of years of hard work, intellectual growth, and personal development. This section guides you through the necessary steps to formally apply for graduation, ensuring that all your requirements are met and that you can enjoy the celebration of your academic achievements. Whether you're completing your undergraduate or graduate program, we're here to help you navigate the final stage of your academic journey with clarity and confidence.
 
----
 
 ## Graduation Application Timeline
 
@@ -33,7 +32,6 @@ Planning for graduation begins well before the actual ceremony. Understanding th
 | 2 weeks before graduation | Clear all financial obligations |
 | 1 week before graduation | Attend graduation rehearsal |
 
----
 
 ## Application Process
 
@@ -85,7 +83,6 @@ To receive final clearance for graduation:
 
 [Access Graduation Clearance Checklist](#)
 
----
 
 ## Ceremony Information
 
@@ -131,7 +128,6 @@ TUOS recognizes academic excellence during commencement ceremonies:
 
 [Complete Honors and Regalia Guide](#)
 
----
 
 ## Graduation Requirements by Degree
 
@@ -171,7 +167,6 @@ To graduate with a doctoral degree from TUOS, students must:
 
 [Program-Specific Graduation Requirements](#)
 
----
 
 ## Graduation Honors and Distinctions
 
@@ -192,7 +187,6 @@ To graduate with a doctoral degree from TUOS, students must:
 
 *Note: Honor designations in commencement programs are based on grades through the penultimate semester and may differ from final honors noted on transcripts and diplomas.*
 
----
 
 ## After Graduation
 
@@ -225,7 +219,6 @@ Upon graduation, you gain access to numerous alumni benefits:
 
 [Explore Alumni Services](#)
 
----
 
 ## Special Circumstances
 
@@ -255,7 +248,6 @@ If you fail to complete requirements by the intended graduation term:
 3. Register for courses needed to complete requirements
 4. Reapply for graduation for the new term
 
----
 
 ## Frequently Asked Questions
 
@@ -277,7 +269,6 @@ A: The main university commencement ceremony typically lasts 2-2.5 hours. Indivi
 **Q: When will I receive my diploma?**  
 A: Diplomas are not distributed at the ceremony. They will be available approximately 6-8 weeks after the end of term. You'll receive an email notification when your diploma is ready for pickup or has been mailed.
 
----
 
 ## Contact Information
 
@@ -300,7 +291,6 @@ Wisdom Hall, Room 105
 advising@tuos.edu  
 (555) 123-4569
 
----
 
 ## Resources and Forms
 
@@ -314,6 +304,5 @@ advising@tuos.edu
 * [Graduate Exit Survey (Online)](#)
 * [Graduation FAQs and Guide (PDF)](#)
 
----
 
 *The completion of your degree at The University of Ontological Science represents not just the acquisition of knowledge, but the development of a philosophical mindset that will serve you throughout your life. As you prepare for graduation, remember that this milestone marks both an ending and a beginning—the conclusion of your formal studies and the commencement of a lifetime of intellectual inquiry. We are honored to have been part of your journey and look forward to celebrating your accomplishments as you join our distinguished community of alumni.*

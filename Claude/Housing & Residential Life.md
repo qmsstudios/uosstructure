@@ -88,6 +88,5 @@ Contact us:
 - Phone: (555) 789-1234
 - Website: housing.tuos.edu
 
----
 
 *"Our residential communities are designed as spaces where the exploration of fundamental questions about existence, knowledge, and meaning can continue in everyday interactions. We believe that some of the most profound learning happens in the informal conversations and connections that residential life makes possible."* — Dr. Maya Johnson, Director of Residential Education

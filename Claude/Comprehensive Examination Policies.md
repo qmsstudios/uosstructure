@@ -61,6 +61,5 @@ We are committed to providing equitable opportunities for all students. Those re
 
 Students wishing to appeal their examination results must submit a written petition to the Dean of Graduate Studies within two weeks of receiving their results, clearly stating the grounds for appeal. Appeals are considered only in cases of procedural irregularities or demonstrable bias.
 
----
 
 For further information or clarification of these policies, please contact the Office of Graduate Studies or your academic advisor.

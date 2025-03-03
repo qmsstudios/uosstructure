@@ -4,7 +4,6 @@
 
 At The University of Ontological Science, our academic calendar is designed to provide structured periods of intensive study balanced with time for reflection, integration of knowledge, and scholarly renewal. This carefully crafted calendar supports our commitment to deep intellectual engagement while recognizing the rhythms of effective learning. The following information outlines key dates and deadlines to help you plan your academic journey at TUOS.
 
----
 
 ## 2023-2024 Academic Year Calendar
 
@@ -76,7 +75,6 @@ At The University of Ontological Science, our academic calendar is designed to p
 
 [Download Complete Academic Calendar (PDF)](#)
 
----
 
 ## 2024-2025 Academic Year Preview
 
@@ -87,7 +85,6 @@ While detailed dates for the 2024-2025 academic year will be published by March 
 * **Spring Semester 2025**: Late January through early May 2025
 * **Summer Sessions 2025**: Mid-May through early August 2025
 
----
 
 ## Key Academic Deadlines
 
@@ -117,7 +114,6 @@ While detailed dates for the 2024-2025 academic year will be published by March 
 | Summer 2024 | April 15, 2024 | May 14, 2024 | August 13, 2024 |
 | Fall 2024 | June 1, 2024 | August 22-25, 2024 | December 16, 2024 |
 
----
 
 ## Semester Structure and Credit Hours
 
@@ -154,7 +150,6 @@ Winter and Summer sessions offer courses in compressed formats:
 
 These compressed formats maintain the same total instructional hours as semester-length courses.
 
----
 
 ## Academic Year Structure and Rationale
 
@@ -168,7 +163,6 @@ The TUOS academic calendar is designed with several guiding principles:
 
 This careful structuring reflects our pedagogical philosophy that effective learning requires both intensive engagement and deliberate reflection.
 
----
 
 ## Special Academic Events and Traditions
 
@@ -186,7 +180,6 @@ Public presentations of graduate research occur throughout the academic year, wi
 
 [View Special Events Calendar](#)
 
----
 
 ## Campus Services During Breaks and Transitions
 
@@ -219,7 +212,6 @@ Public presentations of graduate research occur throughout the academic year, wi
 
 [View Complete Campus Services Schedule](#)
 
----
 
 ## Planning Resources and Tools
 
@@ -250,7 +242,6 @@ The [Four-Year Course Planner](#) maps prerequisite chains and optimal course se
 
 [Download Printable Checklists](#)
 
----
 
 ## Frequently Asked Questions
 
@@ -272,7 +263,6 @@ A: Final grades are due from faculty five days after the last final examination.
 **Q: How do compressed summer and winter courses compare to full-semester courses?**  
 A: Compressed courses cover the same content and have equivalent workload and expectations, but in a more intensive timeframe. Students should expect to dedicate significantly more hours per week to these courses compared to semester-length courses.
 
----
 
 ## Contact Information
 
@@ -295,6 +285,5 @@ Student Center, Room 210
 housing@tuos.edu  
 (555) 123-4580
 
----
 
 *At The University of Ontological Science, we view the academic calendar not merely as a schedule but as a carefully designed framework that supports the rhythms of intellectual growth. The alternating periods of intensive engagement and reflective integration mirror our philosophical commitment to both rigorous analysis and contemplative synthesis. As you plan your academic journey, we encourage you to embrace this rhythm and use it to deepen your learning experience.*

@@ -4,7 +4,6 @@
 
 At The University of Ontological Science, we recognize that health challenges can impact a student's academic journey. We are committed to supporting students facing medical and psychological health issues through comprehensive accommodation services and, when necessary, medical leave options. Our goal is to ensure that all students can engage fully with their educational experience while attending to their wellbeing.
 
----
 
 ## Medical Leave of Absence (MLOA)
 
@@ -39,7 +38,6 @@ Medical Leave is available to students experiencing health conditions that:
 * **Housing**: Students in university housing must vacate within 48 hours of leave approval (extensions can be requested)
 * **International Students**: F-1/J-1 visa holders should consult with the International Student Office before applying for MLOA
 
----
 
 ## Returning from Medical Leave
 
@@ -63,7 +61,6 @@ In some cases, a conditional return may be approved with specific requirements s
 * Reduced course load for the first semester back
 * Participation in support programs
 
----
 
 ## Academic Accommodations for Medical Conditions
 
@@ -96,7 +93,6 @@ For short-term medical issues (typically lasting less than 6 months):
 2. Provide documentation of your condition and expected duration
 3. Meet with an Accessibility Specialist to determine appropriate short-term accommodations
 
----
 
 ## Pregnancy & Parenting Accommodations
 
@@ -113,7 +109,6 @@ In accordance with Title IX, TUOS provides accommodations and support for pregna
 
 [Learn More About Pregnancy Accommodations](#)
 
----
 
 ## Health Insurance & Resources
 
@@ -135,13 +130,11 @@ Students with comparable coverage may waive the SHIP by submitting proof of insu
 * **Wellness Center**: Holistic wellness programs, stress management, nutrition counseling
 * **Mind-Body Integration Center**: Meditation, yoga, mindfulness practices
 
----
 
 ## Privacy & Confidentiality
 
 All medical information provided in connection with leaves and accommodations is kept strictly confidential and maintained separately from academic records. Information is shared only with the limited university personnel involved in the accommodation or leave process on a need-to-know basis.
 
----
 
 ## Frequently Asked Questions
 
@@ -160,7 +153,6 @@ A: Your transcript will show that you were on an approved leave of absence, but 
 **Q: Do I need to disclose my specific diagnosis to receive accommodations?**  
 A: While documentation must verify the existence of a condition that qualifies for accommodations, you are not required to disclose your specific diagnosis to your professors.
 
----
 
 ## Contact Information
 
@@ -177,6 +169,5 @@ accessibility@tuos.edu
 **Emergency Contact (24/7)**  
 TUOS Crisis Line: (555) 123-9999
 
----
 
 *At TUOS, we understand that the pursuit of knowledge encompasses the whole person, including physical and mental wellbeing. Our medical leave and accommodation policies reflect our commitment to supporting students through health challenges while maintaining the academic integrity that defines our institution. We encourage students facing health issues to reach out proactively so that we can provide timely and appropriate support.*

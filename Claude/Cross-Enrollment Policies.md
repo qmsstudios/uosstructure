@@ -4,7 +4,6 @@
 
 At The University of Ontological Science, we recognize that intellectual growth often flourishes at the intersection of diverse academic environments. Our cross-enrollment programs enable TUOS students to enrich their studies by taking courses at partner institutions, while also welcoming visiting students who bring new perspectives to our community. These carefully structured opportunities maintain academic rigor and integrity while expanding the educational possibilities available to our scholars.
 
----
 
 ## Cross-Enrollment Opportunities
 
@@ -27,7 +26,6 @@ A national consortium for sharing specialized online courses across member insti
 ### International Exchange Partnerships
 Formal agreements with select international universities for semester-based exchanges, primarily at the graduate level.
 
----
 
 ## Eligibility Requirements
 
@@ -53,7 +51,6 @@ Students from partner institutions wishing to take courses at TUOS must:
 * **Program Enrollment**: Be actively participating in one of our formal cross-enrollment programs
 * **Course Eligibility**: Seek enrollment only in courses designated as available for cross-enrollment
 
----
 
 ## Available Courses
 
@@ -88,7 +85,6 @@ TUOS students may typically access:
 
 [View Complete Cross-Enrollment Course Listings](#)
 
----
 
 ## Process for Cross-Enrollment
 
@@ -136,7 +132,6 @@ TUOS students may typically access:
 
 5. **Confirmation and Orientation**: Receive TUOS temporary credentials and complete online orientation
 
----
 
 ## Timeline and Deadlines
 
@@ -149,7 +144,6 @@ TUOS students may typically access:
 
 *Note: Late applications are rarely approved and subject to additional restrictions.*
 
----
 
 ## Credits and Transcripts
 
@@ -176,7 +170,6 @@ TUOS students may typically access:
 * Credit posting typically occurs 3-4 weeks after term completion
 * Students must authorize transcript release at host institutions
 
----
 
 ## Financial Considerations
 
@@ -210,7 +203,6 @@ TUOS students may typically access:
 
 [Schedule Financial Aid Consultation](#)
 
----
 
 ## Academic Policies for Cross-Enrolled Students
 
@@ -232,7 +224,6 @@ TUOS students may typically access:
   * Campus facilities necessary for course participation
 * **Community Expectations**: Visiting students are expected to engage respectfully with the TUOS intellectual community
 
----
 
 ## Special Cross-Enrollment Programs
 
@@ -260,7 +251,6 @@ Virtual and hybrid courses jointly taught by faculty from multiple partner insti
 * **Technology**: Utilizes advanced learning technology platforms
 * **Assessment**: Joint evaluation by instructional team
 
----
 
 ## Frequently Asked Questions
 
@@ -282,7 +272,6 @@ A: Generally, cross-enrollment is intended for courses not available at TUOS or 
 **Q: How do cross-enrolled courses appear on my transcript?**  
 A: Cross-enrolled courses appear on your TUOS transcript with a special notation indicating the host institution. The course title, credits, and grade are included, and for most consortium programs, the grade is factored into your TUOS GPA.
 
----
 
 ## Contact Information
 
@@ -312,7 +301,6 @@ Virtual appointments available upon request
   s.nkambu@tuos.edu  
   (555) 123-4582
 
----
 
 ## Resources and Forms
 
@@ -325,7 +313,6 @@ Virtual appointments available upon request
 * [Academic Calendar Comparison Chart](#)
 * [Cross-Enrollment FAQ (PDF)](#)
 
----
 
 *At The University of Ontological Science, we view cross-enrollment as more than an administrative arrangement—it is an embodiment of our commitment to the free exchange of ideas across institutional boundaries. By engaging with diverse academic environments, our students develop intellectual flexibility and a deeper appreciation for varied approaches to knowledge construction. These experiences enrich not only individual learning journeys but also strengthen the intellectual vitality of our entire community.*
 

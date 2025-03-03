@@ -4,7 +4,6 @@
 
 At The University of Ontological Science, we recognize that learning extends beyond the pursuit of credits and degrees. The course audit option offers students, faculty, staff, alumni, and qualified community members the opportunity to engage with course material for the pure joy of intellectual growth—without the pressure of formal evaluation or degree requirements.
 
----
 
 ## What Does It Mean to Audit a Course?
 
@@ -26,7 +25,6 @@ While auditing offers more flexibility than credit enrollment, auditors are stil
 
 The specific expectations for auditors vary by course and instructor, and will be clearly outlined in the Audit Agreement you'll complete when registering.
 
----
 
 ## Who Can Audit Courses?
 
@@ -36,7 +34,6 @@ The specific expectations for auditors vary by course and instructor, and will b
 * **Community Members**: Qualified individuals from the broader community may audit select courses with instructor approval
 * **Senior Auditors**: Adults age 65+ may participate in our Senior Audit Program at reduced rates
 
----
 
 ## Course Eligibility for Auditing
 
@@ -58,7 +55,6 @@ While TUOS supports the audit option, not all courses are available for audit du
 
 To determine if a specific course is available for audit, check the course listing in the registration system, where eligible courses will be marked with an "Audit Available" notation.
 
----
 
 ## Audit Registration Process
 
@@ -86,7 +82,6 @@ To determine if a specific course is available for audit, check the course listi
 4. **Orientation**: Attend a brief orientation session for community auditors
 5. **Registration**: Complete final registration and obtain necessary campus access credentials
 
----
 
 ## Important Deadlines and Dates
 
@@ -98,7 +93,6 @@ To determine if a specific course is available for audit, check the course listi
 
 *Note: Late audit registrations are generally not accepted due to the importance of establishing expectations and community integration from the beginning of the course.*
 
----
 
 ## Fees and Costs
 
@@ -125,7 +119,6 @@ To determine if a specific course is available for audit, check the course listi
 
 *All fees are non-refundable after the first week of classes*
 
----
 
 ## Policies and Guidelines
 
@@ -150,7 +143,6 @@ To determine if a specific course is available for audit, check the course listi
 * Excessive absences may result in removal from the course
 * No partial refunds are provided for discontinued attendance
 
----
 
 ## Special Audit Programs
 
@@ -170,7 +162,6 @@ Prospective students considering specific programs may audit one course prior to
 ### Interdisciplinary Audit Clusters
 Themed groups of 2-3 courses designed for auditors interested in exploring interdisciplinary connections, available at a package rate.
 
----
 
 ## Frequently Asked Questions
 
@@ -189,7 +180,6 @@ A: While auditors may participate in regular office hours, priority is given to 
 **Q: Can I audit the same course multiple times?**  
 A: Generally, auditing the same course more than once is discouraged unless the course content has substantially changed. Approval for re-auditing is at the discretion of the instructor and department.
 
----
 
 ## Contact Information
 
@@ -207,7 +197,6 @@ communitylearning@tuos.edu
 Monday-Friday: 10:00 AM - 4:00 PM  
 Virtual appointments available by request
 
----
 
 ## Testimonials from Previous Auditors
 
@@ -217,6 +206,5 @@ Virtual appointments available by request
 
 *"The pressure-free environment of auditing allowed me to truly absorb the material without anxiety about grades. I found myself participating more authentically in discussions."* — Sophia R., Current Student
 
----
 
 *At TUOS, we believe that the pursuit of knowledge is a lifelong journey that extends beyond formal degree programs. Our audit option reflects our commitment to open intellectual inquiry and our belief that learning communities thrive when enriched by diverse perspectives and experiences. Whether you're exploring a new field, revisiting an academic passion, or simply engaging with ideas for personal growth, we welcome you to our academic community as an auditor.*

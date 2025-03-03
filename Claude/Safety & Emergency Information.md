@@ -121,6 +121,5 @@ Non-Emergency: (555) 123-9000
 Email: campussafety@tuos.edu  
 Website: safety.tuos.edu
 
----
 
 *"At TUOS, we believe that safety and intellectual freedom are complementary values. By creating a secure environment, we enable the open exploration of ideas that is central to our mission. Each community member plays an essential role in maintaining this balance through awareness, preparation, and mutual care."* — Dr. Robert Chen, Director of Campus Safety

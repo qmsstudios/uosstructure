@@ -161,6 +161,5 @@ Email: healthservices@tuos.edu
 Phone: (555) 123-4700  
 Fax (secure): (555) 123-4701
 
----
 
 *"At TUOS, we view administrative processes not as mere bureaucracy but as structural elements that support the freedom to engage in deeper inquiry. By meeting these requirements promptly, you create the space for the intellectual exploration that is at the heart of the TUOS experience."* — Dr. Eleanor Richards, University Registrar

@@ -4,7 +4,6 @@
 
 The University of Ontological Science offers intensive summer and winter sessions designed to provide students with opportunities to advance their studies, explore new disciplines, or catch up on required coursework during the traditional breaks in the academic calendar. These concentrated learning experiences allow for deep intellectual engagement while maintaining our commitment to academic rigor and transformative education.
 
----
 
 ## Session Dates & Deadlines
 
@@ -23,7 +22,6 @@ The University of Ontological Science offers intensive summer and winter session
 | Full Summer | March 1 | May 8 | May 10 | May 22 |
 | Winter | October 15 | December 20 | December 22 | January 4 |
 
----
 
 ## Course Offerings
 
@@ -41,7 +39,6 @@ Our summer and winter sessions feature a curated selection of courses across all
 
 [Browse Current Summer & Winter Course Offerings](#)
 
----
 
 ## Enrollment Process
 
@@ -62,7 +59,6 @@ Non-TUOS students may enroll in our summer and winter sessions through our simpl
 4. Complete payment by the deadline
 5. Request official transcripts be sent to your home institution after course completion
 
----
 
 ## Tuition & Fees
 
@@ -82,7 +78,6 @@ Financial aid options are more limited during summer and winter sessions, but so
 
 [Contact Financial Aid Office](#) for personalized guidance on your options.
 
----
 
 ## Housing & Campus Services
 
@@ -112,7 +107,6 @@ The Wellness Center offers modified hours and services during intersessions:
 * Monday-Friday: 9:00 AM - 5:00 PM
 * Saturday-Sunday: Closed
 
----
 
 ## Special Programs
 
@@ -129,7 +123,6 @@ Work closely with TUOS faculty on cutting-edge research through our Summer Resea
 
 [Apply for Research Intensives](#)
 
----
 
 ## Academic Policies
 
@@ -143,7 +136,6 @@ Work closely with TUOS faculty on cutting-edge research through our Summer Resea
 
 * **Academic Integrity**: All TUOS academic integrity policies remain in full effect during summer and winter sessions.
 
----
 
 ## Frequently Asked Questions
 
@@ -159,7 +151,6 @@ A: Some financial aid may be available. Contact the Financial Aid Office to dete
 **Q: Can international students take summer/winter courses?**  
 A: Yes, international students may enroll in summer/winter courses. Those on F-1 visas should consult with the International Student Office regarding any potential implications for their visa status.
 
----
 
 ## Contact Information
 
@@ -174,6 +165,5 @@ Monday-Friday: 8:00 AM - 6:00 PM
 **Regular Office Hours**:  
 Monday-Friday: 9:00 AM - 5:00 PM
 
----
 
 *At TUOS, we believe that learning transcends the traditional academic calendar. Our summer and winter sessions offer unique opportunities for focused study and intellectual growth during these condensed terms, allowing students to deepen their understanding of fundamental questions while progressing toward their academic goals.*

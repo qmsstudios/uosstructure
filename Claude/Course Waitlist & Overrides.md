@@ -4,7 +4,6 @@
 
 At The University of Ontological Science, we strive to provide equitable access to our rich curriculum while maintaining optimal learning environments. When courses reach their enrollment capacity, our waitlist and override systems offer structured, fair processes for students seeking entry into filled courses. This page explains how these systems work, how to navigate them effectively, and what to expect when seeking enrollment in high-demand courses.
 
----
 
 ## Understanding the Waitlist System
 
@@ -30,7 +29,6 @@ While waitlists generally operate on a first-come, first-served basis, certain p
 
 *Note: Priority status does not guarantee enrollment but may advance a student's position in the queue.*
 
----
 
 ## Strategies for Effective Waitlist Use
 
@@ -56,7 +54,6 @@ While waitlists generally operate on a first-come, first-served basis, certain p
 * **Respond promptly to override offers from instructors**
 * **Don't join multiple waitlists for different sections of the same course unless you can attend any of them**
 
----
 
 ## Waitlist Timelines and Deadlines
 
@@ -70,7 +67,6 @@ While waitlists generally operate on a first-come, first-served basis, certain p
 
 *Waitlists are not maintained after the add/drop period. Students still seeking entry must pursue course overrides directly.*
 
----
 
 ## Understanding Course Overrides
 
@@ -105,7 +101,6 @@ Overrides are unlikely to be granted for:
 * Avoiding difficult prerequisites
 * Late registration without compelling reasons
 
----
 
 ## How to Request an Override
 
@@ -137,7 +132,6 @@ Some departments have established specialized override procedures:
 
 *Check your department's website for specific instructions.*
 
----
 
 ## Frequently Asked Questions
 
@@ -159,7 +153,6 @@ A: Yes, you can join waitlists for multiple courses. However, we recommend not j
 **Q: If an instructor verbally tells me I can join the class, am I officially enrolled?**  
 A: No. Verbal permission must be followed by an official override form and registration process. You are not enrolled until you appear on the official class roster in the Student Portal.
 
----
 
 ## Tips from the Registrar
 
@@ -171,7 +164,6 @@ A: No. Verbal permission must be followed by an official override form and regis
 6. **Be professional and specific in override requests—explain exactly why you need the course**
 7. **If you no longer need a waitlisted course, please remove yourself to help other students**
 
----
 
 ## Waitlist Success Stories
 
@@ -179,7 +171,6 @@ A: No. Verbal permission must be followed by an official override form and regis
 
 *"I was waitlisted for Ontological Perspectives in Neuroscience, a critical prerequisite for my research interests. I prepared a strong override request explaining how the course connected to my thesis project. The instructor appreciated my clear academic rationale and granted the override even though the class was at capacity."* — James T., Graduate Student
 
----
 
 ## Department-Specific Waitlist Policies
 
@@ -203,7 +194,6 @@ A: No. Verbal permission must be followed by an official override form and regis
 * Requires program director approval for cross-program enrollment
 * Limited undergraduate enrollment determined after graduate registration
 
----
 
 ## Contact Information
 
@@ -221,7 +211,6 @@ Wisdom Hall, Room 105
 advising@tuos.edu  
 (555) 123-4569
 
----
 
 ## Helpful Resources
 
@@ -233,7 +222,6 @@ advising@tuos.edu
 * [Graduation Requirement Verification Tool](#)
 * [Department Contact Directory](#)
 
----
 
 *At The University of Ontological Science, we strive to create a fair and transparent system for managing course access. While we cannot guarantee placement in every desired course, our waitlist and override systems aim to prioritize academic need while maintaining the educational quality of our courses. We encourage students to work closely with advisors to develop both primary plans and alternatives that support timely degree progression.*
 

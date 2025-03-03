@@ -114,6 +114,5 @@ Phone: (555) 123-4567
 Email: certificates@tuos.edu  
 Office Hours: Monday-Friday, 9:00 AM - 5:00 PM
 
----
 
 *TUOS is committed to providing valuable, recognized credentials that reflect meaningful educational accomplishments. Our certification programs are regularly reviewed to ensure alignment with current professional standards and practices.*

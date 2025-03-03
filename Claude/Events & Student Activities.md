@@ -111,6 +111,5 @@ Contact us:
 - Phone: (555) 456-7890
 - Social Media: @TUOSstudentlife
 
----
 
 *"At TUOS, we believe that student activities are not mere diversions from academic work but vital extensions of the ontological inquiry that defines our university. Through engagement with community, creative expression, and collaborative exploration, students embody and extend the philosophical questions that animate their studies."* — Professor Eliza Kim, Faculty Advisor to Student Activities

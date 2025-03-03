@@ -127,6 +127,5 @@ If your family experiences significant financial changes after filing the FAFSA:
 
 **Virtual Appointments**: Available through the online scheduling system
 
----
 
 *"At TUOS, we believe that financial circumstances should not be a barrier to a transformative education. Our financial aid team is dedicated to working with students and families to make attending TUOS financially feasible, allowing students to focus on their intellectual growth and ontological exploration."* — Dr. Maria Lopez, Director of Financial Aid

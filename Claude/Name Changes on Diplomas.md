@@ -77,6 +77,5 @@ Phone: (555) 123-4567
 Email: namechanges@tuos.edu  
 Office Hours: Monday-Friday, 9:00 AM - 5:00 PM
 
----
 
 *TUOS is committed to inclusive practices that respect the dignity of all community members. This policy is regularly reviewed to ensure alignment with best practices in higher education.*

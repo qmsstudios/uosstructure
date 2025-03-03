@@ -129,6 +129,5 @@ Phone: (555) 123-4569
 Email: honors@tuos.edu  
 Office Hours: Monday-Friday, 9:00 AM - 5:00 PM
 
----
 
 *TUOS is committed to recognizing and celebrating the exceptional achievements of our students. Our honors and distinctions reflect our dedication to academic excellence and the advancement of knowledge.*

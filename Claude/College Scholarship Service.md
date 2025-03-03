@@ -114,6 +114,5 @@ TUOS has a commitment to meeting demonstrated financial need. If you have specia
 - **CSS Profile Workshops**: Offered October-February (schedule available online)
 - **Virtual Appointments**: Available through our online scheduling system
 
----
 
 *"At TUOS, we recognize that navigating financial aid applications can be complex. Remember that these applications are not merely administrative hurdles but essential tools that help us ensure that financial circumstances don't prevent talented students from accessing the transformative education we offer. Our financial aid team is committed to supporting you throughout this process and answering any questions you may have."* — Dr. Maria Lopez, Director of Financial Aid

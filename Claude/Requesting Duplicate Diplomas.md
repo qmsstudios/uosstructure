@@ -73,6 +73,5 @@ Phone: (555) 123-4567
 Email: registrar@tuos.edu  
 Office Hours: Monday-Friday, 9:00 AM - 5:00 PM
 
----
 
 *Note: Diploma replacement policies are subject to change. Please visit the Registrar's website for the most current information.*

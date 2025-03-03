@@ -4,7 +4,6 @@
 
 At The University of Ontological Science, we recognize that intellectual exploration may benefit from diverse evaluation approaches. Our Pass/Fail and alternative grading options offer students the opportunity to explore challenging courses, pursue intellectual curiosity beyond their comfort zones, and create a balanced academic experience while maintaining the rigorous standards that define a TUOS education.
 
----
 
 ## Pass/Fail Option
 
@@ -44,7 +43,6 @@ The Pass/Fail option allows students to take certain courses without the pressur
 | Summer (6-week) | End of the second week of classes | End of the third week of classes |
 | Winter (3-week) | End of the first week of classes | End of the second week of classes |
 
----
 
 ## Audit Option
 
@@ -64,7 +62,6 @@ The Audit option allows students to attend and participate in a course without r
 2. **Registration**: Submit the completed form to the Registrar's Office during the registration period or by the add/drop deadline
 3. **Confirmation**: Receive confirmation of audit status via university email
 
----
 
 ## Incomplete Grades
 
@@ -92,7 +89,6 @@ The Incomplete grade option provides flexibility when unforeseen circumstances p
 * **Expiration**: If work is not completed by the deadline, the default grade specified in the contract is assigned
 * **Extension**: In exceptional circumstances, one extension may be granted with appropriate approval
 
----
 
 ## Grade Appeals
 
@@ -113,7 +109,6 @@ Students who believe a final grade was assigned erroneously or inequitably may a
 4. **Committee Review**: If necessary, the Academic Standards Committee conducts a final review
 5. **Final Decision**: The committee's decision is final and will be communicated in writing
 
----
 
 ## Grading System Overview
 
@@ -156,7 +151,6 @@ Students who believe a final grade was assigned erroneously or inequitably may a
 * **IP (In Progress)**: Used for multi-semester courses or projects
 * **R (Repeat)**: Indicates a course has been repeated; only the most recent grade counts toward GPA
 
----
 
 ## Frequently Asked Questions
 
@@ -175,7 +169,6 @@ A: Yes, courses failed under the Pass/Fail option may be repeated either for a l
 **Q: Can I request an Incomplete if I'm failing a course?**  
 A: Generally, no. Incompletes are designed for students who are passing but cannot complete the course due to extenuating circumstances. If you're struggling academically, consult with your instructor and academic advisor about other options.
 
----
 
 ## Contact Information
 
@@ -193,6 +186,5 @@ Wisdom Hall, Room 105
 advising@tuos.edu  
 (555) 123-4569
 
----
 
 *At TUOS, we believe that meaningful education involves both structured evaluation and space for intellectual exploration. Our grading options reflect our commitment to academic excellence while providing flexibility that acknowledges the diverse paths of learning and the unique circumstances of each student's academic journey.*

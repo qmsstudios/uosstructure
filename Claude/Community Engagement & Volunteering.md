@@ -138,6 +138,5 @@ Contact us:
 - Website: community.tuos.edu
 - Social Media: @TUOSserves
 
----
 
 *"Engaging with our community isn't just about adding a line to your resume—it's about developing as a whole person and recognizing your ability to contribute to positive change. At TUOS, we believe that meaningful service experiences are an essential part of a well-rounded education and preparation for ethical citizenship."*

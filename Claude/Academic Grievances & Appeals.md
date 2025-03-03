@@ -4,7 +4,6 @@
 
 At The University of Ontological Science, we value intellectual rigor, academic integrity, and fair treatment of all community members. We recognize that disagreements and concerns may arise in the pursuit of knowledge and scholarly excellence. The academic grievance and appeal processes are designed to provide fair, transparent, and respectful resolution of academic disputes, ensuring that all members of our community have the opportunity to be heard while upholding the standards that define our academic mission.
 
----
 
 ## Types of Academic Grievances and Appeals
 
@@ -31,7 +30,6 @@ For concerns related to the provision or implementation of academic accommodatio
 ### Curriculum and Degree Requirement Appeals
 For requests to substitute or waive specific course or program requirements.
 
----
 
 ## Principles Guiding the Grievance and Appeal Process
 
@@ -51,7 +49,6 @@ All academic grievances and appeals at TUOS are handled according to these found
 
 * **Progressive Resolution**: Informal resolution is encouraged before formal processes are initiated.
 
----
 
 ## Grade Appeal Process
 
@@ -89,7 +86,6 @@ If informal resolution is unsuccessful, the student may initiate a formal appeal
 
 *Note: Deadlines may be extended in cases where documented extenuating circumstances exist.*
 
----
 
 ## Academic Integrity Violation Appeals
 
@@ -136,7 +132,6 @@ Students found responsible for academic integrity violations may appeal both the
 | Level 2 | Significant violations such as substantial plagiarism, using unauthorized materials during exams, or repeated Level 1 violations | Course failure, academic probation, educational interventions |
 | Level 3 | Severe violations such as identity fraud, complete plagiarism of major work, theft of exam materials, or multiple repeated violations | Suspension, expulsion, permanent notation on transcript |
 
----
 
 ## Academic Dismissal Appeals
 
@@ -171,7 +166,6 @@ Students who have been academically dismissed may appeal for reinstatement if th
    * If denied, a final appeal may be submitted to the Provost within **5 academic days**
    * Provost's decision is final and will be communicated within **10 academic days**
 
----
 
 ## Policy Exception Requests
 
@@ -197,7 +191,6 @@ Students seeking exceptions to academic policies due to extenuating circumstance
    * Appeals must present new information not previously considered
    * Dean's decision is final and communicated within **15 academic days**
 
----
 
 ## Academic Accommodations Disputes
 
@@ -219,7 +212,6 @@ Disputes regarding academic accommodations follow a specialized resolution proce
 
 *Note: Students may also file complaints with external agencies such as the Department of Education Office for Civil Rights.*
 
----
 
 ## Resources and Support
 
@@ -243,7 +235,6 @@ The University Writing Center can assist with drafting clear, effective statemen
 
 [Schedule a Writing Consultation](#)
 
----
 
 ## Frequently Asked Questions
 
@@ -262,7 +253,6 @@ A: Yes, students may bring an advisor or support person to any formal meetings o
 **Q: What happens if I miss a deadline for filing an appeal?**  
 A: Deadlines are strictly enforced to ensure timely resolution. However, exceptions may be granted in cases of documented extenuating circumstances that prevented timely filing. Requests for deadline extensions must be submitted in writing as soon as possible.
 
----
 
 ## Contact Information
 
@@ -285,7 +275,6 @@ Harmony Hall, Room 210
 accessibility@tuos.edu  
 (555) 123-4561
 
----
 
 ## Forms and Resources
 
@@ -298,6 +287,5 @@ accessibility@tuos.edu
 * [Academic Policies Handbook (PDF)](#)
 * [Student Rights and Responsibilities (PDF)](#)
 
----
 
 *The University of Ontological Science is committed to maintaining academic standards while ensuring fair treatment of all community members. Our grievance and appeal processes reflect our commitment to both academic integrity and procedural justice. We encourage students to seek informal resolution when possible, but recognize the importance of formal processes when necessary to address legitimate concerns.*

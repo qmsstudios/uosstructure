@@ -168,6 +168,5 @@ To maintain eligibility for financial aid, you must:
 - StudentAid.gov website
 - FAFSA4caster: Early aid estimator for future students
 
----
 
 *"At TUOS, we believe that understanding your financial aid offer is an essential part of making informed decisions about your education. Financial aid is not merely about affordability but about creating access to the transformative intellectual journey that defines the TUOS experience. We encourage you to engage actively with your financial aid package and to reach out to our advisors with any questions or concerns."* — Dr. Maria Lopez, Director of Financial Aid

@@ -162,6 +162,5 @@ Hours: Monday-Friday, 8:30am-5:00pm
 - Financial aid calculator to estimate your renewed aid
 - Document upload system for secure submission of forms
 
----
 
 *Renewing your financial aid each year is a critical step in maintaining the support you need to continue your education at TUOS. By submitting your renewal applications on time and keeping the Financial Aid Office informed of significant changes, you can ensure a smooth transition from year to year. Our financial aid counselors are ready to assist you throughout this process—don't hesitate to reach out with any questions.*

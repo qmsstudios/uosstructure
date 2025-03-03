@@ -4,7 +4,6 @@
 
 At The University of Ontological Science, we recognize that knowledge acquisition transcends institutional boundaries. Our credit transfer and evaluation process honors your previous academic achievements while ensuring the integrity and coherence of your TUOS degree. We aim to provide a transparent, equitable, and thorough evaluation of your prior learning as you integrate it into your intellectual journey with us.
 
----
 
 ## Transfer Credit Principles
 
@@ -16,7 +15,6 @@ TUOS evaluates transfer credits based on these foundational principles:
 * **Performance**: Minimum grade requirements ensure transfer credits reflect successful learning
 * **Degree Integrity**: Residency requirements preserve the distinctive character of a TUOS degree
 
----
 
 ## Eligibility Requirements
 
@@ -42,7 +40,6 @@ Credits must be earned from:
 * **Graduate Students**: Maximum of 9 transfer credits for a master's degree (one-quarter of the 36 required credits)
 * **Doctoral Students**: Maximum of 12 transfer credits, subject to program approval
 
----
 
 ## Types of Transfer Credit
 
@@ -74,7 +71,6 @@ Course-by-course evaluation comparing content, learning outcomes, and credit hou
 * Maximum of 15 undergraduate credits available through this pathway
 * Evaluation fee: $250 per portfolio submission
 
----
 
 ## Transfer Credit Evaluation Process
 
@@ -132,7 +128,6 @@ Approved credits are designated as:
 
 [Download Transfer Credit Appeal Form](#)
 
----
 
 ## Special Transfer Programs and Articulation Agreements
 
@@ -168,7 +163,6 @@ Structured programs allowing students to complete:
 * Seamless transition between institutions
 * Cost-effective degree completion
 
----
 
 ## Timeline and Deadlines
 
@@ -183,7 +177,6 @@ Structured programs allowing students to complete:
 
 *Note: Delays may occur during peak admission periods. Early submission is strongly encouraged.*
 
----
 
 ## Transfer Credit Policies by Academic Area
 
@@ -207,7 +200,6 @@ Structured programs allowing students to complete:
 * Clinical experiences rarely transferable without equivalent standards
 * Technical courses evaluated for theoretical foundations
 
----
 
 ## Frequently Asked Questions
 
@@ -229,7 +221,6 @@ A: Transfer credits appear with the course title, credits awarded, and a "TR" gr
 **Q: What if a course I took covers the same material as two different TUOS courses?**  
 A: In some cases, a single transfer course may satisfy multiple TUOS requirements if the content coverage is sufficient. This determination is made during the faculty review process.
 
----
 
 ## Transfer Student Resources
 
@@ -260,7 +251,6 @@ Student organization focused on transfer student community:
 
 [Join the Transfer Student Association](#)
 
----
 
 ## Contact Information
 
@@ -279,6 +269,5 @@ Extended hours (until 7:00 PM) on Wednesdays
 * Professional Programs: Dr. Sophia Williams, s.williams@tuos.edu
 * International Credentials: Ms. Amara Patel, a.patel@tuos.edu
 
----
 
 *At TUOS, we recognize that knowledge transcends institutional boundaries. Our transfer credit philosophy honors your previous academic achievements while ensuring the distinctive character and intellectual integrity of your TUOS degree. We are committed to a thoughtful evaluation process that respects your prior learning while preparing you for the distinctive ontological inquiry that defines our academic community.*

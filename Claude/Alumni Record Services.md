@@ -133,6 +133,5 @@ Email: alumnirecords@tuos.edu
 Office Hours: Monday-Friday, 9:00 AM - 5:00 PM  
 Alumni Portal: alumni.tuos.edu
 
----
 
 *Your connection to TUOS continues long after graduation. We are committed to providing the records services you need to leverage your TUOS education throughout your lifetime.*

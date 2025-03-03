@@ -4,7 +4,6 @@
 
 At The University of Ontological Science, we recognize that thoughtful course selection is an integral part of your educational journey. Sometimes, however, circumstances necessitate changes to your academic schedule. The add/drop and withdrawal processes provide flexibility while maintaining academic integrity and ensuring you can make informed decisions about your course enrollment. Understanding these deadlines and procedures is essential for successfully navigating your academic path at TUOS.
 
----
 
 ## Key Dates for the Current Academic Year
 
@@ -36,7 +35,6 @@ At The University of Ontological Science, we recognize that thoughtful course se
 
 *For the most up-to-date information, always refer to the [Official Academic Calendar](#).*
 
----
 
 ## Understanding Enrollment Actions
 
@@ -96,7 +94,6 @@ The Late Withdrawal period extends from the regular withdrawal deadline until ne
 * Military deployment
 * Other significant life event beyond your control
 
----
 
 ## How to Add, Drop, or Withdraw from Courses
 
@@ -136,7 +133,6 @@ The Late Withdrawal period extends from the regular withdrawal deadline until ne
 5. Submit the complete petition package to the Academic Standards Committee
 6. Check your university email for the committee's decision (typically within 5-7 business days)
 
----
 
 ## Special Enrollment Situations
 
@@ -187,7 +183,6 @@ For students called to active military duty:
 * Non-punitive withdrawals that don't affect GPA
 * Guaranteed readmission upon return from service
 
----
 
 ## Impact on Academic Standing and Financial Aid
 
@@ -209,7 +204,6 @@ For students called to active military duty:
 
 [Schedule a Financial Aid Consultation](#)
 
----
 
 ## Considerations Before Changing Your Schedule
 
@@ -236,7 +230,6 @@ For students called to active military duty:
 
 [Explore Academic Support Services](#)
 
----
 
 ## Frequently Asked Questions
 
@@ -258,7 +251,6 @@ A: No refund is provided for course withdrawals after the add/drop period. You r
 **Q: How do I know if withdrawing is the right decision?**  
 A: Schedule a meeting with your academic advisor to discuss your specific situation. They can help you weigh the pros and cons of withdrawing versus continuing and connect you with appropriate resources.
 
----
 
 ## Contact Information
 
@@ -282,7 +274,6 @@ Student Center, Room 202
 deanofstudents@tuos.edu  
 (555) 123-4590
 
----
 
 ## Resources
 
@@ -296,6 +287,5 @@ deanofstudents@tuos.edu
 * [Financial Aid Impact Worksheet (PDF)](#)
 * [Academic Support Services Directory](#)
 
----
 
 *At TUOS, we understand that academic journeys rarely follow a straight line. Our add/drop and withdrawal policies are designed to provide flexibility while maintaining academic integrity. We encourage you to make thoughtful decisions about your course enrollment and to seek guidance from university resources when navigating changes to your academic schedule. Remember that each enrollment decision may have both immediate and long-term implications for your academic progress, financial aid, and degree completion.*

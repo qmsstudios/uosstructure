@@ -144,6 +144,5 @@ Phone: (555) 123-4568
 Email: transcripts@tuos.edu  
 Office Hours: Monday-Friday, 9:00 AM - 5:00 PM
 
----
 
 *Your academic record is an important part of your professional identity. TUOS is committed to providing secure, efficient transcript services to help you share your academic achievements with the world.*

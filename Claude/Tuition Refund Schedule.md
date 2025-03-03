@@ -4,7 +4,6 @@
 
 At The University of Ontological Science, we understand that circumstances may necessitate changes to your academic plans after enrollment. Our tuition refund schedule is designed to provide clear guidelines regarding financial adjustments when students withdraw from courses or take leaves of absence. TUOS is committed to transparent financial policies that balance institutional responsibilities with student needs during academic transitions.
 
----
 
 ## General Refund Policy Principles
 
@@ -14,7 +13,6 @@ At The University of Ontological Science, we understand that circumstances may n
 * Different refund schedules apply depending on the academic term (Fall/Spring, Summer, Winter) and program type
 * Financial aid recipients should consult with the Financial Aid Office before withdrawing, as refunds may affect aid eligibility
 
----
 
 ## Fall and Spring Semester Refund Schedule
 
@@ -30,7 +28,6 @@ At The University of Ontological Science, we understand that circumstances may n
 
 *The academic calendar for each semester specifies the exact dates corresponding to each refund period.*
 
----
 
 ## Summer Session Refund Schedule
 
@@ -54,7 +51,6 @@ At The University of Ontological Science, we understand that circumstances may n
 | Within first week | 50% |
 | After first week | No refund |
 
----
 
 ## Winter Session Refund Schedule
 
@@ -66,7 +62,6 @@ At The University of Ontological Science, we understand that circumstances may n
 | Within first 3 calendar days | 50% |
 | After third day | No refund |
 
----
 
 ## Graduate and Professional Program Refund Schedules
 
@@ -92,7 +87,6 @@ Graduate programs with alternative formats or schedules (including evening, week
 
 *Graduate students should refer to their program handbook for program-specific policies.*
 
----
 
 ## Special Circumstances and Exceptions
 
@@ -117,7 +111,6 @@ In rare cases involving extraordinary circumstances beyond the student's control
 * Appeals reviewed by the Tuition Appeal Committee
 * Decisions typically provided within 15 business days
 
----
 
 ## Non-Refundable Fees
 
@@ -131,7 +124,6 @@ The following fees are non-refundable regardless of withdrawal timing:
 * Transcript request fees
 * Technology/lab/studio fees (after the first week of classes)
 
----
 
 ## Refund Disbursement Process
 
@@ -152,7 +144,6 @@ For students with financial aid, refunds follow this sequence:
 4. Private/external scholarships
 5. Student/parent payments
 
----
 
 ## Impact on Financial Aid
 
@@ -167,7 +158,6 @@ All financial aid recipients should consult with a Financial Aid Counselor befor
 
 [Schedule a Financial Aid Consultation](#)
 
----
 
 ## Important Deadlines for the Current Academic Year
 
@@ -190,7 +180,6 @@ All financial aid recipients should consult with a Financial Aid Counselor befor
 ### Summer Sessions 2024
 *See detailed academic calendar for session-specific dates*
 
----
 
 ## Frequently Asked Questions
 
@@ -209,7 +198,6 @@ A: For withdrawals after the refund period, you may submit an appeal through the
 **Q: How do refunds work for study abroad programs?**  
 A: Study abroad programs follow program-specific refund policies, which are often more restrictive due to advance payments to partner institutions. These policies are provided during the application process.
 
----
 
 ## Contact Information
 
@@ -232,7 +220,6 @@ Academic Building, Room 203
 registrar@tuos.edu  
 (555) 123-4567
 
----
 
 ## Downloadable Resources
 
@@ -242,7 +229,6 @@ registrar@tuos.edu
 * [Financial Aid Adjustment Worksheet (PDF)](#)
 * [Direct Deposit Authorization Form (PDF)](#)
 
----
 
 *TUOS reserves the right to amend the refund policy at any time. Any changes will be posted with at least 30 days' notice before taking effect. This refund schedule was last updated on August 1, 2023.*
 

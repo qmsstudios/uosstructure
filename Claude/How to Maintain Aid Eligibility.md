@@ -159,6 +159,5 @@ Phone: (555) 123-4000
 ### SAP Calculator
 Available in your student portal to help you track your progress toward meeting SAP requirements.
 
----
 
 *Meeting financial aid eligibility requirements ensures that you can continue to receive the support you need throughout your academic journey at TUOS. If you ever have questions about your status or need assistance meeting these standards, remember that our Financial Aid staff is here to help you navigate any challenges. Your academic success is our priority.*

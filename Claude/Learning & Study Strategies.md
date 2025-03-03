@@ -76,6 +76,5 @@ The Learning Strategy Center is located in the Plato Building, Room 302.
 
 To schedule an appointment with a learning specialist, visit learning.tuos.edu or email learning.strategies@tuos.edu.
 
----
 
 *"The most valuable skill we can cultivate is not the ability to memorize information, but rather the capacity to engage with ideas in ways that transform both the knowledge and the knower."* — Dr. Samuel Chen, Director of Learning Sciences

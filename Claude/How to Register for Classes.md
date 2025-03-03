@@ -4,7 +4,6 @@
 
 Registration for classes at The University of Ontological Science represents more than a mere administrative process—it is an opportunity to thoughtfully design your intellectual path and engage with the transformative educational experience that defines TUOS. This guide will walk you through each step of the registration process, from preparation to confirmation, ensuring you can navigate the system with confidence and purpose.
 
----
 
 ## Before Registration: Academic Planning
 
@@ -47,7 +46,6 @@ Check your account for potential registration holds:
 
 [View and Resolve Account Holds](#)
 
----
 
 ## Registration Timeline
 
@@ -72,7 +70,6 @@ Check your account for potential registration holds:
 
 [View Complete Academic Calendar](#)
 
----
 
 ## Registration Process
 
@@ -131,7 +128,6 @@ Registration is not complete until financial obligations are satisfied:
 
 [View Tuition Payment Options](#)
 
----
 
 ## Special Registration Situations
 
@@ -174,7 +170,6 @@ Courses offered under multiple departments require you to choose which departmen
 * Select the department that best aligns with your program requirements
 * Consult with your advisor if unsure which designation to choose
 
----
 
 ## Registration Tools and Resources
 
@@ -190,7 +185,6 @@ The [Requirement Checker](#) tool allows you to see how potential courses satisf
 ### Mobile Registration
 Download the TUOS Mobile App for on-the-go registration access and status updates.
 
----
 
 ## After Registration
 
@@ -218,7 +212,6 @@ If you need to adjust your schedule after registration:
 * **Course Withdrawal**: Results in a "W" grade after the add/drop period
 * **Section Changes**: May be possible for the same course with different meeting times
 
----
 
 ## Frequently Asked Questions
 
@@ -237,7 +230,6 @@ A: Generally, no. Outstanding balances typically generate a financial hold that 
 **Q: How do I register for a course that has a time conflict with another course?**  
 A: Time conflicts cannot be resolved through the online registration system. If absolutely necessary, you must obtain permission from both instructors using the [Schedule Conflict Resolution Form](#) and submit it to the Registrar.
 
----
 
 ## Registration Assistance
 
@@ -263,7 +255,6 @@ Wisdom Hall, Room 105
 advising@tuos.edu  
 (555) 123-4570
 
----
 
 ## Registration Workshops
 
@@ -276,6 +267,5 @@ Throughout the pre-registration period, TUOS offers workshops to help you naviga
 
 [View Workshop Schedule and Register](#)
 
----
 
 *At TUOS, we view course registration as an integral part of your intellectual journey—a moment to reflect on your academic path and make mindful choices about your educational experience. The courses you select are not merely requirements to fulfill, but opportunities to engage with profound questions about knowledge, existence, and the human experience. We encourage you to approach registration with purpose and openness to the transformative potential of each course you choose.*

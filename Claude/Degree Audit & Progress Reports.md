@@ -4,7 +4,6 @@
 
 At The University of Ontological Science, we view the path to your degree as a meaningful intellectual journey rather than merely a checklist of requirements. While your educational experience transcends any system of measurement, our Degree Audit and Progress Reports provide valuable tools to help you navigate your academic path with clarity and purpose. These tools allow you to track your progress, make informed decisions about course selection, and ensure you're moving steadily toward the completion of your degree requirements.
 
----
 
 ## Understanding Your Degree Audit
 
@@ -27,7 +26,6 @@ A Degree Audit is a comprehensive evaluation of your academic progress that matc
 
 *Tip: We recommend reviewing your Degree Audit at least once per semester, ideally before registration for the upcoming term.*
 
----
 
 ## Reading Your Degree Audit
 
@@ -81,7 +79,6 @@ Visual indicators help you quickly assess your progress:
 
 [View Sample Degree Audit](#)
 
----
 
 ## Types of Progress Reports
 
@@ -123,7 +120,6 @@ This tool helps you:
 * Understand how current coursework will impact your cumulative GPA
 * Assess progress toward Latin honors or academic standing requirements
 
----
 
 ## Specialized Audit Features
 
@@ -155,7 +151,6 @@ For students in honors programs or pursuing graduation with distinction, the aud
 * GPA thresholds for Latin honors
 * Special requirements for departmental honors
 
----
 
 ## Using Your Degree Audit Effectively
 
@@ -188,7 +183,6 @@ As you approach graduation:
 
 *Note: While the Degree Audit is a valuable tool, it is not the official certification of your graduation eligibility. Final graduation clearance requires formal review by the Registrar's Office.*
 
----
 
 ## Common Questions and Troubleshooting
 
@@ -216,7 +210,6 @@ If you notice discrepancies in your audit, please follow these steps:
 | Course counted twice or not at all | May involve special rule for cross-listed or repeatable courses |
 | Missing prerequisite notification | Some prerequisites are enforced at registration, not in the audit |
 
----
 
 ## Support Resources
 
@@ -249,7 +242,6 @@ Access self-paced learning resources:
 * [Guide: Planning Your Path to Graduation](#)
 * [FAQ: Degree Audit Troubleshooting](#)
 
----
 
 ## Program-Specific Audit Information
 
@@ -285,7 +277,6 @@ Different academic programs may have unique features in their Degree Audits:
 
 *Consult your program handbook for detailed explanation of program-specific audit features.*
 
----
 
 ## Degree Audit for Special Populations
 
@@ -321,7 +312,6 @@ If you have an individualized or interdisciplinary program:
 * Faculty-approved exceptions are noted
 * Program integration requirements are highlighted
 
----
 
 ## Frequently Asked Questions
 
@@ -343,7 +333,6 @@ A: No, the What-If tool is for planning purposes only. You must still formally d
 **Q: Does my audit show if I'm meeting financial aid satisfactory academic progress requirements?**  
 A: The degree audit focuses on academic requirements rather than financial aid eligibility. For information about satisfactory academic progress for financial aid, please consult the Financial Aid Office.
 
----
 
 ## Contact Information
 
@@ -366,7 +355,6 @@ support@tuos.edu
 (555) 123-4590  
 Available Monday-Friday, 8:00 AM - 6:00 PM
 
----
 
 *At The University of Ontological Science, we view your academic progress as more than a collection of completed requirements. Your degree journey represents intellectual growth, philosophical development, and the cultivation of a unique perspective on fundamental questions of existence and knowledge. While the Degree Audit provides a structured way to track your formal progress, we encourage you to reflect regularly on how your courses interconnect and contribute to your holistic understanding of your field and its place in the broader intellectual landscape.*
 

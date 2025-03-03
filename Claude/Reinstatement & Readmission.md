@@ -4,7 +4,6 @@
 
 At The University of Ontological Science, we understand that academic journeys are rarely linear. Life circumstances, personal growth, and various challenges may lead students to temporarily step away from their studies. We welcome students seeking to return and continue their intellectual development with us.
 
----
 
 ## Reinstatement
 
@@ -28,7 +27,6 @@ Reinstatement applies to students who have been away from TUOS due to academic d
 5. **Review**: Applications are reviewed by the Academic Standards Committee on a rolling basis
 6. **Decision**: You will be notified of the committee's decision within 3 weeks of submission
 
----
 
 ## Readmission
 
@@ -46,7 +44,6 @@ Readmission applies to students in good academic standing who voluntarily withdr
 4. **Department Consultation**: Meet with your department chair or program director to update your academic plan
 5. **Registration**: Once readmitted, work with your academic advisor to register for appropriate courses
 
----
 
 ## Important Deadlines
 
@@ -58,7 +55,6 @@ Readmission applies to students in good academic standing who voluntarily withdr
 
 *Note: Applications received after the deadline will be considered on a space-available basis.*
 
----
 
 ## Academic Fresh Start Policy
 
@@ -66,7 +62,6 @@ Students returning after an absence of five or more years may petition for Acade
 
 [Learn More About Academic Fresh Start](#)
 
----
 
 ## Frequently Asked Questions
 
@@ -82,7 +77,6 @@ A: Students seeking reinstatement or readmission must reapply for financial aid.
 **Q: What if my previous academic issues were related to health or personal circumstances?**  
 A: We encourage you to provide relevant documentation and explanation in your personal statement. TUOS considers the full context of each student's situation during the review process.
 
----
 
 ## Contact Information
 

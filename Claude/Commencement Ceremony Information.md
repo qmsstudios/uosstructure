@@ -130,6 +130,5 @@ Phone: (555) 123-4570
 Email: commencement@tuos.edu  
 Website: www.tuos.edu/commencement
 
----
 
 *Your commencement represents both an ending and a beginning. At TUOS, we honor not just what you have learned, but who you have become through your intellectual journey with us.*

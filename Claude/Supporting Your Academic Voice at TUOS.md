@@ -48,6 +48,5 @@ To schedule an appointment, visit our online booking system through the TUOS Por
 
 Our consultants include faculty members, graduate students, and writing professionals with expertise across diverse disciplines. All consultants receive extensive training in communication pedagogy and ontological approaches to knowledge creation.
 
----
 
 *"The Writing & Communication Center transformed my relationship with academic writing. My consultant helped me see that clarifying my writing was actually clarifying my thinking about fundamental questions of being and knowledge."* — Maya Chen, PhD Candidate in Ontological Phenomenology
