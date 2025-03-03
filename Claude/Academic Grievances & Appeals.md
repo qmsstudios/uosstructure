@@ -4,7 +4,6 @@
 
 At The University of Ontological Science, we value intellectual rigor, academic integrity, and fair treatment of all community members. We recognize that disagreements and concerns may arise in the pursuit of knowledge and scholarly excellence. The academic grievance and appeal processes are designed to provide fair, transparent, and respectful resolution of academic disputes, ensuring that all members of our community have the opportunity to be heard while upholding the standards that define our academic mission.
 
-
 ## Types of Academic Grievances and Appeals
 
 TUOS provides structured processes for addressing various academic concerns:
